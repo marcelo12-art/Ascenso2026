@@ -152,5 +152,314 @@
     ],
     "correcta": 0,
     "explicacion": "El artículo 79 del Reglamento del Escalafón Nacional establece que los servicios prestados por maestros normalistas en cargos administrativos del ramo de educación son válidos, para efectos del cómputo de antigüedad, tanto para la categorización como para la jubilación."
+  },
+
+  {
+    "id": 1086,
+    "pdf": "Escalafón Nacional del Servicio de Educación",
+    "unidad": "Finalidades del Escalafón",
+    "pagina": 1,
+    "pregunta": "El Escalafón Nacional del Servicio de Educación determina las normas que rigen:",
+    "opciones": [
+      "Las promociones de categoría y los ascensos jerárquicos.",
+      "La elaboración de planes y programas educativos nacionales.",
+      "La creación de nuevas unidades educativas fiscales y privadas.",
+      "La administración exclusiva de recursos económicos del sistema educativo."
+    ],
+    "correcta": 0,
+    "explicacion": "El artículo 2, inciso c), del Escalafón Nacional del Servicio de Educación establece como una de sus finalidades determinar las normas que rigen las promociones de categoría y los ascensos jerárquicos dentro de la carrera docente y administrativa."
+  },
+
+  {
+    "id": 1277,
+    "pdf": "Escalafón Nacional del Servicio de Educación",
+    "unidad": "Finalidades del Escalafón",
+    "pagina": 1,
+    "pregunta": "El Escalafón Nacional del Servicio de Educación, entre sus finalidades, establece dos escalas orientadas al desarrollo de la carrera docente y administrativa. ¿Cuáles son estas dos escalas?",
+    "opciones": [
+      "La Escala de Categoría y la Escala Jerárquica.",
+      "La Escala Salarial y la Escala Administrativa.",
+      "La Escala Profesional y la Escala Académica.",
+      "La Escala Docente y la Escala Institucional."
+    ],
+    "correcta": 0,
+    "explicacion": "El artículo 2, inciso b), del Escalafón Nacional del Servicio de Educación establece como finalidad fijar la Escala de Categoría y la Escala Jerárquica para el desarrollo de la carrera docente y administrativa."
+  },
+
+  {
+    "id": 1694,
+    "pdf": "Escalafón Nacional del Servicio de Educación",
+    "unidad": "Definición del Escalafón",
+    "pagina": 1,
+    "pregunta": "¿Cuál de las siguientes definiciones describe con precisión al Escalafón Nacional del Servicio de Educación?",
+    "opciones": [
+      "Es el registro sistemático, permanente y centralizado, de los datos personales y profesionales referentes a los maestros y funcionarios de servicio educativo.",
+      "Es el conjunto de normas destinadas únicamente a regular los salarios y beneficios económicos de los maestros.",
+      "Es el sistema encargado exclusivamente de evaluar el rendimiento académico de los estudiantes.",
+      "Es el reglamento que establece solamente los requisitos para el ingreso de nuevos docentes al sistema educativo."
+    ],
+    "correcta": 0,
+    "explicacion": "El artículo 1 del Escalafón Nacional del Servicio de Educación define al Escalafón como el registro sistemático, permanente y centralizado de los datos personales y profesionales referentes a los maestros y funcionarios del servicio educativo."
+  },
+
+  {
+    "id": 1756,
+    "pdf": "Escalafón Nacional del Servicio de Educación",
+    "unidad": "Acumulación de cargos",
+    "pagina": 10,
+    "pregunta": "Los maestros que no tengan acumulación y desempeñen solamente un cargo principal en cualquiera de los ciclos del sistema escolar fiscal, ¿en qué tipo de instituciones pueden atender otras actividades de horario compatible?",
+    "opciones": [
+      "En instituciones autárquicas, semiautárquicas o privadas, no pudiendo ser funcionarios de la administración pública o municipal.",
+      "En cualquier institución pública o privada sin ninguna restricción administrativa.",
+      "Únicamente en instituciones fiscales dependientes del Ministerio de Educación.",
+      "En instituciones municipales y públicas siempre que tengan autorización del director de la unidad educativa."
+    ],
+    "correcta": 0,
+    "explicacion": "El artículo 67 del Escalafón Nacional del Servicio de Educación establece que los maestros que no tengan acumulación y desempeñen solamente un cargo principal pueden atender otras actividades de horario compatible en instituciones autárquicas, semiautárquicas o privadas, pero no pueden ser funcionarios de la administración pública o municipal."
+  },
+
+  {
+    "id": 1780,
+    "pdf": "Escalafón Nacional del Servicio de Educación",
+    "unidad": "Carrera docente y administrativa",
+    "pagina": 3,
+    "pregunta": "¿En cuántas y en qué proyecciones se desarrolla la carrera docente y la administrativa en el Servicio de Educación?",
+    "opciones": [
+      "En dos proyecciones complementarias: los ascensos de jerarquía y las promociones de categoría.",
+      "En tres proyecciones: formación profesional, evaluación docente y ascenso salarial.",
+      "En una sola proyección basada únicamente en la antigüedad del maestro.",
+      "En cuatro proyecciones: ingreso, capacitación, evaluación y jubilación."
+    ],
+    "correcta": 0,
+    "explicacion": "El artículo 18 del Escalafón Nacional del Servicio de Educación establece que la carrera docente y administrativa se desarrolla en dos proyecciones complementarias: los ascensos de jerarquía y las promociones de categoría."
+  },
+  {
+    "id": 1795,
+    "pdf": "Reglamento de Faltas y Sanciones",
+    "unidad": "Faltas graves",
+    "pagina": 10,
+    "pregunta": "¿Cuál de las siguientes conductas cometidas por una maestra o maestro en ejercicio de sus funciones está tipificada como Falta Grave?",
+    "opciones": [
+      "El empleo de los castigos corporales o psicológicos contra la dignidad del alumno.",
+      "El incumplimiento ocasional de actividades administrativas menores.",
+      "La ausencia justificada por motivos personales debidamente acreditados.",
+      "La participación en actividades de actualización y formación docente."
+    ],
+    "correcta": 0,
+    "explicacion": "El artículo 10, inciso p), del Reglamento de Faltas y Sanciones del Magisterio establece como falta grave el empleo de castigos corporales o psicológicos contra la dignidad del alumno, debido a que vulnera sus derechos y afecta la integridad física y emocional dentro del ámbito educativo."
+  },
+
+  {
+    "id": 2193,
+    "pdf": "Escalafón Nacional del Servicio de Educación",
+    "unidad": "Acumulación",
+    "pagina": 9,
+    "pregunta": "¿En qué consiste la acumulación según el Reglamento del Escalafón Nacional DS 4688?",
+    "opciones": [
+      "En el desempeño de un cargo principal y de otro cargo docente.",
+      "En el desempeño simultáneo de dos cargos administrativos dentro del servicio educativo.",
+      "En la asignación de dos categorías docentes por los años de servicio acumulados.",
+      "En el ejercicio de funciones docentes y administrativas dentro de una misma jornada laboral."
+    ],
+    "correcta": 0,
+    "explicacion": "El artículo 59 del Reglamento del Escalafón Nacional del Servicio de Educación establece que la acumulación consiste en el desempeño de un cargo principal y de otro cargo docente, bajo las condiciones establecidas por la normativa."
+  },
+
+  {
+    "id": 2236,
+    "pdf": "Escalafón Nacional del Servicio de Educación",
+    "unidad": "Cómputo de servicios",
+    "pagina": 5,
+    "pregunta": "De acuerdo al Escalafón Nacional del Servicio de Educación, ¿cómo se computan los meses de vacaciones de los maestros que hacen rendir exámenes?",
+    "opciones": [
+      "Se computan como parte del trimestre correspondiente.",
+      "No se computan como tiempo de servicio docente.",
+      "Se computan como un período adicional independiente al año escolar.",
+      "Se computan únicamente cuando el maestro realiza funciones administrativas."
+    ],
+    "correcta": 0,
+    "explicacion": "El artículo 27 del Escalafón Nacional del Servicio de Educación establece que los meses de vacaciones de los maestros que hacen rendir exámenes se computan como parte del trimestre correspondiente para efectos del servicio educativo."
+  },
+
+  {
+    "id": 2320,
+    "pdf": "Escalafón Nacional del Servicio de Educación",
+    "unidad": "Beneficios sociales y jubilación",
+    "pagina": 10,
+    "pregunta": "¿Qué componente del haber percibido por los maestros y funcionarios administrativos se toma en cuenta para los efectos de jubilación, aguinaldo y todos los beneficios sociales?",
+    "opciones": [
+      "Las asignaciones por categoría.",
+      "Los bonos extraordinarios otorgados durante la gestión.",
+      "Las horas adicionales de trabajo no reconocidas en planilla.",
+      "Los incentivos económicos temporales establecidos por las autoridades educativas."
+    ],
+    "correcta": 0,
+    "explicacion": "El artículo 78 del Escalafón Nacional del Servicio de Educación establece que las asignaciones por categoría percibidas por los maestros y funcionarios administrativos se toman en cuenta para los efectos de jubilación, aguinaldo y todos los beneficios sociales correspondientes."
+  },
+
+  {
+    "id": 2453,
+    "pdf": "Escalafón Nacional del Servicio de Educación",
+    "unidad": "Inadmisibilidad para el ejercicio de la docencia",
+    "pagina": 2,
+    "pregunta": "El Escalafón Nacional del Servicio de Educación establece expresamente causales de inadmisibilidad para el ejercicio de la docencia, ¿a partir de qué edad se configuraría la causal de inadmisibilidad?",
+    "opciones": [
+      "A partir de los 60 años.",
+      "A partir de los 55 años.",
+      "A partir de los 65 años.",
+      "A partir de los 70 años."
+    ],
+    "correcta": 0,
+    "explicacion": "El artículo 11, inciso b), del Escalafón Nacional del Servicio de Educación establece como causal de inadmisibilidad para el ejercicio de la docencia la edad de 60 años cumplidos."
+  },
+
+  {
+    "id": 2454,
+    "pdf": "Escalafón Nacional del Servicio de Educación",
+    "unidad": "Ascensos de categoría",
+    "pagina": 11,
+    "pregunta": "¿A partir de qué gestión se calificaron los ascensos de categoría según el sistema establecido por el Reglamento del Escalafón Nacional del Servicio de Educación?",
+    "opciones": [
+      "A partir de enero de 1958.",
+      "A partir de enero de 1960.",
+      "A partir de enero de 1955.",
+      "A partir de enero de 1962."
+    ],
+    "correcta": 0,
+    "explicacion": "El artículo 85 del Escalafón Nacional del Servicio de Educación establece que los ascensos de categoría, conforme al sistema determinado por el reglamento, se calificaron a partir de enero de 1958."
+  },
+
+  {
+    "id": 2477,
+    "pdf": "Escalafón Nacional del Servicio de Educación",
+    "unidad": "Servicios en zonas fronterizas",
+    "pagina": 5,
+    "pregunta": "Los maestros titulares que no siendo oriundos del lugar presten servicios en zonas declaradas fronterizas durante 4 años, ¿a cuántos años de antigüedad equivale dicho período para efectos de jubilación, calificación de méritos y promoción de categoría?",
+    "opciones": ["A 6 años.", "A 4 años.", "A 8 años.", "A 10 años."],
+    "correcta": 0,
+    "explicacion": "El artículo 30 del Escalafón Nacional del Servicio de Educación establece que los maestros titulares que no sean oriundos del lugar y presten servicios en zonas declaradas fronterizas durante cuatro años, tienen derecho al cómputo equivalente a seis años de antigüedad para efectos de jubilación, calificación de méritos y promoción de categoría."
+  },
+
+  {
+    "id": 2478,
+    "pdf": "Escalafón Nacional del Servicio de Educación",
+    "unidad": "Servicios en zonas fronterizas",
+    "pagina": 5,
+    "pregunta": "Un maestro normalista, que no es oriundo del lugar, presta 2 años de servicio continuo en una zona declarada fronteriza, ¿a cuántos años de antigüedad equivalen esos años de servicio y para qué efectos se reconoce dicho beneficio?",
+    "opciones": [
+      "Equivale a 4 años de antigüedad para efectos de jubilación, calificación de méritos y promoción de categoría.",
+      "Equivale a 2 años de antigüedad únicamente para efectos administrativos.",
+      "Equivale a 6 años de antigüedad para efectos salariales y bonificaciones.",
+      "Equivale a 3 años de antigüedad solamente para promoción de categoría."
+    ],
+    "correcta": 0,
+    "explicacion": "El artículo 29 del Escalafón Nacional del Servicio de Educación establece que los maestros normalistas que no sean oriundos del lugar y presten servicios continuos en zonas declaradas fronterizas reciben un cómputo especial de antigüedad. Dos años de servicio continuo equivalen a cuatro años de antigüedad para efectos de jubilación, calificación de méritos y promoción de categoría."
+  },
+
+  {
+    "id": 2480,
+    "pdf": "Escalafón Nacional del Servicio de Educación",
+    "unidad": "Apelación de calificaciones",
+    "pagina": 7,
+    "pregunta": "¿Dentro de qué término puede apelar el maestro ante la Comisión Nacional las calificaciones asignadas por la Comisión Distrital?",
+    "opciones": [
+      "Dentro de los 10 días a partir de su notificación.",
+      "Dentro de los 5 días a partir de su notificación.",
+      "Dentro de los 15 días a partir de su notificación.",
+      "Dentro de los 30 días a partir de su notificación."
+    ],
+    "correcta": 0,
+    "explicacion": "El artículo 50 del Escalafón Nacional del Servicio de Educación establece que el maestro puede apelar ante la Comisión Nacional las calificaciones asignadas por la Comisión Distrital dentro del término de 10 días a partir de su notificación."
+  },
+
+  {
+    "id": 2481,
+    "pdf": "Escalafón Nacional del Servicio de Educación",
+    "unidad": "Incorporación y exámenes de capacidad",
+    "pagina": 3,
+    "pregunta": "¿A partir de cuántos años de servicios, el funcionario administrativo del ramo de educación que pase a prestar funciones docentes está obligado a someterse a los exámenes para interinos y titulares a fin de mantener su categoría?",
+    "opciones": [
+      "A partir de 10 años de servicio.",
+      "A partir de 5 años de servicio.",
+      "A partir de 15 años de servicio.",
+      "A partir de 20 años de servicio."
+    ],
+    "correcta": 0,
+    "explicacion": "El artículo 17 del Escalafón Nacional del Servicio de Educación establece que el funcionario administrativo del ramo de educación que pase a prestar funciones docentes, después de 10 años de servicio, debe someterse a los exámenes correspondientes para interinos y titulares con el objetivo de mantener su categoría."
+  },
+
+  {
+    "id": 2482,
+    "pdf": "Escalafón Nacional del Servicio de Educación",
+    "unidad": "Incorporación definitiva a la carrera docente",
+    "pagina": 3,
+    "pregunta": "De acuerdo al Escalafón Nacional del Magisterio, ¿cuántos años de servicio deben cumplir los maestros titulares para estar obligados a rendir el examen de capacidad que habilita su incorporación definitiva en la carrera docente?",
+    "opciones": [
+      "10 años de servicio.",
+      "5 años de servicio.",
+      "15 años de servicio.",
+      "20 años de servicio."
+    ],
+    "correcta": 0,
+    "explicacion": "El artículo 15 del Escalafón Nacional del Servicio de Educación establece que los maestros titulares deben cumplir 10 años de servicio para rendir el examen de capacidad que habilita su incorporación definitiva en la carrera docente."
+  },
+
+  {
+    "id": 2486,
+    "pdf": "Escalafón Nacional del Servicio de Educación",
+    "unidad": "Recursos y apelaciones",
+    "pagina": 7,
+    "pregunta": "Cuando un docente interpone un recurso de apelación, la Comisión Distrital debe verificar su procedencia y resolver bajo responsabilidad. ¿En qué plazo máximo debe emitir su resolución?",
+    "opciones": [
+      "En el término de 3 días.",
+      "En el término de 5 días.",
+      "En el término de 10 días.",
+      "En el término de 15 días."
+    ],
+    "correcta": 0,
+    "explicacion": "El artículo 51 del Escalafón Nacional del Servicio de Educación establece que la Comisión Distrital, al recibir un recurso de apelación, debe verificar su procedencia y resolver bajo responsabilidad dentro del término máximo de 3 días."
+  },
+
+  {
+    "id": 2487,
+    "pdf": "Escalafón Nacional del Servicio de Educación",
+    "unidad": "Deméritos del personal docente",
+    "pagina": 6,
+    "pregunta": "De acuerdo al Escalafón Nacional del Magisterio, ¿en cuántas áreas se juzgan los deméritos del personal docente?",
+    "opciones": ["En 5 áreas.", "En 3 áreas.", "En 4 áreas.", "En 6 áreas."],
+    "correcta": 0,
+    "explicacion": "El artículo 33 del Escalafón Nacional del Servicio de Educación establece que los deméritos del personal docente se juzgan en cinco áreas determinadas por la normativa."
+  },
+
+  {
+    "id": 2488,
+    "pdf": "Escalafón Nacional del Servicio de Educación",
+    "unidad": "Ascenso de categoría y requisitos profesionales",
+    "pagina": 10,
+    "pregunta": "¿En qué plazo están obligados los maestros normalistas a recabar su Título y Visación de título, requisitos sin los cuales no podrán ascender de categoría?",
+    "opciones": [
+      "En el término de 2 años después de su egreso.",
+      "En el término de 1 año después de su egreso.",
+      "En el término de 3 años después de su egreso.",
+      "En el término de 5 años después de su egreso."
+    ],
+    "correcta": 0,
+    "explicacion": "El artículo 81 del Escalafón Nacional del Servicio de Educación establece que los maestros normalistas están obligados a recabar su Título y Visación de título dentro del término de 2 años después de su egreso; sin estos requisitos no podrán ascender de categoría."
+  },
+
+  {
+    "id": 2492,
+    "pdf": "Escalafón Nacional del Servicio de Educación",
+    "unidad": "Acumulación de horas",
+    "pagina": 10,
+    "pregunta": "¿Cuántas horas semanales podrán acumular los directores de colegios secundarios dentro del propio establecimiento?",
+    "opciones": [
+      "Hasta 10 horas semanales.",
+      "Hasta 5 horas semanales.",
+      "Hasta 15 horas semanales.",
+      "Hasta 20 horas semanales."
+    ],
+    "correcta": 0,
+    "explicacion": "El artículo 69 del Escalafón Nacional del Servicio de Educación establece que los directores de colegios secundarios podrán acumular dentro del propio establecimiento hasta 10 horas semanales, conforme a las disposiciones sobre acumulación de funciones."
   }
 ]

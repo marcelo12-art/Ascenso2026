@@ -91,5 +91,272 @@
     ],
     "correcta": 2,
     "explicacion": "El artículo 25 del Reglamento de Faltas y Sanciones establece que el maestro que se considere agraviado por una resolución disciplinaria puede interponer el recurso de apelación o alzada ante el Tribunal Nacional."
+  },
+
+  {
+    "id": 1034,
+    "pdf": "Reglamento de Faltas y Sanciones",
+    "unidad": "Faltas muy graves",
+    "pagina": 11,
+    "pregunta": "La conducta que consiste en subordinar las instancias administrativas a intereses político-partidarios o sectarios en desmedro de la docencia se clasifica como una falta:",
+    "opciones": ["Muy grave.", "Leve.", "Grave.", "Administrativa."],
+    "correcta": 0,
+    "explicacion": "El artículo 11, inciso 11, del Reglamento de Faltas y Sanciones del Magisterio establece como falta muy grave la conducta de subordinar las instancias administrativas a intereses político-partidarios o sectarios en desmedro de la docencia."
+  },
+
+  {
+    "id": 1035,
+    "pdf": "Reglamento de Faltas y Sanciones",
+    "unidad": "Faltas leves",
+    "pagina": 9,
+    "pregunta": "Una maestra suspende las actividades pedagógicas del día para organizar junto a sus colegas un agasajo sorpresa al director del establecimiento con motivo de su cumpleaños, utilizando el horario de clases para la celebración. Esta conducta se tipifica como falta:",
+    "opciones": [
+      "Leve: \"La suspensión de labores por cumpleaños y agasajos a directores o docentes.\"",
+      "Grave: Por incumplimiento de las funciones pedagógicas asignadas.",
+      "Muy grave: Por afectar la autoridad administrativa del establecimiento.",
+      "Administrativa: Por uso indebido de recursos institucionales."
+    ],
+    "correcta": 0,
+    "explicacion": "El artículo 9, inciso a), del Reglamento de Faltas y Sanciones del Magisterio establece como falta leve la suspensión de labores por cumpleaños y agasajos a directores o docentes, debido a que implica la interrupción de las actividades educativas programadas."
+  },
+
+  {
+    "id": 1052,
+    "pdf": "Reglamento de Faltas y Sanciones",
+    "unidad": "Principios del proceso disciplinario",
+    "pagina": 3,
+    "pregunta": "Dentro de la sustanciación de un proceso disciplinario, nadie puede ser sancionado sin haber sido oído y juzgado, este derecho debe ser ejercido por parte de:",
+    "opciones": [
+      "La persona encauzada.",
+      "La autoridad administrativa que inicia el proceso.",
+      "La Comisión Disciplinaria encargada del caso.",
+      "El denunciante o parte acusadora."
+    ],
+    "correcta": 0,
+    "explicacion": "El artículo 3 del Reglamento de Faltas y Sanciones establece que nadie puede ser sancionado sin haber sido oído y juzgado previamente, garantizando el derecho a la defensa de la persona encauzada dentro del proceso disciplinario."
+  },
+
+  {
+    "id": 1071,
+    "pdf": "Reglamento de Faltas y Sanciones",
+    "unidad": "Competencia sancionadora",
+    "pagina": 22,
+    "pregunta": "En el marco del régimen disciplinario docente, ¿cómo se distribuye la competencia sancionadora según la gravedad de la falta cometida por un maestro?",
+    "opciones": [
+      "Las faltas leves son sancionadas por la autoridad inmediata superior; las faltas graves y muy graves son sancionadas por el tribunal correspondiente.",
+      "Todas las faltas, sean leves, graves o muy graves, son sancionadas exclusivamente por la autoridad inmediata superior.",
+      "Las faltas leves y graves son sancionadas por la dirección de la unidad educativa y las muy graves por el Ministerio de Educación.",
+      "Todas las faltas son sancionadas únicamente por tribunales nacionales sin intervención de autoridades inmediatas."
+    ],
+    "correcta": 0,
+    "explicacion": "El artículo 22 del Reglamento de Faltas y Sanciones establece la distribución de la competencia sancionadora según la gravedad de la falta: las faltas leves corresponden a la autoridad inmediata superior, mientras que las faltas graves y muy graves son competencia de los tribunales correspondientes."
+  },
+
+  {
+    "id": 1179,
+    "pdf": "Reglamento de Faltas y Sanciones",
+    "unidad": "Faltas muy graves",
+    "pagina": 11,
+    "pregunta": "¿Cuál de las siguientes conductas constituye una falta muy grave en el ámbito educativo?",
+    "opciones": [
+      "Invitación al uso de substancias indebidas y peligrosas, corrupción, acoso sexual, estupro, violación o intimidación física o psíquica, violación y organización de bandas delincuenciales.",
+      "La suspensión ocasional de actividades educativas por motivos personales debidamente justificados.",
+      "El incumplimiento de actividades administrativas menores sin perjuicio al proceso educativo.",
+      "La falta de participación en actividades complementarias de carácter voluntario."
+    ],
+    "correcta": 0,
+    "explicacion": "El artículo 11, inciso m), del Reglamento de Faltas y Sanciones del Magisterio establece como falta muy grave la invitación al uso de sustancias indebidas y peligrosas, corrupción, acoso sexual, estupro, violación, intimidación física o psíquica y organización de bandas delincuenciales dentro del ámbito educativo."
+  },
+
+  {
+    "id": 1238,
+    "pdf": "Reglamento de Faltas y Sanciones",
+    "unidad": "Faltas graves",
+    "pagina": 10,
+    "pregunta": "¿Cuál de las siguientes conductas constituye una falta grave para el personal docente del sistema educativo plurinacional?",
+    "opciones": [
+      "El empleo de los castigos corporales o psicológicos contra la dignidad del alumno.",
+      "La suspensión de labores por cumpleaños y agasajos a directores o docentes.",
+      "La invitación al uso de sustancias indebidas y peligrosas dentro del ámbito educativo.",
+      "La subordinación de instancias administrativas a intereses político-partidarios o sectarios."
+    ],
+    "correcta": 0,
+    "explicacion": "El artículo 10, inciso p), del Reglamento de Faltas y Sanciones del Magisterio establece como falta grave el empleo de castigos corporales o psicológicos contra la dignidad del alumno, debido a que vulnera la integridad física y emocional del estudiante."
+  },
+
+  {
+    "id": 1279,
+    "pdf": "Reglamento de Faltas y Sanciones",
+    "unidad": "Faltas graves",
+    "pagina": 10,
+    "pregunta": "¿Cuál de las siguientes conductas, cometidas por un maestro, es considerada una falta grave?",
+    "opciones": [
+      "La organización o asistencia a fiestas con uso de bebidas alcohólicas en el establecimiento educativo o lugar de trabajo.",
+      "La suspensión de labores por cumpleaños y agasajos a directores o docentes.",
+      "La participación en actividades de formación y actualización docente.",
+      "La asistencia a reuniones institucionales convocadas por la autoridad educativa."
+    ],
+    "correcta": 0,
+    "explicacion": "El artículo 10, inciso g), del Reglamento de Faltas y Sanciones del Magisterio establece como falta grave la organización o asistencia a fiestas con consumo de bebidas alcohólicas en el establecimiento educativo o lugar de trabajo, debido a que afecta la disciplina, la responsabilidad profesional y el adecuado funcionamiento institucional."
+  },
+
+  {
+    "id": 1323,
+    "pdf": "Reglamento de Faltas y Sanciones",
+    "unidad": "Aplicación de sanciones disciplinarias",
+    "pagina": 12,
+    "pregunta": "¿Qué criterios determinan la aplicación de sanciones a los infractores por parte de los tribunales que tramitan los procesos disciplinarios en contra de maestras y maestros?",
+    "opciones": [
+      "La concurrencia de circunstancias atenuantes o agravantes.",
+      "Únicamente la antigüedad del maestro dentro del servicio educativo.",
+      "La opinión de los compañeros de trabajo y miembros de la comunidad educativa.",
+      "El cargo jerárquico que ocupa la persona dentro de la institución educativa."
+    ],
+    "correcta": 0,
+    "explicacion": "El artículo 12 del Reglamento de Faltas y Sanciones establece que los tribunales que tramitan procesos disciplinarios contra maestras y maestros deben considerar la concurrencia de circunstancias atenuantes o agravantes para determinar la aplicación de las sanciones correspondientes."
+  },
+
+  {
+    "id": 1490,
+    "pdf": "Reglamento de Faltas y Sanciones",
+    "unidad": "Sanciones disciplinarias",
+    "pagina": 13,
+    "pregunta": "En un proceso disciplinario en el sistema educativo boliviano, ¿cuál es el plazo máximo de suspensión temporal sin goce de haberes que puede aplicarse a un maestro como sanción?",
+    "opciones": [
+      "Sesenta (60) días.",
+      "Treinta (30) días.",
+      "Noventa (90) días.",
+      "Ciento ochenta (180) días."
+    ],
+    "correcta": 0,
+    "explicacion": "El artículo 13, inciso b), del Reglamento de Faltas y Sanciones del Magisterio establece como sanción disciplinaria la suspensión temporal sin goce de haberes hasta por un máximo de sesenta (60) días."
+  },
+
+  {
+    "id": 1583,
+    "pdf": "Reglamento de Faltas y Sanciones",
+    "unidad": "Faltas graves y sanciones",
+    "pagina": 10,
+    "pregunta": "Una maestra de primaria, organizó junto a los padres de familia una cena de agradecimiento al finalizar el año escolar. Durante el evento, los padres le entregaron un sobre con dinero en efectivo y varios obsequios como reconocimiento por haber promovido a todos los estudiantes del curso, incluyendo a aquellos que no cumplían los requisitos académicos. ¿Cómo se tipifica esta conducta y qué sanción corresponde?",
+    "opciones": [
+      "Falta grave: la aceptación de fiestas sociales, regalos en dinero o en especie de los alumnos, padres de familia o intermediarios a cambio de favores. Corresponde suspensión de funciones sin goce de haber de 15 a 60 días, postergación de ascenso por 1 año o descenso a cargo inferior.",
+      "Falta leve: la participación en actividades sociales organizadas por padres de familia. Corresponde únicamente una llamada de atención verbal.",
+      "Falta muy grave: cualquier recepción de regalos por parte de padres de familia. Corresponde retiro definitivo del servicio educativo.",
+      "No constituye falta disciplinaria porque los regalos fueron entregados como reconocimiento voluntario al finalizar la gestión."
+    ],
+    "correcta": 0,
+    "explicacion": "El artículo 10, inciso s), del Reglamento de Faltas y Sanciones establece como falta grave la aceptación de fiestas sociales, regalos en dinero o en especie de los alumnos, padres de familia o intermediarios a cambio de favores. Según el artículo 13, inciso b), las sanciones pueden incluir suspensión temporal sin goce de haberes de 15 a 60 días, postergación de ascenso por un año o descenso a cargo inferior."
+  },
+
+  {
+    "id": 1584,
+    "pdf": "Reglamento de Faltas y Sanciones",
+    "unidad": "Faltas graves",
+    "pagina": 10,
+    "pregunta": "Un docente establece un acuerdo verbal privado con el propietario de una librería cercana al establecimiento educativo, mediante el cual recibe un porcentaje de las ganancias generadas por cada venta de útiles escolares y textos que los padres de familia adquieren siguiendo sus indicaciones. Si esta conducta se encontrase tipificada en el Reglamento de Faltas y Sanciones del magisterio boliviano, ¿a qué tipo de falta correspondería?",
+    "opciones": [
+      "Falta grave: \"La coparticipación en la compra-venta de útiles, textos escolares, uniformes, distintivos, etc. con librerías, establecimientos comerciales, editores o particulares.\"",
+      "Falta leve: Por recomendar materiales educativos a los estudiantes y padres de familia.",
+      "Falta muy grave: Por recibir beneficios económicos de cualquier actividad relacionada con la educación.",
+      "No constituye falta disciplinaria porque el acuerdo fue realizado de manera privada y verbal."
+    ],
+    "correcta": 0,
+    "explicacion": "El artículo 10, inciso o), del Reglamento de Faltas y Sanciones del Magisterio establece como falta grave la coparticipación en la compra-venta de útiles, textos escolares, uniformes, distintivos u otros materiales con librerías, establecimientos comerciales, editores o particulares, cuando existe participación del docente en dichas actividades."
+  },
+
+  {
+    "id": 1585,
+    "pdf": "Reglamento de Faltas y Sanciones",
+    "unidad": "Faltas muy graves",
+    "pagina": 11,
+    "pregunta": "Una maestra o maestro recauda dineros provenientes de rifas y kermesses organizadas en la unidad educativa, pero no rinde cuentas ni realiza los depósitos correspondientes ante las autoridades competentes, esta conducta se tipifica como:",
+    "opciones": [
+      "Falta muy grave: \"No rendir cuentas de dineros recaudados por concepto de rifas, kermesses y otras actividades en los términos fijados por ley.\"",
+      "Falta grave: Por realizar actividades económicas dentro de la unidad educativa sin autorización.",
+      "Falta leve: Por retraso en la presentación de informes económicos institucionales.",
+      "No constituye falta disciplinaria porque los recursos fueron obtenidos mediante actividades voluntarias."
+    ],
+    "correcta": 0,
+    "explicacion": "El artículo 11, inciso b), del Reglamento de Faltas y Sanciones del Magisterio establece como falta muy grave no rendir cuentas de dineros recaudados por concepto de rifas, kermesses y otras actividades en los términos fijados por ley."
+  },
+
+  {
+    "id": 1586,
+    "pdf": "Reglamento de Faltas y Sanciones",
+    "unidad": "Faltas muy graves",
+    "pagina": 11,
+    "pregunta": "Un docente presenta ante autoridad correspondiente un certificado médico falso para obtener una licencia por enfermedad y así ausentarse de sus funciones durante varios días, esta conducta se constituye en una:",
+    "opciones": [
+      "Falta muy grave: \"Simulación de enfermedad para obtener licencias u otras ventajas, presentando certificados falsos.\"",
+      "Falta grave: Por incumplimiento de funciones durante el periodo de ausencia.",
+      "Falta leve: Por presentar documentación incorrecta para justificar una inasistencia.",
+      "No constituye falta disciplinaria porque la licencia fue solicitada ante una autoridad correspondiente."
+    ],
+    "correcta": 0,
+    "explicacion": "El artículo 11, inciso e), del Reglamento de Faltas y Sanciones del Magisterio establece como falta muy grave la simulación de enfermedad para obtener licencias u otras ventajas mediante la presentación de certificados falsos."
+  },
+
+  {
+    "id": 1761,
+    "pdf": "Reglamento de Faltas y Sanciones",
+    "unidad": "Recursos de apelación",
+    "pagina": 26,
+    "pregunta": "Una vez recibida formalmente la apelación interpuesta por un maestro sancionado, el Tribunal de Apelación deberá pronunciarse mediante una resolución que únicamente podrá:",
+    "opciones": [
+      "Confirmar o revocar el fallo.",
+      "Modificar parcialmente la sanción y establecer una nueva medida disciplinaria.",
+      "Suspender indefinidamente el proceso hasta obtener nuevas pruebas.",
+      "Remitir nuevamente el caso a la autoridad que emitió la sanción inicial."
+    ],
+    "correcta": 0,
+    "explicacion": "El artículo 26 del Reglamento de Faltas y Sanciones establece que el Tribunal de Apelación, al resolver el recurso presentado por un maestro sancionado, únicamente podrá confirmar o revocar el fallo emitido anteriormente."
+  },
+
+  {
+    "id": 1911,
+    "pdf": "Reglamento de Faltas y Sanciones",
+    "unidad": "Faltas muy graves y destitución",
+    "pagina": 11,
+    "pregunta": "Para el caso de maestros, ¿cuál de las siguientes conductas comprobadas es causal de destitución del cargo?",
+    "opciones": [
+      "Invitación al uso de substancias indebidas y peligrosas, corrupción, acoso sexual, estupro, violación o intimidación física o psíquica, violación y organización de bandas delincuenciales.",
+      "La suspensión de labores por actividades sociales o agasajos dentro del establecimiento educativo.",
+      "El incumplimiento ocasional de actividades administrativas sin afectar el proceso educativo.",
+      "La falta de participación en reuniones institucionales convocadas por la autoridad educativa."
+    ],
+    "correcta": 0,
+    "explicacion": "El artículo 11, inciso m), del Reglamento de Faltas y Sanciones del Magisterio establece como falta muy grave y causal de destitución del cargo las conductas relacionadas con la invitación al uso de sustancias indebidas y peligrosas, corrupción, acoso sexual, estupro, violación, intimidación física o psíquica y organización de bandas delincuenciales."
+  },
+
+  {
+    "id": 2010,
+    "pdf": "Reglamento de Faltas y Sanciones",
+    "unidad": "Sustanciación de procesos disciplinarios",
+    "pagina": 23,
+    "pregunta": "¿Ante qué autoridad debe ser interpuesta la denuncia contra un maestro en la sustanciación de un proceso disciplinario?",
+    "opciones": [
+      "Ante la autoridad inmediata superior del imputado.",
+      "Ante el Tribunal Nacional de Apelación directamente.",
+      "Ante cualquier autoridad educativa sin importar su nivel jerárquico.",
+      "Ante la organización sindical correspondiente antes de iniciar el proceso."
+    ],
+    "correcta": 0,
+    "explicacion": "El artículo 23 del Reglamento de Faltas y Sanciones establece que la denuncia contra un maestro debe ser interpuesta ante la autoridad inmediata superior del imputado, quien deberá dar inicio al procedimiento correspondiente conforme a la normativa disciplinaria."
+  },
+
+  {
+    "id": 2089,
+    "pdf": "Reglamento de Faltas y Sanciones",
+    "unidad": "Sustanciación de procesos disciplinarios",
+    "pagina": 23,
+    "pregunta": "En un proceso disciplinario contra un maestro, cuando la denuncia es interpuesta verbalmente, ¿qué acción debe realizar obligatoriamente el funcionario que la recibe?",
+    "opciones": [
+      "Sentar acta.",
+      "Rechazar la denuncia por no estar presentada de manera escrita.",
+      "Remitir al denunciante directamente al tribunal correspondiente.",
+      "Solicitar que la denuncia sea presentada únicamente mediante documento notariado."
+    ],
+    "correcta": 0,
+    "explicacion": "El artículo 23 del Reglamento de Faltas y Sanciones establece que cuando una denuncia contra un maestro sea presentada verbalmente, el funcionario que la recibe debe sentar acta, dejando constancia formal de la denuncia para iniciar el procedimiento disciplinario correspondiente."
   }
 ]

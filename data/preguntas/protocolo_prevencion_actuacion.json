@@ -281,38 +281,6 @@
   },
 
   {
-    "id": 428,
-    "pdf": "Protocolo de Prevención y Actuación",
-    "unidad": "Marco jurídico",
-    "pagina": 9,
-    "pregunta": "De acuerdo con las definiciones establecidas en la Ley Integral para Garantizar a las Mujeres una Vida Libre de Violencia, ¿quién es considerado \"Agresor o Agresora\"?",
-    "opciones": [
-      "La persona que ejerce violencia contra la mujer en el marco de una relación de parentesco, convivencia o dependencia.",
-      "Toda persona que ocasione un daño físico o material a otra, independientemente de su relación con la víctima.",
-      "Únicamente el cónyuge o conviviente que ejerza violencia física contra la mujer.",
-      "Cualquier servidor público que incumpla su deber de protección a una víctima de violencia."
-    ],
-    "correcta": 0,
-    "explicacion": "La Ley N.º 348 define como agresor o agresora a la persona que ejerce violencia contra la mujer en el marco de una relación de parentesco, convivencia o dependencia. El Protocolo de Prevención y Actuación incorpora esta ley como parte de su marco jurídico para la atención de casos de violencia."
-  },
-
-  {
-    "id": 502,
-    "pdf": "Protocolo de Prevención y Actuación",
-    "unidad": "Marco jurídico",
-    "pagina": 9,
-    "pregunta": "¿Cuál es el límite de la pena impuesta para que pueda ser reemplazada por una sanción alternativa a la privación de libertad en delitos de violencia hacia las mujeres?",
-    "opciones": [
-      "La pena de privación de libertad no debe exceder de tres (3) años.",
-      "La pena de privación de libertad no debe exceder de cinco (5) años.",
-      "La pena de privación de libertad no debe exceder de ocho (8) años.",
-      "La pena de privación de libertad no debe exceder de diez (10) años."
-    ],
-    "correcta": 1,
-    "explicacion": "La Ley N.º 348 establece que la sanción alternativa a la privación de libertad solo procede cuando la pena impuesta no excede de cinco (5) años. Esta disposición forma parte del marco jurídico que sustenta el Protocolo de Prevención y Actuación."
-  },
-
-  {
     "id": 565,
     "pdf": "Protocolo de Prevención y Actuación",
     "unidad": "Violencia sexual",
@@ -326,22 +294,6 @@
     ],
     "correcta": 0,
     "explicacion": "El Protocolo de Prevención y Actuación establece que los toqueteos, caricias y manoseos hacia niñas, niños o adolescentes constituyen una forma de violencia sexual, independientemente de que la víctima los consienta o no, debido a la situación de vulnerabilidad y la afectación a su integridad."
-  },
-
-  {
-    "id": 572,
-    "pdf": "Protocolo de Prevención y Actuación",
-    "unidad": "Marco jurídico",
-    "pagina": 9,
-    "pregunta": "¿Cuál es el resultado que debe producirse para que se configure el delito de incumplimiento de deberes de protección a mujeres en situación de violencia?",
-    "opciones": [
-      "Que la autoridad competente retrase el trámite administrativo, aunque no exista ningún daño para la víctima.",
-      "Que la mujer en situación de violencia sufra un daño o perjuicio como consecuencia directa de la omisión de protección por parte de la autoridad competente.",
-      "Que la autoridad competente incumpla cualquier procedimiento administrativo, aunque no exista una víctima identificada.",
-      "Que la denuncia sea presentada fuera del plazo previsto por la normativa."
-    ],
-    "correcta": 1,
-    "explicacion": "La Ley N.º 348 establece que el delito de incumplimiento de deberes de protección se configura cuando la omisión de la autoridad competente ocasiona directamente un daño o perjuicio a una mujer en situación de violencia. Esta disposición integra el marco jurídico de referencia del Protocolo de Prevención y Actuación."
   },
 
   {
@@ -361,177 +313,1026 @@
   },
 
   {
-    "id": 608,
+    "id": 1005,
     "pdf": "Protocolo de Prevención y Actuación",
-    "unidad": "Marco jurídico",
-    "pagina": 9,
-    "pregunta": "¿Qué deben articular los Órganos del Estado, las Entidades Territoriales Autónomas e Instituciones Públicas para la prevención, atención, sanción y erradicación de la violencia contra las mujeres?",
+    "unidad": "Revictimización en situaciones de violencia",
+    "pagina": 55,
+    "pregunta": "Una estudiante víctima de violencia sexual regresa a clases después de ausentarse. Sus docentes, con intención de protegerla, la observan constantemente durante las clases y evitan llamarle la atención como al resto. ¿Qué error específico están cometiendo los docentes y qué principio en casos de violencia están vulnerando?",
     "opciones": [
-      "Políticas públicas integrales y estrategias de coordinación interinstitucional.",
-      "Programas educativos dirigidos exclusivamente a las unidades educativas fiscales.",
-      "Planes de seguridad ciudadana ejecutados únicamente por la Policía Boliviana.",
-      "Campañas de difusión organizadas exclusivamente por los Gobiernos Autónomos Municipales."
+      "Están revictimizándola al sobreprotegerla y observarla constantemente; vulneran el principio de no revictimización.",
+      "Están actuando correctamente porque una víctima de violencia debe recibir un trato diferente al resto de estudiantes.",
+      "Están aplicando una medida disciplinaria preventiva para proteger a la estudiante durante el proceso educativo.",
+      "Están vulnerando únicamente el principio de igualdad, sin relación con la revictimización."
     ],
     "correcta": 0,
-    "explicacion": "La Ley N.º 348 establece que los Órganos del Estado, las Entidades Territoriales Autónomas e Instituciones Públicas deben articular políticas públicas integrales y estrategias de coordinación interinstitucional para la prevención, atención, sanción y erradicación de la violencia contra las mujeres. Esta ley forma parte del marco jurídico del Protocolo de Prevención y Actuación."
+    "explicacion": "El Protocolo de Prevención y Actuación establece que acciones como sobreproteger, observar constantemente, interrogar o tratar de manera diferenciada a una víctima de violencia pueden constituir revictimización. Los docentes deben garantizar apoyo y protección respetando el principio de no revictimización."
   },
 
   {
-    "id": 625,
-    "pdf": "Protocolo de Prevención y Actuación",
-    "unidad": "Marco jurídico",
-    "pagina": 11,
-    "pregunta": "¿Cuál es la sanción para el delito de violación cometido contra una persona menor de catorce años?",
+    "id": 1024,
+    "pdf": "Estilos de Aprendizaje",
+    "unidad": "Modelo de aprendizaje experiencial de Kolb",
+    "pagina": 26,
+    "pregunta": "¿Qué combina el estilo acomodador según Kolb?",
     "opciones": [
-      "Privación de libertad de diez (10) a quince (15) años.",
-      "Privación de libertad de quince (15) a veinte (20) años.",
-      "Privación de libertad de veinte (20) a veinticinco (25) años.",
-      "Privación de libertad de veinticinco (25) a treinta (30) años."
-    ],
-    "correcta": 2,
-    "explicacion": "El Código Penal, en su artículo 308 bis, establece que el delito de violación cometido contra una persona menor de catorce años se sanciona con pena privativa de libertad de veinte (20) a veinticinco (25) años. Esta disposición forma parte del marco jurídico de referencia del Protocolo de Prevención y Actuación."
-  },
-
-  {
-    "id": 626,
-    "pdf": "Protocolo de Prevención y Actuación",
-    "unidad": "Marco jurídico",
-    "pagina": 11,
-    "pregunta": "¿Cuál es la pena establecida para el delito de padecimientos sexuales?",
-    "opciones": [
-      "Privación de libertad de uno a tres años.",
-      "Privación de libertad de dos a cinco años.",
-      "Privación de libertad de tres a seis años.",
-      "Privación de libertad de cinco a ocho años."
-    ],
-    "correcta": 1,
-    "explicacion": "El artículo 319 del Código Penal establece que el delito de padecimientos sexuales se sanciona con pena privativa de libertad de dos a cinco años. Esta disposición forma parte del marco jurídico de referencia del Protocolo de Prevención y Actuación."
-  },
-
-  {
-    "id": 629,
-    "pdf": "Protocolo de Prevención y Actuación",
-    "unidad": "Marco jurídico",
-    "pagina": 9,
-    "pregunta": "¿Cuál es la sanción para el servidor o servidora pública que propicie la impunidad u obstaculice la investigación de delitos de violencia contra las mujeres?",
-    "opciones": [
-      "Privación de libertad de uno a tres años.",
-      "Privación de libertad de dos a cinco años.",
-      "Privación de libertad de tres a seis años.",
-      "Privación de libertad de cinco a ocho años."
-    ],
-    "correcta": 2,
-    "explicacion": "La Ley N.º 348 establece que el servidor o servidora pública que propicie la impunidad u obstaculice la investigación de delitos de violencia contra las mujeres será sancionado con privación de libertad de tres a seis años. Esta disposición forma parte del marco jurídico de referencia del Protocolo de Prevención y Actuación."
-  },
-
-  {
-    "id": 635,
-    "pdf": "Protocolo de Prevención y Actuación",
-    "unidad": "Marco jurídico",
-    "pagina": 11,
-    "pregunta": "¿Cuál es la pena privativa de libertad establecida para el delito de violación cuando la víctima es una niña, niño o adolescente menor de catorce (14) años?",
-    "opciones": [
-      "De quince (15) a veinte (20) años.",
-      "De veinte (20) a veinticinco (25) años.",
-      "De diez (10) a quince (15) años.",
-      "De veinticinco (25) a treinta (30) años."
-    ],
-    "correcta": 1,
-    "explicacion": "El artículo 308 bis del Código Penal establece que el delito de violación cuando la víctima es una niña, niño o adolescente menor de catorce años se sanciona con pena privativa de libertad de veinte (20) a veinticinco (25) años. Esta disposición se encuentra incorporada dentro del marco jurídico del Protocolo de Prevención y Actuación."
-  },
-
-  {
-    "id": 637,
-    "pdf": "Protocolo de Prevención y Actuación",
-    "unidad": "Marco jurídico",
-    "pagina": 11,
-    "pregunta": "¿Cuál es la sanción establecida para el delito de abuso sexual cuando no existe penetración o acceso carnal?",
-    "opciones": [
-      "De tres (3) a seis (6) años de privación de libertad.",
-      "De cuatro (4) a ocho (8) años de privación de libertad.",
-      "De seis (6) a diez (10) años de privación de libertad.",
-      "De ocho (8) a doce (12) años de privación de libertad."
-    ],
-    "correcta": 2,
-    "explicacion": "El artículo 312 del Código Penal establece que el delito de abuso sexual, cuando no existe penetración o acceso carnal, se sanciona con pena privativa de libertad de seis (6) a diez (10) años. Esta disposición forma parte del marco jurídico incorporado en el Protocolo de Prevención y Actuación."
-  },
-  {
-    "id": 640,
-    "pdf": "Protocolo de Prevención y Actuación",
-    "unidad": "Marco jurídico",
-    "pagina": 9,
-    "pregunta": "¿Cuál es la sanción establecida para el delito de violencia patrimonial contra la mujer?",
-    "opciones": [
-      "Privación de libertad de dos a cuatro años.",
-      "Privación de libertad de tres a seis años.",
-      "Privación de libertad de cuatro a ocho años.",
-      "Privación de libertad de cinco a diez años."
-    ],
-    "correcta": 2,
-    "explicacion": "La Ley N.º 348 establece que el delito de violencia patrimonial contra la mujer se sanciona con privación de libertad de cuatro a ocho años. Esta disposición forma parte del marco jurídico de referencia del Protocolo de Prevención y Actuación."
-  },
-
-  {
-    "id": 641,
-    "pdf": "Protocolo de Prevención y Actuación",
-    "unidad": "Marco jurídico",
-    "pagina": 9,
-    "pregunta": "¿Cuál es la pena establecida para el delito de violencia económica contra la mujer?",
-    "opciones": [
-      "Privación de libertad de dos a cinco años.",
-      "Privación de libertad de tres a seis años.",
-      "Privación de libertad de cuatro a ocho años.",
-      "Privación de libertad de cinco a diez años."
-    ],
-    "correcta": 2,
-    "explicacion": "La Ley N.º 348 establece que el delito de violencia económica contra la mujer se sanciona con privación de libertad de cuatro a ocho años. Esta disposición forma parte del marco jurídico de referencia del Protocolo de Prevención y Actuación."
-  },
-
-  {
-    "id": 642,
-    "pdf": "Protocolo de Prevención y Actuación",
-    "unidad": "Marco jurídico",
-    "pagina": 11,
-    "pregunta": "¿Cuál es la pena base establecida para el delito de acoso sexual?",
-    "opciones": [
-      "Privación de libertad de dos (2) a cuatro (4) años.",
-      "Privación de libertad de tres (3) a seis (6) años.",
-      "Privación de libertad de cuatro (4) a ocho (8) años.",
-      "Privación de libertad de seis (6) a diez (10) años."
-    ],
-    "correcta": 2,
-    "explicacion": "El Código Penal establece que el delito de acoso sexual tiene una pena base de privación de libertad de cuatro (4) a ocho (8) años. Esta disposición forma parte del marco jurídico incorporado en el Protocolo de Prevención y Actuación."
-  },
-
-  {
-    "id": 653,
-    "pdf": "Protocolo de Prevención y Actuación",
-    "unidad": "Marco jurídico",
-    "pagina": 9,
-    "pregunta": "El nivel central del Estado y las Entidades Territoriales Autónomas crearán y adoptarán medidas de prevención para modificar los comportamientos individuales y sociales violentos y aquellos que toleran, naturalizan y reproducen la violencia. ¿Cuáles son los tres criterios de acción bajo los que se organizan dichas medidas?",
-    "opciones": [
-      "Prevención inicial, preventiva y correctiva.",
-      "Prevención comunitaria, institucional y familiar.",
-      "Prevención primaria, secundaria y terciaria.",
-      "Prevención educativa, social y judicial."
-    ],
-    "correcta": 2,
-    "explicacion": "La Ley N.º 348 establece que las medidas de prevención de la violencia se organizan bajo tres criterios de acción: prevención primaria, secundaria y terciaria. Esta disposición forma parte del marco jurídico de referencia del Protocolo de Prevención y Actuación."
-  },
-
-  {
-    "id": 658,
-    "pdf": "Protocolo de Prevención y Actuación",
-    "unidad": "Indicadores de una posible situación de violencia",
-    "pagina": 48,
-    "pregunta": "Una maestra observa que uno de sus estudiantes muestra falta de concentración frecuente, conductas variables durante las clases y se niega sistemáticamente a hablar sobre su situación familiar. Según el Protocolo de Prevención y Actuación, ¿cuál de las siguientes conductas adicionales, identificables en la institución educativa, reforzaría la alerta de una posible situación de violencia?",
-    "opciones": [
-      "Disminución del rendimiento académico, temor a permanecer en el establecimiento, miedo de ir a su casa o visitas frecuentes al departamento médico.",
-      "Participación constante en actividades deportivas, buen rendimiento académico y asistencia regular a clases.",
-      "Interés por realizar actividades extracurriculares y facilidad para relacionarse con sus compañeros.",
-      "Preferencia por trabajar de manera individual y obtener calificaciones sobresalientes."
+      "Combina el pensamiento concreto y la experimentación activa.",
+      "Combina la conceptualización abstracta y la observación reflexiva.",
+      "Combina la experiencia concreta y la observación reflexiva.",
+      "Combina la conceptualización abstracta y la experimentación activa."
     ],
     "correcta": 0,
-    "explicacion": "El Protocolo de Prevención y Actuación señala que la disminución del rendimiento académico, el temor a permanecer en el establecimiento educativo, el miedo de ir a su casa y las visitas frecuentes al departamento médico son indicadores que pueden reforzar la sospecha de una posible situación de violencia."
+    "explicacion": "Según el modelo de estilos de aprendizaje de Kolb, el estilo acomodador combina la experiencia concreta (pensamiento concreto) y la experimentación activa. Las personas con este estilo suelen aprender mediante la práctica, la acción y la resolución de problemas."
+  },
+
+  {
+    "id": 1077,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Consecuencias de la violencia en estudiantes",
+    "pagina": 24,
+    "pregunta": "Rodrigo, estudiante de 14 años, ha sido víctima de agresión reiterada por parte de un docente durante dos años consecutivos. Su tutora reporta que presenta dificultades severas en lectura y cálculo, ha comenzado a consumir alcohol los fines de semana y muestra una percepción de sí mismo profundamente negativa. El equipo de orientación debe priorizar la derivación según la categoría de consecuencia que compromete directamente su capacidad de aprendizaje formal. ¿Cuál de las siguientes opciones identifica correctamente dicha consecuencia y la distingue de las demás categorías presentes en el caso?",
+    "opciones": [
+      "Las dificultades severas en lectura y cálculo son consecuencias cognitivas a mediano plazo que afectan directamente el aprendizaje formal.",
+      "El consumo de alcohol los fines de semana corresponde a una consecuencia cognitiva que afecta directamente los procesos de aprendizaje.",
+      "La percepción negativa de sí mismo corresponde a una consecuencia académica porque limita directamente la adquisición de conocimientos.",
+      "Las dificultades severas en lectura y cálculo corresponden únicamente a consecuencias emocionales derivadas de la violencia."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación identifica que las dificultades en procesos como lectura y cálculo corresponden a consecuencias cognitivas a mediano plazo, debido a que afectan directamente el aprendizaje formal. En el caso también existen otras consecuencias, como el consumo de alcohol relacionado con conductas de riesgo y la percepción negativa de sí mismo vinculada al ámbito emocional."
+  },
+
+  {
+    "id": 1091,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Responsabilidades de estudiantes en la prevención de la violencia",
+    "pagina": 44,
+    "pregunta": "Respecto a las responsabilidades de los estudiantes en materia de prevención de la violencia, ¿cuál de las siguientes condiciones debe cumplirse obligatoriamente cuando los estudiantes desarrollan acciones de prevención de la violencia desde su perspectiva al interior de la unidad educativa?",
+    "opciones": [
+      "Dichas acciones no deben generar la erogación de recursos económicos, en coordinación con los centros y gobiernos estudiantiles.",
+      "Dichas acciones deben ser financiadas obligatoriamente por la unidad educativa mediante recursos institucionales.",
+      "Los estudiantes deben realizar las acciones únicamente bajo autorización de organizaciones externas.",
+      "Las acciones de prevención deben limitarse exclusivamente a actividades organizadas por el personal docente."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación establece que las acciones de prevención de la violencia desarrolladas por estudiantes desde su perspectiva al interior de la unidad educativa deben realizarse en coordinación con los centros y gobiernos estudiantiles, sin generar erogación de recursos económicos."
+  },
+
+  {
+    "id": 1096,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Procedimiento ante hechos de violencia",
+    "pagina": 28,
+    "pregunta": "¿Quiénes tienen la obligación de proseguir con diligencia la tramitación de la causa penal hasta su conclusión?",
+    "opciones": [
+      "Las Direcciones Departamentales de Educación y el Ministerio de Educación.",
+      "Únicamente la dirección de la unidad educativa donde ocurrió el hecho.",
+      "Los padres de familia o tutores de la víctima como responsables directos del proceso.",
+      "Los gobiernos estudiantiles y organizaciones sociales de la comunidad educativa."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación establece que las Direcciones Departamentales de Educación y el Ministerio de Educación tienen la obligación de proseguir con diligencia la tramitación de la causa penal hasta su conclusión, garantizando el seguimiento institucional de los casos de violencia."
+  },
+
+  {
+    "id": 1098,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Medidas preventivas ante situaciones de violencia",
+    "pagina": "36-37",
+    "pregunta": "Tres estudiantes de diferentes cursos presentan simultáneamente: baja autoestima, resistencia a opinar frente a adultos, desconocimiento de sus derechos sobre su cuerpo y ausencia de habilidades para resolver conflictos de forma pacífica. ¿Cuál es la falla estructural en la implementación de las medidas preventivas en la unidad educativa?",
+    "opciones": [
+      "No se ha fortalecido la seguridad y autoestima de los estudiantes, ni se les ha enseñado que su cuerpo es su territorio privado y a desarrollar autoprotección.",
+      "No se han aplicado únicamente sanciones disciplinarias suficientes contra los estudiantes involucrados.",
+      "No se ha delegado la responsabilidad de prevención exclusivamente a las familias de los estudiantes.",
+      "No se han implementado actividades académicas adicionales enfocadas solamente en mejorar el rendimiento escolar."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación establece que las medidas preventivas deben fortalecer la seguridad, autoestima y habilidades de autoprotección de los estudiantes, promoviendo el reconocimiento de que su cuerpo es un territorio privado y desarrollando capacidades para prevenir situaciones de violencia."
+  },
+
+  {
+    "id": 1122,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Violencia sexual",
+    "pagina": 16,
+    "pregunta": "Según la definición de violencia sexual realizada por UNICEF, un adulto para involucrar a una niña o un niño en actividades sexuales o erotizadas de cualquier índole, puede utilizar las siguientes estrategias:",
+    "opciones": [
+      "La seducción, el chantaje, la amenaza, la manipulación psicológica y/o el uso de fuerza física.",
+      "Únicamente la fuerza física directa como medio para involucrar a la niña o niño.",
+      "La orientación educativa y el consentimiento informado de la familia como mecanismos de participación.",
+      "La comunicación afectiva y la confianza entre el adulto y la niña o niño como estrategias de protección."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación, basado en la definición de violencia sexual de UNICEF, señala que un adulto puede utilizar estrategias como la seducción, el chantaje, la amenaza, la manipulación psicológica y/o el uso de fuerza física para involucrar a niñas, niños o adolescentes en actividades sexuales o erotizadas de cualquier índole."
+  },
+
+  {
+    "id": 1161,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Responsabilidades de autoridades educativas",
+    "pagina": "28 y 30",
+    "pregunta": "La Directora o el Director Departamental de Educación tiene entre sus responsabilidades participar en espacios interinstitucionales e intersectoriales, como establecer acuerdos y alianzas con instituciones especializadas en prevención de la violencia. ¿En qué se diferencian ambas responsabilidades según lo establecido en el protocolo?",
+    "opciones": [
+      "Participar en espacios interinstitucionales es una responsabilidad general; establecer acuerdos y alianzas es una acción específica de la Directora o Director Distrital Educativo.",
+      "Ambas responsabilidades corresponden exclusivamente a la Directora o Director Departamental de Educación y tienen el mismo alcance.",
+      "Participar en espacios interinstitucionales corresponde únicamente a la Dirección Distrital y establecer alianzas corresponde a la comunidad educativa.",
+      "Ninguna de las responsabilidades está contemplada dentro del Protocolo de Prevención y Actuación."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación diferencia las responsabilidades de las autoridades educativas: la participación en espacios interinstitucionales e intersectoriales corresponde como responsabilidad general de la Dirección Departamental de Educación, mientras que el establecimiento de acuerdos y alianzas con instituciones especializadas en prevención de la violencia corresponde como acción específica de la Dirección Distrital Educativa."
+  },
+
+  {
+    "id": 1217,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Contención emocional de emergencia",
+    "pagina": 52,
+    "pregunta": "Existe una serie de acciones que se pueden realizar en la contención emocional de emergencia, pero también se deben considerar ciertas recomendaciones sobre acciones que no son adecuadas, una de ellas es:",
+    "opciones": [
+      "No expresar juicios de valor sobre la víctima ni sobre la agresora o el agresor.",
+      "Realizar preguntas insistentes para conocer todos los detalles del hecho de violencia.",
+      "Cuestionar las decisiones tomadas por la víctima durante la situación de violencia.",
+      "Minimizar la situación para evitar que la víctima continúe afectada emocionalmente."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación establece que durante la contención emocional de emergencia no se deben emitir juicios de valor sobre la víctima ni sobre la agresora o el agresor. La intervención debe brindar apoyo, escucha activa y protección, evitando acciones que puedan generar culpabilización o revictimización."
+  },
+
+  {
+    "id": 1226,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Derivación y contrarreferencia de casos de violencia",
+    "pagina": 58,
+    "pregunta": "En el proceso de contrarreferencia tras la derivación de un caso de violencia, ¿qué combinación de obligaciones de la instancia receptora, del director o directora y de la Dirección Departamental de Educación refleja correctamente el protocolo de prevención y atención en casos de violencia?",
+    "opciones": [
+      "La instancia receptora recomienda la inasistencia temporal si es necesario; el director garantiza adecuaciones curriculares al retorno; la Dirección Departamental conoce el estado de situación.",
+      "La instancia receptora determina sanciones educativas; el director suspende definitivamente al estudiante; la Dirección Departamental cierra el caso sin seguimiento.",
+      "La instancia receptora transfiere toda responsabilidad a la familia; el director evita modificaciones curriculares; la Dirección Departamental no interviene en el proceso.",
+      "La instancia receptora únicamente informa verbalmente del caso; el director decide si permite el retorno; la Dirección Departamental no requiere conocer los avances."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación establece que, en la contrarreferencia de casos de violencia, la instancia receptora puede recomendar la inasistencia temporal cuando sea necesario para la protección de la víctima; la dirección de la unidad educativa debe garantizar las adecuaciones curriculares necesarias al retorno del estudiante; y la Dirección Departamental de Educación debe conocer el estado de situación del caso."
+  },
+
+  {
+    "id": 1267,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Medidas preventivas y autoprotección",
+    "pagina": "36-37",
+    "pregunta": "Una comisión de evaluación pedagógica visita una unidad educativa y constata lo siguiente: los docentes implementan actividades de deconstrucción de estereotipos de género y se realizan talleres de resolución pacífica de conflictos. Sin embargo, los estudiantes desconocen que su cuerpo es su territorio privado, no identifican situaciones de riesgo y, ante situaciones de violencia, no recurren a ningún adulto de confianza. La comisión concluye que existe una falla específica y localizable en el sistema preventivo. ¿Cuál es la falla correctamente identificada?",
+    "opciones": [
+      "No se ha enseñado a los estudiantes habilidades de autoprotección y reconocimiento del riesgo.",
+      "No se han realizado actividades de resolución pacífica de conflictos dentro de la unidad educativa.",
+      "No se han desarrollado acciones para eliminar los estereotipos de género entre los estudiantes.",
+      "No existe participación docente en las acciones de prevención de la violencia."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación establece que las medidas preventivas deben desarrollar en los estudiantes habilidades de autoprotección, reconocimiento de situaciones de riesgo y conocimiento de que su cuerpo es un territorio privado, además de fortalecer la capacidad de pedir ayuda a personas adultas de confianza."
+  },
+
+  {
+    "id": 1281,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Condiciones para la prevención de la violencia",
+    "pagina": 35,
+    "pregunta": "En una unidad educativa se identifican simultáneamente las siguientes deficiencias: (1) espacios físicos inadecuados, (2) ausencia de Plan de Convivencia Pacífica y Armónica, (3) maestras y maestros sin formación en estrategias pedagógicas de prevención, y (4) nula coordinación con servicios de salud y protección externos. ¿Cuál de los siguientes componentes tiene carácter estructurante?",
+    "opciones": [
+      "La ausencia de Plan de Convivencia Pacífica y Armónica.",
+      "Los espacios físicos inadecuados de la unidad educativa.",
+      "La falta de formación de maestras y maestros en estrategias pedagógicas de prevención.",
+      "La falta de coordinación con servicios externos de salud y protección."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación establece que el Plan de Convivencia Pacífica y Armónica constituye un componente estructurante para la prevención de la violencia en la unidad educativa, ya que orienta las acciones, normas y estrategias institucionales para promover una convivencia adecuada."
+  },
+
+  {
+    "id": 1294,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Procedimiento de actuación ante violencia sexual",
+    "pagina": 49,
+    "pregunta": "Una estudiante revela a su maestra que viene siendo víctima de violencia sexual por parte del director de la unidad educativa. ¿Cuál es la instancia que debe llevar adelante los procedimientos de actuación y bajo qué condición?",
+    "opciones": [
+      "La Dirección Distrital Educativa en coordinación con la Dirección Departamental de Educación, ya que el director es el presunto agresor.",
+      "La dirección de la unidad educativa, porque es la máxima autoridad del establecimiento educativo.",
+      "El consejo educativo social comunitario, porque debe resolver los conflictos internos de la unidad educativa.",
+      "La maestra que recibió la denuncia, porque debe realizar directamente todas las acciones del proceso."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación establece que cuando la persona denunciada como presunta agresora es la directora o director de la unidad educativa, los procedimientos de actuación deben ser llevados adelante por la Dirección Distrital Educativa en coordinación con la Dirección Departamental de Educación, evitando que la autoridad involucrada intervenga en el proceso."
+  },
+
+  {
+    "id": 1304,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Violencia sexual y agravantes del Código Penal",
+    "pagina": 19,
+    "pregunta": "Durante la aplicación de la ruta de actuación establecida en el “Protocolo de Prevención y Actuación”, el director de una unidad educativa toma conocimiento de un hecho de violencia sexual cometido por un docente en ejercicio de funciones dentro del establecimiento contra un estudiante. ¿Qué agravantes del Artículo 310 del Código Penal boliviano deben consignarse en el ámbito educativo por ser específicamente relativos a este contexto?",
+    "opciones": [
+      "\"El autor estuviere encargado de la educación de la víctima, o si ésta se encontrara en situación de dependencia respecto a éste\" y \"La víctima tuviere algún grado de discapacidad\".",
+      "Únicamente cuando el hecho ocurra dentro de la unidad educativa, sin considerar la relación entre agresor y víctima.",
+      "Cuando la víctima tenga bajo rendimiento académico o dificultades de aprendizaje.",
+      "Cuando el docente tenga más años de servicio dentro del sistema educativo."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación establece que, en el ámbito educativo, deben considerarse como agravantes del Artículo 310 del Código Penal aquellos casos donde el autor esté encargado de la educación de la víctima o exista una situación de dependencia respecto a este, así como cuando la víctima tenga algún grado de discapacidad."
+  },
+
+  {
+    "id": 1305,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Procedimiento de actuación cuando la autoridad educativa es denunciada",
+    "pagina": 54,
+    "pregunta": "¿Cuál es el procedimiento correcto cuando la parte denunciada por violencia física y psicológica es la propia directora o director de la unidad educativa?",
+    "opciones": [
+      "La denuncia puede ser presentada por cualquier maestra, maestro, padre, madre o estudiante ante la Defensoría de la Niñez y Adolescencia y a la Dirección Distrital Educativa correspondiente.",
+      "La denuncia debe ser presentada únicamente ante la directora o director denunciado para que realice la investigación correspondiente.",
+      "La denuncia debe ser archivada hasta que la unidad educativa determine internamente la responsabilidad de la autoridad denunciada.",
+      "La denuncia debe ser presentada solamente por los padres o tutores legales ante el Ministerio de Educación."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación establece que cuando la directora o director de la unidad educativa es la persona denunciada por violencia física y psicológica, la denuncia puede ser presentada por cualquier maestra, maestro, padre, madre o estudiante ante la Defensoría de la Niñez y Adolescencia y la Dirección Distrital Educativa correspondiente."
+  },
+
+  {
+    "id": 1375,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Actuación docente ante conflictos y violencia entre estudiantes",
+    "pagina": 42,
+    "pregunta": "Ante conflictos y situaciones de violencia leves que se presentan entre estudiantes dentro de la unidad educativa, ¿cuál es la obligación concreta que tiene el personal docente?",
+    "opciones": [
+      "Intervenir inmediatamente para detener el ciclo de la violencia y proponer modos de resolución de conflictos por la vía pacífica.",
+      "Esperar a que la situación se agrave antes de intervenir para determinar responsabilidades.",
+      "Delegar completamente la solución del conflicto a los padres de familia sin realizar ninguna acción institucional.",
+      "Aplicar sanciones disciplinarias sin promover espacios de diálogo o resolución pacífica."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación establece que ante conflictos y situaciones de violencia leves entre estudiantes, el personal docente debe intervenir inmediatamente para detener el ciclo de la violencia y promover alternativas de resolución de conflictos mediante la vía pacífica."
+  },
+
+  {
+    "id": 1376,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Detección y actuación ante indicadores de violencia",
+    "pagina": 49,
+    "pregunta": "Cuando una maestra o maestro detecta en el día a día indicadores que sugieren que una niña, niño o adolescente está sufriendo algún tipo de violencia en el ámbito familiar o educativo, ¿cuál es la acción que debe realizarse?",
+    "opciones": [
+      "Intervenir inmediatamente y derivar el caso a las instancias correspondientes.",
+      "Esperar a contar con pruebas definitivas antes de realizar cualquier intervención.",
+      "Comunicar únicamente a los compañeros docentes para realizar seguimiento interno.",
+      "Ignorar los indicadores mientras no exista una denuncia formal presentada por la familia."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación establece que cuando una maestra o maestro identifica indicadores que sugieren una posible situación de violencia, debe intervenir inmediatamente y realizar la derivación correspondiente a las instancias competentes para la protección de la niña, niño o adolescente."
+  },
+
+  {
+    "id": 1384,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Principios rectores",
+    "pagina": 13,
+    "pregunta": "¿Cuál de las siguientes opciones señala los principios rectores establecidos en el Protocolo de Prevención y Actuación ante situaciones de violencia en unidades educativas?",
+    "opciones": [
+      "Interés superior de la niña, del niño o adolescente; cultura de paz; lucha contra el racismo y toda forma de discriminación; respeto a la identidad, integridad y dignidad; prioridad absoluta y atención preferente; equidad de género e igualdad de derechos; desarrollo integral; oportunidad y celeridad; corresponsabilidad; participación.",
+      "Disciplina estricta, sanción inmediata, autoridad jerárquica, control institucional y aplicación exclusiva de normas administrativas.",
+      "Confidencialidad absoluta, separación de estudiantes, castigo ejemplar y restricción de participación familiar.",
+      "Autonomía institucional, competencia administrativa, evaluación académica y regulación interna de cada unidad educativa."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación establece como principios rectores para la atención de situaciones de violencia en unidades educativas: el interés superior de la niña, niño o adolescente; cultura de paz; lucha contra el racismo y toda forma de discriminación; respeto a la identidad, integridad y dignidad; prioridad absoluta y atención preferente; equidad de género e igualdad de derechos; desarrollo integral; oportunidad y celeridad; corresponsabilidad y participación."
+  },
+
+  {
+    "id": 1403,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Seguimiento de procesos penales",
+    "pagina": "27-28",
+    "pregunta": "El abogado defensor toma conocimiento de que un director de unidad educativa fue denunciado penalmente por presunta violencia sexual contra una estudiante. Sin embargo, la Defensoría de la Niñez y Adolescencia aún no ha remitido la información sobre el avance del proceso penal. ¿Cuál debe ser la acción inmediata del abogado defensor ante esta situación?",
+    "opciones": [
+      "Coordinar acciones con las Fiscalías Departamentales y Defensorías de la Niñez y Adolescencia para obtener la información correspondiente.",
+      "Esperar hasta que la Defensoría de la Niñez y Adolescencia remita la información sin realizar ninguna acción adicional.",
+      "Solicitar directamente a la familia de la víctima toda la información del proceso penal.",
+      "Cerrar el seguimiento institucional hasta que exista una sentencia definitiva del proceso."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación establece que, ante la falta de información sobre el avance de un proceso penal por violencia, el abogado defensor debe coordinar acciones con las Fiscalías Departamentales y las Defensorías de la Niñez y Adolescencia para obtener la información correspondiente y realizar el seguimiento respectivo."
+  },
+
+  {
+    "id": 1404,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Procedimiento disciplinario ante faltas graves por violencia",
+    "pagina": 31,
+    "pregunta": "¿Cuál es la acción inmediata que corresponde ejecutar a la Directora o al Director Distrital de Educación al recibir una denuncia de una falta grave por violencia que involucra a un miembro del plantel docente?",
+    "opciones": [
+      "Iniciar el respectivo proceso disciplinario hasta su culminación e informar a la Directora o al Director Departamental de Educación.",
+      "Esperar la resolución de una autoridad externa antes de iniciar cualquier procedimiento disciplinario.",
+      "Remitir la denuncia únicamente a la unidad educativa para que resuelva internamente el caso.",
+      "Suspender definitivamente al docente denunciado sin realizar ningún proceso disciplinario."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación establece que, al recibir una denuncia por una falta grave de violencia que involucra a un miembro del plantel docente, la Directora o el Director Distrital de Educación debe iniciar el proceso disciplinario correspondiente hasta su culminación e informar a la Directora o al Director Departamental de Educación."
+  },
+
+  {
+    "id": 1409,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Acciones preventivas para la convivencia pacífica y armónica",
+    "pagina": 35,
+    "pregunta": "El Protocolo de Prevención y Actuación identifica cinco aspectos que deben considerarse en las acciones de prevención de violencia en el ámbito educativo para asegurar condiciones favorables de convivencia pacífica y armónica. ¿Cuál de las siguientes opciones los enumera correctamente?",
+    "opciones": [
+      "Infraestructura segura, Planes de Convivencia Pacífica y Armónica, formación de recursos humanos, participación de estudiantes, y articulación con otros servicios.",
+      "Infraestructura educativa, reglamentos disciplinarios, sanciones administrativas, control docente y evaluación académica.",
+      "Capacitación docente, actividades deportivas, reuniones familiares, evaluación estudiantil y control institucional.",
+      "Seguridad escolar, vigilancia permanente, separación de estudiantes, sanciones inmediatas y restricciones de participación."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación establece cinco aspectos fundamentales para las acciones de prevención de violencia en el ámbito educativo: infraestructura segura, Planes de Convivencia Pacífica y Armónica, formación de recursos humanos, participación de estudiantes y articulación con otros servicios, orientados a fortalecer una convivencia pacífica y armónica."
+  },
+
+  {
+    "id": 1413,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Actuación de la Dirección Distrital ante violencia sexual",
+    "pagina": "30-31",
+    "pregunta": "La Directora Distrital Educativa toma conocimiento de un hecho de violencia sexual en su distrito. ¿Qué acciones debe seguir obligatoriamente según las establecidas en el protocolo?",
+    "opciones": [
+      "Iniciar el proceso disciplinario, coordinar con la Defensoría de la Niñez y Adolescencia, y garantizar la protección de la víctima.",
+      "Esperar la conclusión del proceso penal antes de iniciar cualquier acción administrativa o de protección.",
+      "Delegar la responsabilidad exclusivamente a la unidad educativa donde ocurrió el hecho.",
+      "Solicitar únicamente un informe escrito al docente involucrado sin realizar otras acciones."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación establece que, ante el conocimiento de un hecho de violencia sexual, la Dirección Distrital Educativa debe iniciar el proceso disciplinario correspondiente, coordinar acciones con la Defensoría de la Niñez y Adolescencia y garantizar las medidas necesarias para la protección integral de la víctima."
+  },
+
+  {
+    "id": 1414,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Procedimiento disciplinario ante hechos de violencia",
+    "pagina": 31,
+    "pregunta": "¿Cuál es la acción que debe ejecutar la Directora o el Director Distrital de Educación tras recibir el informe de la Directora o el Director de la unidad educativa sobre una falta grave relativa a violencia física, psicológica o la comisión de un delito de orden sexual por parte de un miembro del plantel?",
+    "opciones": [
+      "Iniciar el respectivo proceso disciplinario hasta su culminación e informar a la Directora o al Director Departamental de Educación.",
+      "Archivar el informe hasta contar con una sentencia penal definitiva.",
+      "Delegar la investigación exclusivamente a la dirección de la unidad educativa.",
+      "Solicitar únicamente una reunión de conciliación entre las partes involucradas."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación establece que, una vez recibido el informe de la Directora o Director de la unidad educativa sobre una falta grave relacionada con violencia física, psicológica o delitos de orden sexual cometidos por un miembro del plantel, la Dirección Distrital de Educación debe iniciar el respectivo proceso disciplinario hasta su culminación e informar a la Dirección Departamental de Educación."
+  },
+
+  {
+    "id": 1424,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Consecuencias de la violencia en estudiantes",
+    "pagina": 25,
+    "pregunta": "Una estudiante de secundaria presenta bajo rendimiento académico, dificultades en lectura y escritura, y ha sido identificada como víctima de agresión reiterada por parte de una autoridad educativa dentro de la unidad. ¿Identifique cuál es la consecuencia cognitiva a largo plazo?",
+    "opciones": [
+      "Disminución del desempeño cognitivo en ámbito escolar y generalizado a las actividades extracurriculares.",
+      "Aumento de la participación estudiantil y fortalecimiento de habilidades sociales.",
+      "Mejora progresiva del rendimiento académico debido a la intervención institucional.",
+      "Desarrollo exclusivo de problemas emocionales sin afectación en los procesos cognitivos."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación identifica que la violencia puede generar consecuencias cognitivas a largo plazo, como la disminución del desempeño cognitivo en el ámbito escolar y su generalización a actividades extracurriculares, afectando los procesos de aprendizaje y desarrollo integral del estudiante."
+  },
+
+  {
+    "id": 1454,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Medidas de protección y no revictimización",
+    "pagina": 55,
+    "pregunta": "En el marco de las medidas de protección a víctimas de violencia en el ámbito educativo, ¿qué combinación de acciones de la directora o el director y de las maestras o maestros refleja correctamente el protocolo de prevención y atención en casos de violencia?",
+    "opciones": [
+      "El director garantiza la no revictimización y las adecuaciones curriculares; las maestras mantienen una actitud habitual y de buen trato.",
+      "El director permite que la víctima sea interrogada constantemente para obtener mayor información; las maestras modifican permanentemente el trato hacia la estudiante.",
+      "El director suspende todas las actividades académicas de la víctima; las maestras evitan cualquier comunicación con ella.",
+      "El director delega toda la protección a la familia; las maestras aplican medidas diferenciadas y de aislamiento dentro del aula."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación establece que la dirección de la unidad educativa debe garantizar la no revictimización y realizar las adecuaciones curriculares necesarias para proteger el derecho a la educación de la víctima. Las maestras y maestros deben mantener una actitud habitual, de respeto y buen trato, evitando acciones que generen estigmatización o sobreprotección."
+  },
+
+  {
+    "id": 1469,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Ruta de actuación ante situaciones de violencia",
+    "pagina": "47-58",
+    "pregunta": "¿Cuáles son las actuaciones que deben seguirse cuando se conoce un caso de violencia contra niñas, niños y adolescentes?",
+    "opciones": [
+      "Detección, intervención, contención, denuncia, proceso administrativo, atención y protección.",
+      "Investigación interna, sanción inmediata, suspensión del estudiante y cierre del caso.",
+      "Comunicación a la familia, mediación escolar, conciliación y archivo del proceso.",
+      "Observación del caso, espera de pruebas, evaluación académica y seguimiento administrativo."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación establece que ante un caso de violencia contra niñas, niños y adolescentes deben seguirse las actuaciones de detección, intervención, contención, denuncia, proceso administrativo, atención y protección, garantizando la restitución de derechos y evitando la revictimización."
+  },
+
+  {
+    "id": 1470,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Consecuencias de la violencia en estudiantes",
+    "pagina": 24,
+    "pregunta": "¿Cuál de las siguientes consecuencias a mediano plazo por agresión, pertenece a la categoría emocional?",
+    "opciones": [
+      "Síntomas de depresión encubiertos o manifiestos.",
+      "Disminución del desempeño cognitivo en el ámbito escolar.",
+      "Dificultades específicas en lectura y escritura.",
+      "Problemas de concentración relacionados con el aprendizaje formal."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación identifica los síntomas de depresión encubiertos o manifiestos como consecuencias emocionales a mediano plazo derivadas de situaciones de agresión o violencia. Estas afectan el estado emocional y bienestar psicológico de la víctima."
+  },
+
+  {
+    "id": 1488,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Seguimiento de acciones judiciales",
+    "pagina": 28,
+    "pregunta": "Cuando la Directora o el Director Departamental de Educación denuncia actos de violencia sexual contra estudiantes del Sistema Educativo Plurinacional, ¿hasta qué etapa debe proseguir las acciones judiciales?",
+    "opciones": [
+      "Hasta su conclusión ante las instancias jurisdiccionales competentes.",
+      "Hasta la presentación inicial de la denuncia ante las autoridades correspondientes.",
+      "Hasta la apertura del proceso penal, sin necesidad de realizar seguimiento posterior.",
+      "Hasta la emisión del informe interno de la unidad educativa."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación establece que la Directora o el Director Departamental de Educación, al denunciar actos de violencia sexual contra estudiantes, debe proseguir las acciones judiciales hasta su conclusión ante las instancias jurisdiccionales competentes, garantizando el seguimiento institucional del caso."
+  },
+
+  {
+    "id": 1521,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Derivación y seguimiento de casos de violencia",
+    "pagina": "49-51",
+    "pregunta": "Ante situaciones de violencia en unidades educativas, una vez que el Director o Directora ha registrado el caso y determinado que requiere derivación externa, ¿cuál es el orden correcto de las acciones que se deben seguir?",
+    "opciones": [
+      "Comunicar a la familia (si no son los agresores), derivar a la Defensoría de la Niñez y Adolescencia, y realizar seguimiento del caso.",
+      "Derivar primero a la familia, esperar su autorización y posteriormente comunicar a las autoridades competentes.",
+      "Realizar únicamente un informe interno y esperar la decisión de la comunidad educativa antes de derivar el caso.",
+      "Comunicar a los estudiantes del curso, realizar una reunión general y posteriormente analizar la derivación."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación establece que, cuando un caso de violencia requiere derivación externa, la dirección de la unidad educativa debe comunicar a la familia siempre que esta no sea la agresora, derivar el caso a la Defensoría de la Niñez y Adolescencia y realizar el seguimiento correspondiente para garantizar la protección de la víctima."
+  },
+
+  {
+    "id": 1525,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Intervención y protección de víctimas de violencia",
+    "pagina": 50,
+    "pregunta": "La directora o el director de la unidad educativa y/o centro de educación especial debe asegurarse de que todas las acciones que se efectúan en un proceso de intervención con la víctima estén encaminadas a:",
+    "opciones": [
+      "Garantizar el interés superior de la niña, el niño y/o adolescente.",
+      "Priorizar únicamente los procedimientos administrativos internos de la unidad educativa.",
+      "Evitar la comunicación con otras instituciones para mantener la confidencialidad del caso.",
+      "Aplicar medidas disciplinarias antes de realizar acciones de protección a la víctima."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación establece que todas las acciones de intervención con una víctima de violencia deben estar orientadas a garantizar el interés superior de la niña, niño y/o adolescente, priorizando su protección integral, bienestar y restitución de derechos."
+  },
+
+  {
+    "id": 1553,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Medidas preventivas y pensamiento crítico",
+    "pagina": 36,
+    "pregunta": "¿Cuál es la combinación de medidas preventivas que la unidad educativa debe implementar de forma articulada, con relación a la obediencia a ciegas hacia un adulto de la comunidad educativa?",
+    "opciones": [
+      "Formar a los estudiantes con un pensamiento reflexivo y crítico, estimulando su capacidad y derecho a opinar y disentir respetuosamente, frente a pares y adultos, y no a la obediencia a ciegas.",
+      "Enseñar a los estudiantes a obedecer siempre a los adultos sin cuestionar sus decisiones dentro de la comunidad educativa.",
+      "Limitar la participación estudiantil para evitar conflictos con las autoridades educativas.",
+      "Delegar exclusivamente a la familia la formación del criterio personal y capacidad de decisión de los estudiantes."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación establece que las unidades educativas deben fortalecer el pensamiento reflexivo y crítico de los estudiantes, promoviendo su derecho a opinar, expresar sus ideas y disentir respetuosamente frente a pares y adultos, evitando la obediencia ciega como factor de riesgo ante situaciones de violencia."
+  },
+
+  {
+    "id": 1555,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Medidas generales de prevención de violencia",
+    "pagina": 36,
+    "pregunta": "Durante una jornada pedagógica, un maestro observa que varios estudiantes de secundaria manifiestan obediencia ciega ante las indicaciones de sus compañeros mayores, sin cuestionar situaciones que claramente vulneran su bienestar. Según las medidas generales de prevención de violencia, ¿qué acción preventiva debe priorizar el maestro para revertir esta situación?",
+    "opciones": [
+      "Formar a los estudiantes con un pensamiento reflexivo y crítico, estimulando su capacidad y derecho a opinar y disentir respetuosamente, y no a la obediencia a ciegas.",
+      "Promover que los estudiantes sigan las instrucciones de los compañeros mayores para mantener la disciplina dentro del grupo.",
+      "Evitar que los estudiantes expresen opiniones diferentes para reducir posibles conflictos entre compañeros.",
+      "Delegar la formación del pensamiento crítico únicamente a las familias y representantes legales."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación establece como medida preventiva fortalecer el pensamiento reflexivo y crítico de los estudiantes, promoviendo su capacidad y derecho a opinar, expresar sus ideas y disentir respetuosamente frente a pares y adultos, evitando la obediencia ciega que puede favorecer situaciones de vulnerabilidad."
+  },
+
+  {
+    "id": 1591,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Acciones de prevención de la violencia",
+    "pagina": 24,
+    "pregunta": "Las acciones de prevención en el ámbito educativo deben estar dirigidas a:",
+    "opciones": [
+      "Facilitar que las niñas, los niños y adolescentes se empoderen, adquieran valores y desarrollen habilidades de autocuidado.",
+      "Aplicar únicamente sanciones disciplinarias para evitar nuevos hechos de violencia.",
+      "Reducir la participación de estudiantes en actividades escolares para disminuir riesgos.",
+      "Delegar la prevención de la violencia exclusivamente a instituciones externas."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación establece que las acciones de prevención en el ámbito educativo deben orientarse a que las niñas, niños y adolescentes se empoderen, adquieran valores y desarrollen habilidades de autocuidado, fortaleciendo sus capacidades para identificar riesgos y protegerse ante situaciones de violencia."
+  },
+
+  {
+    "id": 1593,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Coordinación interinstitucional para la atención de casos de violencia",
+    "pagina": 30,
+    "pregunta": "¿Cuál es la finalidad específica que persigue la Directora o el Director Distrital Educativo al mantener la coordinación interinstitucional con las Defensorías de la Niñez y Adolescencia y las Instancias Técnicas Departamentales de Políticas Sociales (SEDEGES/SEDEPOS)?",
+    "opciones": [
+      "Facilitar en todo momento la derivación de casos de violencia y la atención de la violencia en especial en el proceso terapéutico de la víctima de la niñez y adolescencia.",
+      "Delegar la responsabilidad del seguimiento del caso únicamente a las instituciones externas de protección.",
+      "Evitar la intervención de otras instituciones para mantener el control interno de la unidad educativa.",
+      "Reemplazar el proceso administrativo educativo por acciones exclusivamente terapéuticas."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación establece que la coordinación interinstitucional de la Dirección Distrital Educativa con las Defensorías de la Niñez y Adolescencia y las Instancias Técnicas Departamentales de Políticas Sociales (SEDEGES/SEDEPOS) tiene como finalidad facilitar la derivación de casos de violencia y garantizar la atención integral, especialmente durante el proceso terapéutico de la víctima niña, niño o adolescente."
+  },
+
+  {
+    "id": 1794,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Medidas ante violencia física y psicológica",
+    "pagina": 57,
+    "pregunta": "En casos de violencia física y psicológica cometidos contra estudiantes en unidades educativas y centros de educación especial, si la Defensoría de la Niñez y Adolescencia determina que la falta cometida por el maestro o maestra no constituye infracción ni delito, ¿qué medida debe adoptar la Directora o Director de la Unidad Educativa?",
+    "opciones": [
+      "Emitir una amonestación escrita al maestro o maestra para evitar situaciones similares en el futuro.",
+      "Archivar definitivamente el caso sin realizar ninguna acción administrativa.",
+      "Suspender inmediatamente al maestro o maestra sin iniciar ningún procedimiento.",
+      "Trasladar al maestro o maestra a otra unidad educativa como medida preventiva."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación establece que, cuando la Defensoría de la Niñez y Adolescencia determina que la conducta del maestro o maestra no constituye infracción ni delito, pero corresponde realizar una acción preventiva, la Directora o Director de la Unidad Educativa debe emitir una amonestación escrita para evitar la repetición de situaciones similares."
+  },
+
+  {
+    "id": 1810,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Consecuencias de la violencia",
+    "pagina": 21,
+    "pregunta": "Las consecuencias de la violencia son diferentes, según la acción u omisión que se ejerce contra una niña, un niño o adolescente y depende de diversos factores como:",
+    "opciones": [
+      "El tipo de conducta, la relación de la agresora o del agresor con la víctima, la frecuencia, la relación del contexto, etc.",
+      "Únicamente la edad de la víctima y el nivel educativo en el que se encuentra.",
+      "Solamente la gravedad física de las lesiones ocasionadas durante el hecho de violencia.",
+      "El rendimiento académico de la víctima antes de la situación de violencia."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación establece que las consecuencias de la violencia pueden variar dependiendo de diversos factores, entre ellos el tipo de conducta ejercida, la relación de la agresora o agresor con la víctima, la frecuencia de los hechos y el contexto en el que ocurre la situación."
+  },
+
+  {
+    "id": 1842,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Obligatoriedad de denuncia ante situaciones de violencia",
+    "pagina": 53,
+    "pregunta": "Respecto a la obligatoriedad de denuncia ante situaciones de violencia contra niñas, niños o adolescentes en el ámbito educativo, ¿qué combinación de plazo, instancia receptora y consecuencia jurídica por omisión es correcta?",
+    "opciones": [
+      "Plazo máximo de 24 horas, ante las Defensorías de la Niñez y Adolescencia o cualquier otra autoridad competente; la omisión puede ser acusada de complicidad.",
+      "Plazo máximo de 72 horas, únicamente ante la dirección de la unidad educativa; la omisión solo genera una llamada de atención administrativa.",
+      "Plazo de una semana, ante la familia de la víctima; la omisión no genera ninguna responsabilidad legal.",
+      "Sin plazo establecido, ante autoridades educativas internas; la omisión corresponde únicamente a una falta leve."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación establece la obligatoriedad de denunciar situaciones de violencia contra niñas, niños y adolescentes en un plazo máximo de 24 horas ante las Defensorías de la Niñez y Adolescencia o cualquier otra autoridad competente. La omisión de esta obligación puede generar responsabilidad y ser considerada como complicidad."
+  },
+
+  {
+    "id": 1844,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Contención emocional de emergencia",
+    "pagina": 53,
+    "pregunta": "¿Cuál es la instancia responsable de realizar el proceso de contención emocional de emergencia de una víctima de violencia sexual?",
+    "opciones": [
+      "La Defensoría de la Niñez y Adolescencia (DNA) o los Servicios Legales Integrales Municipales (SLIM).",
+      "La dirección de la unidad educativa junto con el personal docente del establecimiento.",
+      "La familia de la víctima de manera exclusiva, sin intervención institucional.",
+      "La Dirección Departamental de Educación como única instancia responsable."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación establece que la contención emocional de emergencia de una víctima de violencia sexual debe ser realizada por instancias especializadas como la Defensoría de la Niñez y Adolescencia (DNA) o los Servicios Legales Integrales Municipales (SLIM), garantizando una atención adecuada y evitando la revictimización."
+  },
+
+  {
+    "id": 1878,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Elaboración de informe en casos de violencia sexual",
+    "pagina": 51,
+    "pregunta": "¿Cuál es la condición que debe cumplirse obligatoriamente al momento de elaborar el informe del hecho ante un caso de violencia sexual en la unidad educativa?",
+    "opciones": [
+      "Bajo ningún concepto se deben realizar preguntas adicionales a la víctima, garantizando la no revictimización.",
+      "Realizar una entrevista detallada a la víctima para obtener todos los antecedentes del hecho.",
+      "Solicitar a la víctima que relate nuevamente lo ocurrido frente a diferentes autoridades para confirmar la información.",
+      "Esperar a obtener una declaración completa de la víctima antes de comunicar el caso a las instancias correspondientes."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación establece que, al elaborar el informe de un hecho de violencia sexual, no se deben realizar preguntas adicionales a la víctima, debido a que esta acción puede generar revictimización. La función de la unidad educativa es registrar la información conocida y activar la ruta de actuación correspondiente."
+  },
+
+  {
+    "id": 1925,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Principios rectores y Convención sobre los Derechos del Niño",
+    "pagina": 13,
+    "pregunta": "El “Protocolo de Prevención y Actuación” menciona cuatro pilares fundamentales derivados de la Convención sobre los Derechos del Niño. Tres de ellos son: el interés superior del niño, el derecho a la supervivencia y al desarrollo, y el derecho a la no discriminación. ¿Cuál de las siguientes opciones corresponde al cuarto pilar?",
+    "opciones": [
+      "El derecho a que sea respetado su punto de vista.",
+      "El derecho exclusivo de los adultos a tomar decisiones sobre la vida del niño.",
+      "El derecho a recibir únicamente protección física dentro del entorno educativo.",
+      "El derecho a la aplicación de sanciones antes de ser escuchado."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación, basado en la Convención sobre los Derechos del Niño, reconoce como cuarto pilar el derecho a que sea respetado el punto de vista de niñas, niños y adolescentes, promoviendo su participación y consideración de sus opiniones en los asuntos que les afectan."
+  },
+
+  {
+    "id": 1992,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Consecuencias de la violencia",
+    "pagina": "24",
+    "pregunta": "Al comparar las tres categorías de consecuencias a corto plazo de una agresión, ¿Cuáles son las consecuencias emocionales?",
+    "opciones": [
+      "Sentimientos de tristeza y sensación de desamparo, cambios bruscos en el estado de ánimo, irritabilidad, temores sin origen determinado, sentimientos de vergüenza y culpa, síntomas de ansiedad frecuentes.",
+      "Dificultades de aprendizaje, disminución del rendimiento académico, problemas de concentración y alteraciones en procesos cognitivos.",
+      "Conductas agresivas, aislamiento social, consumo de sustancias y cambios en la conducta habitual.",
+      "Lesiones físicas visibles, problemas médicos permanentes y alteraciones exclusivamente corporales."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación identifica como consecuencias emocionales a corto plazo de una agresión los sentimientos de tristeza y desamparo, cambios bruscos en el estado de ánimo, irritabilidad, temores sin origen determinado, sentimientos de vergüenza y culpa, además de síntomas frecuentes de ansiedad."
+  },
+
+  {
+    "id": 2068,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Medidas de protección ante violencia sexual",
+    "pagina": 55,
+    "pregunta": "¿Qué combinación de instancias externas a la unidad educativa, medida de protección interna y acción pedagógica debe reflejarse ante un caso de violencia sexual contra una o un estudiante?",
+    "opciones": [
+      "Derivación a la Defensoría de la Niñez y Adolescencia, garantizar la no revictimización y aplicar adecuaciones curriculares si es necesario.",
+      "Comunicar únicamente a la familia, suspender las actividades escolares y esperar la resolución del proceso penal.",
+      "Realizar una investigación interna con entrevistas repetidas a la víctima y aplicar sanciones inmediatas.",
+      "Mantener el caso dentro de la unidad educativa, evitando la intervención de instituciones externas."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación establece que ante un caso de violencia sexual contra una o un estudiante se debe realizar la derivación a la Defensoría de la Niñez y Adolescencia, garantizar la no revictimización de la víctima y aplicar adecuaciones curriculares cuando sean necesarias para asegurar la continuidad educativa."
+  },
+
+  {
+    "id": 2070,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Obligación de denuncia y acción penal",
+    "pagina": 28,
+    "pregunta": "¿Cuál es la obligación de las Directoras y Directores Departamentales de Educación y el Ministerio de Educación ante directores, docentes o administrativos del Sistema Educativo Plurinacional sindicados de cometer delitos contra la vida, integridad física, psicológica y/o sexual de estudiantes?",
+    "opciones": [
+      "Denunciar y coadyuvar en la acción penal correspondiente hasta su conclusión.",
+      "Esperar la determinación de la unidad educativa antes de iniciar cualquier acción legal.",
+      "Realizar únicamente un informe administrativo interno sin intervención judicial.",
+      "Delegar la responsabilidad del proceso penal exclusivamente a la familia de la víctima."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación establece que las Directoras y Directores Departamentales de Educación y el Ministerio de Educación tienen la obligación de denunciar los hechos y coadyuvar en la acción penal correspondiente hasta su conclusión cuando directores, docentes o administrativos del Sistema Educativo Plurinacional sean sindicados de cometer delitos contra la vida, integridad física, psicológica y/o sexual de estudiantes."
+  },
+
+  {
+    "id": 2071,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Responsabilidades de la directora o director de unidad educativa",
+    "pagina": 39,
+    "pregunta": "¿Cuál de las siguientes acciones corresponde EXCLUSIVAMENTE a la responsabilidad de la directora o director de la unidad educativa en el marco de las medidas generales de prevención de la violencia, y NO puede ser delegada ni compartida con otros actores de la comunidad educativa?",
+    "opciones": [
+      "Denunciar ante la autoridad competente cualquier hecho delictivo contra alguna/algún estudiante.",
+      "Promover actividades educativas de prevención de la violencia con participación de la comunidad educativa.",
+      "Coordinar acciones preventivas con maestras, maestros, estudiantes y familias.",
+      "Fortalecer espacios de convivencia pacífica y armónica dentro de la unidad educativa."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación establece que la directora o director de la unidad educativa tiene la responsabilidad de denunciar ante la autoridad competente cualquier hecho delictivo cometido contra una o un estudiante. Esta obligación tiene carácter institucional y no puede ser delegada, ya que garantiza la activación de la ruta de protección de derechos."
+  },
+
+  {
+    "id": 2081,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Coordinación interinstitucional y derivación de casos de violencia",
+    "pagina": 30,
+    "pregunta": "¿Cuáles son las instancias de coordinación interinstitucional que debe mantener la Directora o el Director Distrital Educativo, a fin de facilitar la derivación de casos de violencia y la atención terapéutica de la niñez y adolescencia víctima de violencia?",
+    "opciones": [
+      "Defensorías de la Niñez y Adolescencia y los Centros Especializados de Prevención y Atención Terapéutica (CEPAT).",
+      "Únicamente las unidades educativas y los consejos educativos sociales comunitarios.",
+      "El Ministerio de Educación y las organizaciones sindicales del magisterio.",
+      "Solamente los padres, madres o tutores de las víctimas de violencia."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación establece que la Directora o Director Distrital Educativo debe mantener coordinación interinstitucional con las Defensorías de la Niñez y Adolescencia y los Centros Especializados de Prevención y Atención Terapéutica (CEPAT), con la finalidad de facilitar la derivación de casos de violencia y garantizar la atención terapéutica de niñas, niños y adolescentes víctimas de violencia."
+  },
+
+  {
+    "id": 2087,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Articulación con servicios externos de protección",
+    "pagina": 35,
+    "pregunta": "En una unidad educativa se detecta que un estudiante presenta señales de posible situación de riesgo. ¿Cuáles son los otros servicios, que deben articular los actores de la comunidad para restituir los derechos del estudiante?",
+    "opciones": [
+      "Servicios de salud, protección y asistencia social.",
+      "Únicamente servicios educativos internos de la unidad educativa.",
+      "Servicios administrativos y organizaciones sindicales del magisterio.",
+      "Solamente la familia del estudiante y sus representantes legales."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación establece que, para restituir los derechos de niñas, niños y adolescentes en situación de riesgo, los actores de la comunidad educativa deben articular acciones con servicios de salud, protección y asistencia social, garantizando una atención integral."
+  },
+
+  {
+    "id": 2123,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Acciones preventivas contra la violencia",
+    "pagina": 36,
+    "pregunta": "¿Qué afirmación es la correcta, respecto a las acciones de prevención de la violencia física, psicológica y sexual que todos los miembros de la comunidad educativa deben fortalecer?",
+    "opciones": [
+      "Promover una cultura de respeto a la diversidad y la no violencia mediante actividades que permitan la deconstrucción de estereotipos de género, étnicos y generacionales.",
+      "Aplicar medidas disciplinarias más estrictas como principal estrategia para eliminar cualquier forma de violencia.",
+      "Evitar abordar temas de diversidad para prevenir posibles conflictos dentro de la comunidad educativa.",
+      "Delegar la prevención de la violencia exclusivamente al personal directivo de la unidad educativa."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación establece que todos los miembros de la comunidad educativa deben fortalecer acciones orientadas a promover una cultura de respeto a la diversidad y la no violencia, mediante actividades que permitan la deconstrucción de estereotipos de género, étnicos y generacionales."
+  },
+
+  {
+    "id": 2165,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Ruta de actuación ante violencia sexual",
+    "pagina": 49,
+    "pregunta": "Cuando se evidencia la seducción, manipulación emocional de una niña, niño o adolescente para ganarse su confianza con fines sexuales. ¿Cuál es el primer paso que debe ejecutar el personal directivo o docente según la ruta de actuación?",
+    "opciones": [
+      "Detectar la situación y comunicarla inmediatamente a la directora o director de la unidad educativa.",
+      "Realizar una entrevista detallada a la víctima para obtener mayor información antes de comunicar el caso.",
+      "Esperar la confirmación del hecho por parte de la familia antes de activar cualquier procedimiento.",
+      "Resolver la situación dentro de la unidad educativa sin intervención de otras instancias."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación establece que ante la detección de situaciones de seducción o manipulación emocional con fines sexuales hacia una niña, niño o adolescente, el personal docente o directivo debe detectar la situación y comunicarla inmediatamente a la directora o director de la unidad educativa para activar la ruta de actuación correspondiente."
+  },
+
+  {
+    "id": 2170,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Responsabilidades de madres, padres y/o tutores",
+    "pagina": 43,
+    "pregunta": "¿Cuál de las siguientes acciones corresponde a las responsabilidades asignadas a madres, padres y/o tutores en el protocolo de prevención y actuación ante situaciones de violencia?",
+    "opciones": [
+      "Informar a la directora o al director de la unidad educativa o del centro de educación especial de cualquier acción o comportamiento que considere que está al margen del Plan de Convivencia Armónica y Pacífica.",
+      "Resolver directamente cualquier situación de violencia sin comunicar a las autoridades educativas correspondientes.",
+      "Aplicar sanciones disciplinarias dentro de la unidad educativa cuando identifiquen conductas inadecuadas.",
+      "Realizar investigaciones internas sobre hechos de violencia antes de informar a la dirección."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación establece que madres, padres y/o tutores tienen la responsabilidad de informar a la directora o director de la unidad educativa o centro de educación especial sobre cualquier acción o comportamiento que consideren contrario al Plan de Convivencia Armónica y Pacífica, contribuyendo a la prevención y atención oportuna de situaciones de violencia."
+  },
+
+  {
+    "id": 2175,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Ruta de actuación ante indicadores de violencia",
+    "pagina": "49-51",
+    "pregunta": "Una estudiante presenta hematomas visibles en el rostro y señales de dolor al sentarse. ¿Cuál es la secuencia correcta de acciones que debe seguir el personal de la unidad educativa?",
+    "opciones": [
+      "Detectar los indicadores, comunicar a la directora o director, elaborar informe, comunicar a la familia (si no son los agresores), derivar a la Defensoría de la Niñez y Adolescencia.",
+      "Esperar a que la estudiante presente una denuncia formal, comunicar únicamente a la familia y archivar el caso.",
+      "Realizar una investigación interna con entrevistas a la estudiante y decidir posteriormente si corresponde la derivación.",
+      "Solicitar primero autorización de la familia para intervenir y evitar la participación de instituciones externas."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación establece que ante la detección de indicadores de violencia, el personal educativo debe seguir la ruta de actuación correspondiente: detectar la situación, comunicar a la directora o director de la unidad educativa, elaborar el informe del hecho, comunicar a la familia siempre que no sean los agresores y realizar la derivación a la Defensoría de la Niñez y Adolescencia para la protección integral de la víctima."
+  },
+
+  {
+    "id": 2186,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Responsabilidades institucionales del Ministerio de Educación",
+    "pagina": 27,
+    "pregunta": "Dentro de las responsabilidades institucionales del Ministerio de Educación en casos de violencia contra niñas, niños y adolescentes, está:",
+    "opciones": [
+      "Consolidar anualmente la información de casos de violencia para formular políticas de prevención.",
+      "Delegar exclusivamente a las unidades educativas la recopilación y análisis de casos de violencia.",
+      "Limitar su intervención únicamente a procesos administrativos internos sin generar políticas preventivas.",
+      "Esperar la conclusión de los procesos judiciales antes de recopilar información sobre los casos."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación establece que el Ministerio de Educación, dentro de sus responsabilidades institucionales, debe consolidar anualmente la información de casos de violencia con la finalidad de generar datos que permitan formular políticas y acciones de prevención en el Sistema Educativo Plurinacional."
+  },
+
+  {
+    "id": 2194,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Consecuencias de la violencia",
+    "pagina": 24,
+    "pregunta": "Una estudiante presenta cambios bruscos en su estado de ánimo, ausentismo escolar injustificado frecuente y conductas autodestructivas. ¿A qué categoría de consecuencias corresponden principalmente los indicadores señalados?",
+    "opciones": [
+      "Consecuencias conductuales a corto plazo.",
+      "Consecuencias cognitivas a largo plazo.",
+      "Consecuencias físicas permanentes.",
+      "Consecuencias académicas exclusivamente."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación identifica como consecuencias conductuales a corto plazo de la violencia los cambios bruscos en el comportamiento, ausentismo escolar injustificado frecuente y conductas autodestructivas, debido a que afectan la forma en que la víctima actúa y se relaciona con su entorno."
+  },
+
+  {
+    "id": 2195,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Consecuencias de la violencia",
+    "pagina": 24,
+    "pregunta": "Un maestro de secundaria advierte que un estudiante de 14 años, que anteriormente era participativo y con buen rendimiento, lleva varios meses sin asistir regularmente a clases, ha sido reportado por consumo de alcohol en el entorno escolar y presenta un comportamiento desafiante hacia las normas del establecimiento. Al indagar con la trabajadora social, se confirma que el estudiante fue víctima de agresiones reiteradas meses atrás. ¿A qué categoría de consecuencias a mediano plazo corresponden principalmente los indicadores identificados?",
+    "opciones": [
+      "Consecuencias conductuales a mediano plazo.",
+      "Consecuencias emocionales a corto plazo.",
+      "Consecuencias cognitivas a largo plazo.",
+      "Consecuencias físicas inmediatas."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación identifica como consecuencias conductuales a mediano plazo aquellas relacionadas con cambios persistentes en la conducta de la víctima, como ausentismo escolar, consumo de sustancias, conductas desafiantes y modificaciones negativas en su comportamiento habitual después de una situación de violencia."
+  },
+
+  {
+    "id": 2198,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Medidas generales de prevención de la violencia",
+    "pagina": 36,
+    "pregunta": "¿Cuál de las siguientes combinaciones de acciones refleja correctamente el enfoque restaurativo y el abordaje del conflicto como parte natural de la vida en las medidas generales de prevención ante situaciones de violencia en unidades educativas?",
+    "opciones": [
+      "Aceptar el conflicto como parte natural de la vida e incentivar su resolución pacífica, fomentando el diálogo.",
+      "Eliminar cualquier tipo de conflicto mediante sanciones estrictas y evitar espacios de diálogo.",
+      "Ignorar los conflictos menores para evitar afectar la convivencia dentro de la unidad educativa.",
+      "Resolver los conflictos únicamente mediante la intervención de autoridades externas a la comunidad educativa."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación establece un enfoque restaurativo donde el conflicto es entendido como parte natural de la vida. Por ello, se debe promover su resolución pacífica mediante el diálogo, la escucha y la construcción de acuerdos que fortalezcan la convivencia armónica."
+  },
+
+  {
+    "id": 2224,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Responsabilidades de madres, padres y/o tutores",
+    "pagina": 43,
+    "pregunta": "Un maestro tiene comportamientos que se consideran fuera del plan de convivencia armónica y pacífica establecidos en la unidad educativa. ¿Cuál es la acción que corresponde realizar a las madres, padres y/o tutores según las responsabilidades asignadas?",
+    "opciones": [
+      "Informar a la directora o al director de la unidad educativa para que tome las acciones que correspondan.",
+      "Aplicar directamente una sanción al maestro por los comportamientos observados.",
+      "Resolver el problema únicamente mediante acuerdos entre padres de familia sin informar a la dirección.",
+      "Esperar que la situación se agrave antes de comunicarla a las autoridades educativas."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación establece que madres, padres y/o tutores deben informar a la directora o director de la unidad educativa o centro de educación especial sobre cualquier acción o comportamiento que esté al margen del Plan de Convivencia Armónica y Pacífica, para que la autoridad correspondiente adopte las acciones necesarias."
+  },
+
+  {
+    "id": 2225,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Actuación ante revelación de violencia sexual",
+    "pagina": 50,
+    "pregunta": "Durante la jornada escolar, una maestra recibe el testimonio de una estudiante que revela haber sido víctima de violencia sexual. ¿Cuál es la acción inmediata que debe realizar la maestra?",
+    "opciones": [
+      "Escuchar sin interrumpir, agradecer la confianza, no poner en duda el relato, e informar que se tomarán todas las medidas para proteger a la estudiante, comunicando a la directora o director de la unidad educativa.",
+      "Realizar preguntas detalladas para obtener más información y confirmar la veracidad del relato antes de comunicar el caso.",
+      "Solicitar a la estudiante que guarde silencio hasta que se presente una denuncia formal ante las autoridades competentes.",
+      "Comunicar primero a los padres o tutores en todos los casos, aunque puedan estar relacionados con la situación de violencia."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación establece que, ante la revelación de un hecho de violencia sexual, la maestra o maestro debe escuchar a la víctima sin interrumpir, agradecer la confianza, creer en su relato, evitar cuestionamientos y comunicarle que se adoptarán medidas de protección. Posteriormente debe informar a la directora o director de la unidad educativa para activar la ruta de actuación correspondiente, evitando la revictimización."
+  },
+
+  {
+    "id": 2229,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Consecuencias de la violencia",
+    "pagina": 24,
+    "pregunta": "Al comparar las tres categorías de consecuencias a mediano plazo de una agresión en estudiante. ¿Qué afirmación clasifica correctamente las manifestaciones según su categoría?",
+    "opciones": [
+      "Síntomas de depresión (emocional), disminución del desempeño cognitivo (cognitiva), deserción escolar (conductual).",
+      "Síntomas de depresión (cognitiva), disminución del desempeño cognitivo (conductual), deserción escolar (emocional).",
+      "Deserción escolar (cognitiva), síntomas de depresión (conductual), disminución del desempeño cognitivo (emocional).",
+      "Disminución del desempeño cognitivo (emocional), deserción escolar (física), síntomas de depresión (académica)."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación clasifica las consecuencias de la violencia a mediano plazo en diferentes categorías: los síntomas de depresión corresponden al ámbito emocional, la disminución del desempeño cognitivo pertenece a la categoría cognitiva y la deserción escolar corresponde a consecuencias conductuales."
+  },
+
+  {
+    "id": 2261,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Responsabilidades de la Dirección Departamental de Educación",
+    "pagina": 29,
+    "pregunta": "Según las responsabilidades asignadas a la Directora o el Director Departamental de Educación en materia de prevención y atención de la violencia, ¿cuál de las siguientes acciones le corresponde específicamente en relación con la información de casos registrados?",
+    "opciones": [
+      "Sistematizar la información de los casos de violencia a nivel del departamento.",
+      "Delegar el registro de casos únicamente a las unidades educativas sin realizar seguimiento departamental.",
+      "Limitarse a recibir informes sin organizar ni analizar la información registrada.",
+      "Archivar los casos de violencia sin generar información para acciones preventivas."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación establece que la Directora o Director Departamental de Educación tiene la responsabilidad de sistematizar la información de los casos de violencia registrados a nivel departamental, permitiendo generar datos para fortalecer las acciones de prevención y atención dentro del Sistema Educativo Plurinacional."
+  },
+
+  {
+    "id": 2288,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Responsabilidades de abogados defensores en casos de violencia",
+    "pagina": "27-28",
+    "pregunta": "¿Cuál es la función que cumplen los abogados defensores en el marco de la protección de niñas, niños y adolescentes estudiantes dentro del sistema educativo?",
+    "opciones": [
+      "Denunciar ante el Ministerio Público los delitos que atenten contra la vida, la integridad física, psicológica y/o sexual de los estudiantes.",
+      "Resolver internamente los casos de violencia sin comunicar a las autoridades competentes.",
+      "Realizar únicamente informes administrativos sin intervención en procesos legales.",
+      "Delegar la responsabilidad de denuncia exclusivamente a la familia de la víctima."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación establece que los abogados defensores tienen la responsabilidad de denunciar ante el Ministerio Público los delitos que atenten contra la vida, la integridad física, psicológica y/o sexual de niñas, niños y adolescentes estudiantes, contribuyendo a la protección y restitución de sus derechos."
+  },
+
+  {
+    "id": 2366,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Responsabilidades de maestras y maestros en la prevención de violencia",
+    "pagina": 41,
+    "pregunta": "El Protocolo de Prevención y Actuación del Ministerio de Educación del Estado Plurinacional de Bolivia establece obligaciones específicas para las maestras y maestros en materia de prevención de la violencia en la comunidad educativa. ¿Cuál de las siguientes afirmaciones describe correctamente una de esas obligaciones?",
+    "opciones": [
+      "Fortalecer la educación integral en sexualidad, el autocuidado de la integridad física y psicológica de las y los estudiantes y la prevención de la violencia.",
+      "Delegar la prevención de la violencia únicamente a la dirección de la unidad educativa y a instituciones externas.",
+      "Evitar abordar temas relacionados con sexualidad y autocuidado para prevenir conflictos dentro del aula.",
+      "Intervenir solamente cuando exista una denuncia formal y escrita de violencia."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación establece que las maestras y maestros tienen la obligación de fortalecer la educación integral en sexualidad, promover el autocuidado de la integridad física y psicológica de las y los estudiantes, y desarrollar acciones orientadas a la prevención de la violencia dentro de la comunidad educativa."
+  },
+
+  {
+    "id": 2368,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Responsabilidades de estudiantes en la prevención de violencia",
+    "pagina": 44,
+    "pregunta": "Dentro de las responsabilidades de los estudiantes en materia de prevención de la violencia, ¿ante quién deben poner en conocimiento cualquier conducta o situación de violencia que ocurra al interior de la unidad educativa?",
+    "opciones": [
+      "Ante la directora o el director de la unidad educativa y/o centro de educación especial.",
+      "Ante cualquier compañero de curso para que comunique posteriormente la situación.",
+      "Únicamente ante sus madres, padres o tutores, sin informar a la unidad educativa.",
+      "Ante autoridades externas sin comunicar a la dirección de la unidad educativa."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación establece que las y los estudiantes tienen la responsabilidad de comunicar cualquier conducta o situación de violencia que ocurra dentro de la unidad educativa ante la directora o director de la unidad educativa y/o centro de educación especial, permitiendo activar las acciones de prevención y protección correspondientes."
+  },
+
+  {
+    "id": 2381,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Responsabilidades de la Dirección Distrital Educativa",
+    "pagina": "30-31",
+    "pregunta": "¿Qué afirmación describe con mayor precisión la articulación entre la supervisión del funcionamiento de las unidades educativas y la actualización de información sobre denuncias de violencia respecto a las responsabilidades de la Directora o el Director Distrital Educativo?",
+    "opciones": [
+      "Supervisar el funcionamiento y actualizar permanentemente la información sobre denuncias son responsabilidades complementarias que permiten un seguimiento integral de la situación.",
+      "La supervisión del funcionamiento de las unidades educativas reemplaza la necesidad de actualizar información sobre denuncias de violencia.",
+      "La actualización de denuncias corresponde únicamente a las unidades educativas y no es responsabilidad de la Dirección Distrital.",
+      "Ambas acciones son independientes y no tienen relación con el seguimiento de casos de violencia."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación establece que la Directora o Director Distrital Educativo debe supervisar el funcionamiento de las unidades educativas y mantener actualizada la información sobre denuncias de violencia. Ambas responsabilidades se complementan para permitir un seguimiento integral, fortalecer la prevención y garantizar una adecuada atención de los casos."
+  },
+
+  {
+    "id": 2383,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Medidas preventivas: transformación cultural y desarrollo de capacidades",
+    "pagina": "36-37",
+    "pregunta": "¿Cuál de las siguientes afirmaciones describe correctamente la distinción entre las medidas orientadas a la transformación del entorno cultural de la comunidad educativa y las medidas orientadas al desarrollo de capacidades críticas y reflexivas del estudiante, de acuerdo al Protocolo de Prevención y Actuación?",
+    "opciones": [
+      "Las medidas de transformación cultural buscan modificar el clima escolar y las prácticas docentes; las medidas de desarrollo de capacidades se centran en empoderar a los estudiantes.",
+      "Las medidas de transformación cultural se enfocan únicamente en sancionar conductas inadecuadas; las medidas de desarrollo de capacidades buscan controlar el comportamiento estudiantil.",
+      "Ambas medidas tienen como único objetivo mejorar el rendimiento académico sin considerar aspectos de convivencia.",
+      "Las medidas de desarrollo de capacidades corresponden exclusivamente al personal directivo y no involucran a los estudiantes."
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación diferencia dos enfoques preventivos: las medidas de transformación cultural buscan generar cambios en el clima escolar, las relaciones y las prácticas dentro de la comunidad educativa; mientras que las medidas de desarrollo de capacidades están dirigidas a fortalecer en las y los estudiantes el pensamiento crítico, la reflexión, el autocuidado y su capacidad de actuar frente a situaciones de riesgo."
+  },
+
+  {
+    "id": 2495,
+    "pdf": "Protocolo de Prevención y Actuación",
+    "unidad": "Ruta de actuación ante casos de violencia",
+    "pagina": 13,
+    "pregunta": "¿Cuál de las siguientes interrogantes define correctamente la estructura de una ruta de actuación ante casos de violencia en la comunidad educativa?",
+    "opciones": [
+      "¿Qué, cómo, dónde, quién, a quién y por qué?",
+      "¿Cuándo, cuánto, quién sanciona y cuál es la consecuencia económica del hecho?",
+      "¿Quién denuncia, quién castiga y qué sanción corresponde aplicar inmediatamente?",
+      "¿Dónde ocurrió, quién observa y qué procedimiento administrativo interno se debe seguir únicamente?"
+    ],
+    "correcta": 0,
+    "explicacion": "El Protocolo de Prevención y Actuación establece que la ruta de actuación ante casos de violencia debe responder a preguntas fundamentales que orientan la intervención: qué ocurrió, cómo ocurrió, dónde ocurrió, quién interviene, a quién está dirigida la acción y por qué se realiza, permitiendo organizar una respuesta adecuada para la protección de niñas, niños y adolescentes."
   }
 ]
