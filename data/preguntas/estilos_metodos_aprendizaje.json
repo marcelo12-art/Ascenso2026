@@ -1,0 +1,740 @@
+[
+  {
+    "id": 4,
+    "pregunta": "Según la definición de estilo de aprendizaje como conjunto de elementos exteriores que influyen en el contexto de la situación de aprendizaje, ¿cuáles son los indicadores estables que los alumnos perciben, interaccionan y responden a sus ambientes de aprendizaje?",
+    "opciones": [
+      "Los rasgos cognitivos, afectivos y fisiológicos.",
+      "Los factores económicos, culturales y sociales.",
+      "Las capacidades motrices, lingüísticas y artísticas.",
+      "Las habilidades tecnológicas y comunicativas."
+    ],
+    "correcta": 0,
+    "explicacion": "Los estilos de aprendizaje se manifiestan mediante rasgos cognitivos, afectivos y fisiológicos que determinan la manera en que cada estudiante percibe, procesa y responde a la información.",
+    "pdf": "estilos_metodos_aprendizaje.pdf",
+    "tema": "Estilos de aprendizaje"
+  },
+
+  {
+    "id": 6,
+    "pdf": "Estilos de Aprendizaje",
+    "pregunta": "La motivación es de particular interés para los psicólogos educativos debido al papel crucial que juega en el aprendizaje de los estudiantes. Los teóricos han expresado diferentes puntos de vista sobre la motivación. ¿Cuáles son las tres corrientes sobresalientes que se identifican?",
+    "opciones": [
+      "El punto de vista conductista, la visión cognitiva y la visión humanista.",
+      "El enfoque constructivista, el enfoque sociocultural y el enfoque crítico.",
+      "La teoría del aprendizaje significativo, la teoría ecológica y la teoría social.",
+      "El enfoque biológico, el enfoque tecnológico y el enfoque pedagógico."
+    ],
+    "correcta": 0,
+    "explicacion": "La psicología educativa reconoce tres enfoques principales de la motivación: conductista, cognitivo y humanista."
+  },
+
+  {
+    "id": 12,
+    "pdf": "Estilos de Aprendizaje",
+    "pregunta": "¿Qué función cumple la motivación en el proceso de aprendizaje según la psicología educativa?",
+    "opciones": [
+      "Dirigir la energía hacia metas constructivas favoreciendo el aprendizaje.",
+      "Incrementar únicamente la memoria a corto plazo.",
+      "Reducir la participación del estudiante durante la clase.",
+      "Eliminar la necesidad de evaluación."
+    ],
+    "correcta": 0,
+    "explicacion": "La motivación dirige la energía del estudiante hacia el logro de objetivos de aprendizaje."
+  },
+
+  {
+    "id": 16,
+    "pregunta": "Además de procurar la eficiencia de los sistemas de administración, ¿qué deben hacer los sistemas de Control Interno y de Control Externo Posterior?",
+    "opciones": [
+      "Garantizar únicamente el cumplimiento de las normas administrativas.",
+      "Evaluar la eficacia, eficiencia, economía y transparencia de la gestión pública, promoviendo la responsabilidad por la función pública.",
+      "Controlar exclusivamente los recursos humanos.",
+      "Autorizar todas las contrataciones públicas."
+    ],
+    "correcta": 1,
+    "explicacion": "Los sistemas de Control Interno y Control Externo Posterior buscan asegurar una gestión pública eficiente, eficaz, económica y transparente, promoviendo la responsabilidad por la función pública.",
+    "pdf": "ley_1178_safco.pdf",
+    "tema": "Control Interno y Externo"
+  },
+  {
+    "id": 17,
+    "pdf": "Estilos de Aprendizaje",
+    "pregunta": "Según el libro «Estilos de Aprendizaje y Métodos de Enseñanza», ¿cuál es el aspecto clave del aprendizaje activo que los estudiantes deben reconocer?",
+    "opciones": [
+      "Reconocer lo que entienden y lo que no entienden.",
+      "Memorizar todos los contenidos antes de participar.",
+      "Depender completamente de la explicación del docente.",
+      "Responder únicamente cuando tengan la respuesta correcta."
+    ],
+    "correcta": 0,
+    "explicacion": "El aprendizaje activo implica que el estudiante sea consciente de lo que comprende y de aquello que aún necesita aprender."
+  },
+
+  {
+    "id": 20,
+    "pregunta": "En el modelo pedagógico tradicional, ¿cuál describe con mayor precisión la finalidad principal que se asigna al proceso de evaluación del aprendizaje estudiantil?",
+    "opciones": [
+      "Desarrollar competencias mediante proyectos colaborativos.",
+      "Estimar el grado de dominio del currículo, verificando la repetición y reproducción de los contenidos aprendidos.",
+      "Evaluar únicamente las habilidades sociales.",
+      "Favorecer exclusivamente la creatividad del estudiante."
+    ],
+    "correcta": 1,
+    "explicacion": "En el modelo tradicional, la evaluación tiene como finalidad comprobar el dominio de los contenidos curriculares mediante la reproducción de los conocimientos impartidos.",
+    "pdf": "estilos_metodos_aprendizaje.pdf",
+    "tema": "Modelo pedagógico tradicional"
+  },
+
+  {
+    "id": 30,
+    "pdf": "Estilos y Métodos de Aprendizaje",
+    "pregunta": "Los principios psicológicos de enseñanza pueden hacer que la enseñanza sea más eficaz y eficiente al ayudar a crear condiciones que apoyan el aprendizaje de los estudiantes. En particular, ¿por qué se recomienda individualizar el estilo de enseñanza?",
+    "opciones": [
+      "Porque permite que cada estudiante pueda usar su estilo favorito y volverse más eficiente en todos los estilos.",
+      "Porque todos los estudiantes aprenden únicamente mediante un mismo método de enseñanza.",
+      "Porque evita que el docente tenga que adaptar las actividades de aprendizaje.",
+      "Porque garantiza que todos los estudiantes obtengan la misma calificación."
+    ],
+    "correcta": 0,
+    "explicacion": "Individualizar el estilo de enseñanza permite que cada estudiante aproveche su estilo preferido y, al mismo tiempo, desarrolle habilidades en otros estilos de aprendizaje."
+  },
+
+  {
+    "id": 32,
+    "pdf": "Estilos y Métodos de Aprendizaje",
+    "pregunta": "Un maestro observa que sus grupos no participan espontáneamente, un colega le sugiere usar calificaciones altas como incentivo permanente y otro le recomienda crear condiciones ambientales favorables. Considerando el texto de Sáez López, ¿cuál es la decisión más fundamentada y por qué?",
+    "opciones": [
+      "Crear condiciones ambientales favorables, ya que la motivación extrínseca puede generar dependencia y disminuir la motivación intrínseca.",
+      "Utilizar únicamente calificaciones altas para incentivar la participación.",
+      "Incrementar la cantidad de tareas para mantener ocupados a los estudiantes.",
+      "Aplicar sanciones a quienes no participen durante la clase."
+    ],
+    "correcta": 0,
+    "explicacion": "Un ambiente favorable fortalece la motivación intrínseca y favorece el aprendizaje autónomo."
+  },
+
+  {
+    "id": 33,
+    "pdf": "Estilos y Métodos de Aprendizaje",
+    "pregunta": "Según el libro «Estilos de Aprendizaje y Métodos de Enseñanza», ¿qué caracteriza específicamente al aprendizaje multimedia?",
+    "opciones": [
+      "El uso de estímulos auditivos y visuales para aprender información.",
+      "El aprendizaje basado exclusivamente en la lectura de textos.",
+      "La repetición continua de ejercicios escritos.",
+      "El aprendizaje obtenido únicamente mediante experiencias prácticas."
+    ],
+    "correcta": 0,
+    "explicacion": "El aprendizaje multimedia integra estímulos visuales y auditivos para facilitar la comprensión."
+  },
+
+  {
+    "id": 34,
+    "pdf": "Estilos y Métodos de Aprendizaje",
+    "pregunta": "¿Qué distingue al aprendizaje episódico de otros tipos de aprendizaje?",
+    "opciones": [
+      "Es un cambio en el comportamiento que se produce como resultado de un evento específico.",
+      "Se basa exclusivamente en la repetición constante de contenidos.",
+      "Se desarrolla únicamente mediante el aprendizaje colaborativo.",
+      "Depende exclusivamente de la memoria a corto plazo."
+    ],
+    "correcta": 0,
+    "explicacion": "El aprendizaje episódico surge a partir de experiencias concretas que modifican el comportamiento."
+  },
+
+  {
+    "id": 31,
+    "pdf": "Estilos y Métodos de Aprendizaje",
+    "pregunta": "Una maestra de secundaria nota que sus estudiantes tienen distintas formas de aprender y decide adaptar su práctica docente. Según los principios psicológicos de la enseñanza, ¿cuál es el propósito del principio «Individualizar el estilo de enseñanza»?",
+    "opciones": [
+      "Usar una variedad de estilos de enseñanza y ejercicios de aprendizaje para que cada estudiante pueda usar su estilo favorito y volverse más eficiente en todos los estilos.",
+      "Aplicar un único método de enseñanza para garantizar la igualdad entre los estudiantes.",
+      "Permitir que cada estudiante aprenda únicamente de forma independiente.",
+      "Reducir la cantidad de actividades para facilitar el proceso de evaluación."
+    ],
+    "correcta": 0,
+    "explicacion": "El docente debe emplear diversos estilos de enseñanza para atender las diferencias individuales y fortalecer todos los estilos de aprendizaje."
+  },
+
+  {
+    "id": 32,
+    "pregunta": "Un maestro observa que sus grupos no participan espontáneamente. Un colega le sugiere usar calificaciones altas como incentivo permanente y otro le recomienda crear condiciones ambientales favorables. ¿Cuál es la decisión más fundamentada y por qué?",
+    "opciones": [
+      "Utilizar únicamente recompensas económicas.",
+      "Crear condiciones ambientales favorables, ya que el uso excesivo de recompensas extrínsecas puede disminuir la motivación intrínseca.",
+      "Aplicar castigos para mejorar la disciplina.",
+      "Incrementar la cantidad de tareas para aumentar la participación."
+    ],
+    "correcta": 1,
+    "explicacion": "El aprendizaje es más significativo cuando existe motivación intrínseca. El uso excesivo de recompensas externas puede generar dependencia y limitar la transferencia del aprendizaje.",
+    "pdf": "estilos_metodos_aprendizaje.pdf",
+    "tema": "Motivación"
+  },
+  {
+    "id": 33,
+    "pregunta": "Según el libro «Estilos de Aprendizaje y Métodos de Enseñanza», ¿qué caracteriza específicamente al aprendizaje multimedia?",
+    "opciones": [
+      "Utilizar únicamente textos escritos.",
+      "Aprender exclusivamente mediante imágenes.",
+      "Utilizar simultáneamente estímulos auditivos y visuales para aprender información.",
+      "Aprender únicamente mediante la experiencia práctica."
+    ],
+    "correcta": 2,
+    "explicacion": "El aprendizaje multimedia integra información visual y auditiva, favoreciendo una mejor comprensión y retención de los contenidos.",
+    "pdf": "estilos_metodos_aprendizaje.pdf",
+    "tema": "Aprendizaje multimedia"
+  },
+  {
+    "id": 34,
+    "pregunta": "¿Qué distingue al aprendizaje episódico de otros tipos de aprendizaje?",
+    "opciones": [
+      "Permite recordar experiencias o acontecimientos personales ocurridos en un tiempo y lugar determinados.",
+      "Se basa exclusivamente en la repetición mecánica de contenidos.",
+      "Consiste únicamente en el desarrollo de habilidades motoras automáticas.",
+      "Se caracteriza por el aprendizaje mediante ensayo y error."
+    ],
+    "correcta": 0,
+    "explicacion": "El aprendizaje episódico se relaciona con la memoria episódica, la cual permite almacenar y recuperar experiencias personales vividas en un contexto específico de tiempo y lugar. Este tipo de aprendizaje posibilita recordar acontecimientos concretos de la propia experiencia.",
+    "pdf": "estilos_metodos_aprendizaje.pdf",
+    "tema": "Aprendizaje episódico"
+  },
+
+  {
+    "id": 36,
+    "pdf": "Estilos y Métodos de Aprendizaje",
+    "pregunta": "Según el texto «Estilos de Aprendizaje y Métodos de Enseñanza», ¿cuántos objetivos de aprendizaje recomienda la mejor práctica?",
+    "opciones": [
+      "No más de 6.",
+      "No más de 10.",
+      "Entre 8 y 12.",
+      "Un mínimo de 15."
+    ],
+    "correcta": 0,
+    "explicacion": "La mejor práctica recomienda establecer un máximo de seis objetivos de aprendizaje para favorecer una enseñanza efectiva."
+  },
+
+  {
+    "id": 39,
+    "pregunta": "¿Cuál es una condición institucional indispensable para que la innovación educativa pueda desarrollarse de manera sostenida en los sistemas educativos?",
+    "opciones": [
+      "Incrementar únicamente el presupuesto educativo.",
+      "Contar con un sistema educativo flexible y con autonomía para la toma de decisiones.",
+      "Aplicar un currículo único sin posibilidad de adaptación.",
+      "Reducir la participación de la comunidad educativa."
+    ],
+    "correcta": 1,
+    "explicacion": "La innovación educativa requiere instituciones con suficiente autonomía y flexibilidad para adaptar y recrear las propuestas educativas de acuerdo con las necesidades de su contexto.",
+    "pdf": "innovacion_educativa.pdf",
+    "tema": "Innovación educativa"
+  },
+  {
+    "id": 40,
+    "pregunta": "¿Qué cobertura deben alcanzar los maestros de apoyo o los maestros itinerantes, según el Reglamento para el Fortalecimiento de la Educación Inclusiva en el Sistema Educativo Plurinacional — Modalidad Indirecta?",
+    "opciones": [
+      "Únicamente las capitales de departamento.",
+      "Lugares de difícil acceso, zonas dispersas, fronterizas, riberas y personas con discapacidad que no puedan asistir al Centro de Educación Especial.",
+      "Solo unidades educativas urbanas.",
+      "Exclusivamente Centros de Educación Especial."
+    ],
+    "correcta": 1,
+    "explicacion": "Los maestros de apoyo e itinerantes deben garantizar la atención educativa a personas con discapacidad que viven en zonas alejadas o que, por diferentes circunstancias, no pueden asistir a un Centro de Educación Especial.",
+    "pdf": "fortalecimiento_educacion_inclusiva.pdf",
+    "tema": "Maestros itinerantes"
+  },
+  {
+    "id": 41,
+    "pdf": "Estilos y Métodos de Aprendizaje",
+    "pregunta": "Una maestra de Tarija presenta un caso real sobre contaminación del río Bermejo. ¿Qué estilos favorece esta técnica?",
+    "opciones": [
+      "Activo (EA), Teórico (CA) y Reflexivo (OR).",
+      "Activo (EA), Pragmático (AE) y Memorístico.",
+      "Reflexivo (OR) y Pragmático (AE).",
+      "Únicamente el estilo Activo (EA)."
+    ],
+    "correcta": 0,
+    "explicacion": "El análisis de casos favorece principalmente los estilos Activo, Teórico y Reflexivo."
+  },
+
+  {
+    "id": 42,
+    "pregunta": "¿A quiénes debe ser extensivo todo servicio de atención para mujeres en situación de violencia, además de la propia mujer?",
+    "opciones": [
+      "Únicamente a sus familiares directos.",
+      "A sus hijas e hijos y otras personas dependientes cuando corresponda.",
+      "Solo al cónyuge.",
+      "Exclusivamente a la autoridad policial."
+    ],
+    "correcta": 1,
+    "explicacion": "Los servicios de atención integral deben extender su protección también a las hijas, hijos y personas dependientes de la mujer en situación de violencia, garantizando una atención integral.",
+    "pdf": "guia_violencia_intrafamiliar.pdf",
+    "tema": "Atención integral"
+  },
+  {
+    "id": 43,
+    "pregunta": "El 'Manual de resolución de problemas' refiere que el Diagnóstico de habilidades se compone de preguntas de opción múltiple cuidadosamente seleccionadas y se puede aplicar dos veces:",
+    "opciones": [
+      "Antes de implementar la primera lección y al finalizar las lecciones del manual.",
+      "Únicamente al finalizar el curso.",
+      "Cada semana durante el proceso.",
+      "Solo antes de iniciar el programa."
+    ],
+    "correcta": 0,
+    "explicacion": "El diagnóstico de habilidades se aplica antes de iniciar las lecciones y al concluirlas para medir el progreso alcanzado.",
+    "pdf": "manual_resolucion_problemas.pdf",
+    "tema": "Diagnóstico de habilidades"
+  },
+
+  {
+    "id": 6,
+    "pregunta": "La motivación es de particular interés para los psicólogos educativos debido al papel crucial que juega en el aprendizaje de los estudiantes. Los teóricos han expresado diferentes puntos de vista sobre la motivación. ¿Cuáles son las tres corrientes sobresalientes que se identifican?",
+    "opciones": [
+      "La teoría constructivista, la teoría sociocultural y la teoría crítica.",
+      "El punto de vista conductista, la visión cognitiva y la visión humanista.",
+      "La teoría del aprendizaje significativo, la teoría del descubrimiento y la teoría de la actividad.",
+      "La perspectiva biológica, la perspectiva tecnológica y la perspectiva ambiental."
+    ],
+    "correcta": 1,
+    "explicacion": "Las tres principales corrientes que explican la motivación en el aprendizaje son el enfoque conductista, el enfoque cognitivo y el enfoque humanista, cada uno con una explicación distinta sobre cómo surge y se mantiene la motivación del estudiante.",
+    "pdf": "estilos_metodos_aprendizaje.pdf",
+    "tema": "Motivación"
+  },
+
+  {
+    "id": 51,
+    "pdf": "Estilos y Métodos de Aprendizaje",
+    "pregunta": "Los centros educativos, asumidos en su naturaleza de organismos vivos y dinámicos, capaces de cambiar desde su responsabilidad para dar respuestas a las demandas de una sociedad en constante transformación, requieren potenciar su crecimiento entendido este como:",
+    "opciones": [
+      "Un ejercicio constante de auto-revisión.",
+      "La aplicación estricta de normas sin posibilidad de cambios.",
+      "La incorporación obligatoria de nuevas tecnologías en todas las áreas.",
+      "La evaluación exclusiva del rendimiento académico de los estudiantes."
+    ],
+    "correcta": 0,
+    "explicacion": "El crecimiento institucional requiere un proceso continuo de autoevaluación y mejora para responder a los cambios del entorno."
+  },
+
+  {
+    "id": 82,
+    "pdf": "Estilos y Métodos de Aprendizaje",
+    "pregunta": "Según Kilpatrick, ¿cómo se define un proyecto didáctico?",
+    "opciones": [
+      "Una actividad intencional realizada con compromiso (de corazón) y desarrollada colectivamente.",
+      "Un conjunto de actividades individuales planificadas únicamente por el docente.",
+      "Una estrategia basada exclusivamente en la memorización de contenidos.",
+      "Un procedimiento administrativo para organizar la planificación escolar."
+    ],
+    "correcta": 0,
+    "explicacion": "Kilpatrick define el proyecto didáctico como una actividad intencional desarrollada con compromiso y participación colectiva."
+  },
+
+  {
+    "id": 115,
+    "pdf": "Estilos y Métodos de Aprendizaje",
+    "pregunta": "Desde la concepción tradicional del proceso de aprendizaje, ¿cuál de las siguientes caracteriza con mayor precisión el rol que desempeña el docente en la gestión del conocimiento dentro del aula?",
+    "opciones": [
+      "El docente es el transmisor del conocimiento; los estudiantes son receptores pasivos que absorben y memorizan la información.",
+      "El docente actúa únicamente como observador mientras los estudiantes construyen todo el conocimiento por sí solos.",
+      "El docente facilita exclusivamente el trabajo colaborativo sin intervenir en el proceso de aprendizaje.",
+      "El docente orienta el aprendizaje mediante proyectos sin transmitir contenidos."
+    ],
+    "correcta": 0,
+    "explicacion": "En la concepción tradicional, el docente ocupa un papel central como transmisor del conocimiento y el estudiante asume un rol principalmente receptivo."
+  },
+  {
+    "id": 121,
+    "pdf": "Estilos y Métodos de Aprendizaje",
+    "unidad": "Principios psicológicos de la enseñanza",
+    "pagina": 87,
+    "pregunta": "Según la visión conductista, ¿qué riesgo específico genera el uso excesivo de recompensas en el proceso de enseñanza?",
+    "opciones": [
+      "Favorece la autonomía y fortalece la motivación intrínseca del estudiante.",
+      "Genera dependencia del docente, limita la transferencia del aprendizaje y puede debilitar la motivación intrínseca.",
+      "Incrementa el aprendizaje significativo mediante el descubrimiento autónomo.",
+      "Estimula el desarrollo del pensamiento crítico y la creatividad de manera permanente."
+    ],
+    "correcta": 1,
+    "explicacion": "El uso excesivo de recompensas puede provocar dependencia del docente, dificultar la transferencia del aprendizaje y disminuir la motivación intrínseca del estudiante."
+  },
+
+  {
+    "id": 122,
+    "pdf": "Estilos y Métodos de Aprendizaje",
+    "unidad": "Aprendizaje orientado a proyectos",
+    "pagina": 37,
+    "pregunta": "La implementación del aprendizaje orientado a proyectos como estrategia metodológica se caracteriza por desarrollar una estructura curricular:",
+    "opciones": [
+      "Rígida, disciplinaria y centrada en la memorización de contenidos.",
+      "Flexible, interdisciplinaria y centrada en el estudiante, con énfasis en la resolución de problemas reales.",
+      "Exclusivamente basada en la evaluación escrita y el trabajo individual.",
+      "Orientada únicamente al cumplimiento del currículo formal sin integración entre áreas."
+    ],
+    "correcta": 1,
+    "explicacion": "El aprendizaje orientado a proyectos promueve una estructura curricular flexible, interdisciplinaria y centrada en el estudiante mediante la resolución de problemas reales."
+  },
+
+  {
+    "id": 130,
+    "pdf": "Estilos y Métodos de Aprendizaje",
+    "unidad": "Estilos de aprendizaje",
+    "pagina": 30,
+    "pregunta": "Según el libro «Estilos y Métodos de Aprendizaje», ¿cuál de las siguientes características corresponde a los estudiantes con estilo de aprendizaje reflexivo?",
+    "opciones": [
+      "Prefieren actuar inmediatamente y asumir riesgos antes de analizar la situación.",
+      "Prefieren pensar en silencio antes de actuar, analizan la información y suelen trabajar solos.",
+      "Aprenden mejor mediante la competencia y el liderazgo de grupos numerosos.",
+      "Se caracterizan por improvisar continuamente sin realizar análisis previos."
+    ],
+    "correcta": 1,
+    "explicacion": "Los estudiantes con estilo reflexivo prefieren analizar cuidadosamente la información, pensar antes de actuar y trabajar de forma individual cuando es necesario."
+  },
+
+  {
+    "id": 131,
+    "pdf": "Estilos y Métodos de Aprendizaje",
+    "unidad": "Teorías del aprendizaje",
+    "pagina": 11,
+    "pregunta": "El conductismo se centra en los aspectos objetivamente observables del aprendizaje e interpreta este proceso como una asociación entre estímulo y respuesta. ¿Qué teorías forman parte de esta corriente?",
+    "opciones": [
+      "La teoría del aprendizaje significativo de Ausubel, la teoría genética de Piaget y el aprendizaje por descubrimiento de Bruner.",
+      "La teoría del ensayo y error de Thorndike, el condicionamiento clásico de Pavlov y el condicionamiento operante de Skinner.",
+      "La teoría sociocultural de Vygotsky, la teoría humanista de Rogers y la teoría ecológica de Bronfenbrenner.",
+      "La teoría de las inteligencias múltiples de Gardner, la teoría cognitiva de Gagné y la teoría de Kolb."
+    ],
+    "correcta": 1,
+    "explicacion": "El conductismo comprende la teoría del ensayo y error de Thorndike, el condicionamiento clásico de Pavlov y el condicionamiento operante de Skinner."
+  },
+  {
+    "id": 132,
+    "pdf": "Estilos y Métodos de Aprendizaje",
+    "unidad": "Teorías del aprendizaje",
+    "pagina": 15,
+    "pregunta": "¿A qué teoría del aprendizaje corresponde la afirmación de que el aprendizaje puede proporcionar oportunidades adicionales mediante la observación de otras personas y sus consecuencias?",
+    "opciones": [
+      "Teoría del aprendizaje significativo de Ausubel.",
+      "Teoría social del aprendizaje de Bandura.",
+      "Teoría del condicionamiento operante de Skinner.",
+      "Teoría genética del desarrollo de Piaget."
+    ],
+    "correcta": 1,
+    "explicacion": "Bandura sostiene que gran parte del aprendizaje ocurre mediante la observación de modelos y de las consecuencias de sus acciones."
+  },
+
+  {
+    "id": 145,
+    "pdf": "Estilos y Métodos de Aprendizaje",
+    "unidad": "Tipos de aprendizaje",
+    "pagina": 15,
+    "pregunta": "Según el libro «Estilos y Métodos de Aprendizaje», ¿qué característica distingue principalmente a la impronta de otros tipos de aprendizaje?",
+    "opciones": [
+      "Se adquiere únicamente mediante la repetición constante de una conducta.",
+      "Ocurre en una etapa específica de la vida y es independiente de las consecuencias del comportamiento.",
+      "Depende exclusivamente del condicionamiento operante y del refuerzo positivo.",
+      "Se desarrolla únicamente mediante la observación de modelos sociales."
+    ],
+    "correcta": 1,
+    "explicacion": "La impronta se caracteriza por producirse durante un período específico del desarrollo y no depender de las consecuencias del comportamiento."
+  },
+
+  {
+    "id": 152,
+    "pdf": "Estilos y Métodos de Aprendizaje",
+    "unidad": "Concepto de aprendizaje",
+    "pagina": 8,
+    "pregunta": "Según José Manuel Sáez López, ¿qué característica esencial distingue al aprendizaje como proceso cognitivo?",
+    "opciones": [
+      "Consiste únicamente en memorizar información durante largos períodos de tiempo.",
+      "Implica cambios que ocurren en un período relativamente corto y permiten responder de manera más adecuada a las diferentes situaciones.",
+      "Depende exclusivamente del desarrollo biológico del estudiante.",
+      "Se limita a la adquisición de conocimientos mediante recompensas y castigos."
+    ],
+    "correcta": 1,
+    "explicacion": "El aprendizaje implica cambios relativamente rápidos que permiten al estudiante responder de forma más adecuada a las situaciones que enfrenta."
+  },
+
+  {
+    "id": 166,
+    "pdf": "Estilos y Métodos de Aprendizaje",
+    "unidad": "Estrategias de aprendizaje",
+    "pagina": 23,
+    "pregunta": "¿Qué distingue a las estrategias de aprendizaje de las simples técnicas para aprender?",
+    "opciones": [
+      "Las estrategias consisten únicamente en repetir procedimientos memorizados, mientras que las técnicas requieren reflexión constante.",
+      "Las estrategias requieren conocimientos metacognitivos, son flexibles y su aplicación es intencionada, consciente y controlada; las técnicas son procedimientos específicos aplicados de forma rutinaria.",
+      "Las estrategias solo pueden utilizarse en el aprendizaje colaborativo, mientras que las técnicas se emplean en el aprendizaje individual.",
+      "Las estrategias son exclusivas del docente y las técnicas corresponden únicamente al estudiante."
+    ],
+    "correcta": 1,
+    "explicacion": "Las estrategias de aprendizaje implican procesos metacognitivos y decisiones conscientes, mientras que las técnicas son procedimientos concretos que suelen aplicarse de manera rutinaria."
+  },
+
+  {
+    "id": 168,
+    "pdf": "Estilos y Métodos de Aprendizaje",
+    "unidad": "Estrategias de aprendizaje",
+    "pagina": 23,
+    "pregunta": "Un docente observa que dos estudiantes aplican las mismas técnicas de forma mecánica, sin adaptar su enfoque al contenido ni reflexionar sobre su propio proceso. ¿Qué característica fundamental de las estrategias de aprendizaje están ignorando?",
+    "opciones": [
+      "Que las estrategias deben aplicarse siempre de la misma manera para garantizar buenos resultados.",
+      "Que las estrategias implican tomar decisiones de forma inteligente entre distintas alternativas y aplicarlas de manera flexible, intencionada, consciente y controlada.",
+      "Que las estrategias dependen exclusivamente de la repetición constante de ejercicios.",
+      "Que las estrategias solo son útiles cuando existe supervisión permanente del docente."
+    ],
+    "correcta": 1,
+    "explicacion": "Las estrategias de aprendizaje requieren que el estudiante seleccione conscientemente la alternativa más adecuada según la situación, utilizando procesos metacognitivos."
+  },
+
+  {
+    "id": 181,
+    "pdf": "Estilos y Métodos de Aprendizaje",
+    "unidad": "Aprendizaje multimedia",
+    "pagina": 16,
+    "pregunta": "¿Cuál de las siguientes afirmaciones describe con mayor precisión la función de las TIC como instrumentos que potencian el aprendizaje cognitivo en entornos colaborativos?",
+    "opciones": [
+      "Permiten reemplazar completamente la interacción entre docentes y estudiantes.",
+      "Facilitan la interacción, la comunicación y el trabajo colaborativo, favoreciendo la construcción social del conocimiento mediante el intercambio de ideas y experiencias.",
+      "Se utilizan únicamente para almacenar información y realizar evaluaciones virtuales.",
+      "Su función principal consiste en automatizar la enseñanza sin participación del estudiante."
+    ],
+    "correcta": 1,
+    "explicacion": "Las TIC favorecen el aprendizaje colaborativo al facilitar la interacción, la comunicación y la construcción social del conocimiento."
+  },
+
+  {
+    "id": 185,
+    "pdf": "Estilos y Métodos de Aprendizaje",
+    "unidad": "Estilos de aprendizaje",
+    "pagina": 24,
+    "pregunta": "Según el libro «Estilos y Métodos de Aprendizaje», ¿cuáles son los indicadores relativamente estables de la manera en que los estudiantes perciben, interactúan y responden a sus ambientes de aprendizaje?",
+    "opciones": [
+      "Los rasgos cognitivos, afectivos y fisiológicos.",
+      "Las calificaciones obtenidas y el nivel socioeconómico.",
+      "La edad, el género y la experiencia laboral.",
+      "Los conocimientos previos y el rendimiento académico."
+    ],
+    "correcta": 0,
+    "explicacion": "Los estilos de aprendizaje se manifiestan mediante rasgos cognitivos, afectivos y fisiológicos relativamente estables que influyen en la forma de aprender."
+  },
+
+  {
+    "id": 186,
+    "pdf": "Estilos y Métodos de Aprendizaje",
+    "unidad": "Modelo bidimensional de enseñanza efectiva",
+    "pagina": 98,
+    "pregunta": "Según el modelo bidimensional de enseñanza efectiva de Lowman, ¿qué caracteriza a los denominados «Maestros Completos»?",
+    "opciones": [
+      "Se especializan únicamente en clases magistrales y conferencias.",
+      "Son capaces de desempeñarse eficazmente tanto en clases magistrales como en seminarios, adaptando su enfoque para motivar a estudiantes con distintos niveles de desempeño.",
+      "Se enfocan exclusivamente en estudiantes con alto rendimiento académico.",
+      "Aplican un único método de enseñanza independientemente de las características del grupo."
+    ],
+    "correcta": 1,
+    "explicacion": "Los «Maestros Completos» dominan tanto la enseñanza expositiva como la interactiva y ajustan su metodología para motivar a todo tipo de estudiantes."
+  },
+
+  {
+    "id": 196,
+    "pdf": "Estilos y Métodos de Aprendizaje",
+    "unidad": "Organizaciones educativas",
+    "pagina": 66,
+    "pregunta": "¿Cuál es la principal característica de las organizaciones educativas denominadas «dinámicas»?",
+    "opciones": [
+      "Mantienen una estructura rígida y evitan cualquier tipo de cambio institucional.",
+      "Han logrado armonizar estabilidad y cambio, trabajan colaborativamente y fundamentan su mejora en procesos sistemáticos de autoevaluación.",
+      "Se caracterizan por depender exclusivamente de las decisiones del director.",
+      "Priorizan únicamente la conservación de las prácticas tradicionales."
+    ],
+    "correcta": 1,
+    "explicacion": "Las organizaciones dinámicas logran equilibrar estabilidad y cambio, trabajan en equipo y orientan sus procesos de mejora mediante la autoevaluación permanente."
+  },
+
+  {
+    "id": 197,
+    "pdf": "Estilos y Métodos de Aprendizaje",
+    "unidad": "Tipologías de organizaciones educativas",
+    "pagina": 66,
+    "pregunta": "Dentro de la tipología de organizaciones educativas, ¿cómo se caracterizan los centros denominados «paseantes»?",
+    "opciones": [
+      "Promueven permanentemente la innovación y la experimentación pedagógica.",
+      "Son instituciones tradicionales que viven de sus éxitos pasados y muestran resistencia a los cambios por considerar adecuado su funcionamiento actual.",
+      "Se especializan en proyectos de investigación educativa y mejora continua.",
+      "Son organizaciones flexibles que modifican constantemente su estructura para adaptarse al entorno."
+    ],
+    "correcta": 1,
+    "explicacion": "Los centros «paseantes» mantienen prácticas tradicionales, confían en sus logros anteriores y muestran poca disposición para introducir cambios."
+  },
+
+  {
+    "id": 202,
+    "pdf": "Estilos y Métodos de Aprendizaje",
+    "unidad": "Organizaciones que aprenden",
+    "pagina": 76,
+    "pregunta": "¿Cuál de las siguientes afirmaciones describe correctamente a las organizaciones que aprenden?",
+    "opciones": [
+      "Son instituciones que mantienen sus prácticas tradicionales para conservar la estabilidad.",
+      "Son organizaciones que, reconociéndose como organismos vivos y dinámicos, son capaces de cambiar responsablemente y responder a las demandas de una sociedad en constante transformación.",
+      "Son organizaciones cuya principal finalidad consiste en cumplir normas administrativas.",
+      "Son instituciones orientadas exclusivamente a mejorar sus indicadores académicos."
+    ],
+    "correcta": 1,
+    "explicacion": "Las organizaciones que aprenden asumen su naturaleza dinámica, responden a los cambios del entorno y promueven procesos permanentes de mejora."
+  },
+
+  {
+    "id": 203,
+    "pdf": "Estilos y Métodos de Aprendizaje",
+    "unidad": "Organizaciones que aprenden",
+    "pagina": 66,
+    "pregunta": "¿Cuáles son las principales características de las organizaciones educativas que aprenden?",
+    "opciones": [
+      "Mantener estructuras rígidas y evitar modificaciones en sus procesos institucionales.",
+      "Diagnosticar oportunidades de mejora, resolver problemas de forma sistemática, buscar nuevos conocimientos, consolidar el aprendizaje organizacional y transferirlo a nuevas situaciones.",
+      "Delegar exclusivamente en la dirección la responsabilidad de la innovación educativa.",
+      "Centrar todos sus esfuerzos únicamente en mejorar los resultados de las evaluaciones."
+    ],
+    "correcta": 1,
+    "explicacion": "Las organizaciones que aprenden desarrollan una cultura de mejora continua basada en el diagnóstico, la resolución de problemas, la generación de conocimiento y la transferencia del aprendizaje."
+  },
+
+  {
+    "id": 206,
+    "pdf": "Estilos y Métodos de Aprendizaje",
+    "unidad": "Teorías del aprendizaje",
+    "pagina": 10,
+    "pregunta": "El aprendizaje es un proceso activo; aprender implica explorar, conceptualizar, experimentar e interactuar. ¿Cuál de las siguientes afirmaciones se relaciona directamente con esta concepción?",
+    "opciones": [
+      "La memorización constituye la base principal del aprendizaje.",
+      "La experimentación es una condición para un buen aprendizaje.",
+      "El aprendizaje depende únicamente de la explicación del docente.",
+      "La repetición mecánica garantiza la comprensión de cualquier contenido."
+    ],
+    "correcta": 1,
+    "explicacion": "El texto señala que el aprendizaje es un proceso activo donde la experiencia y la experimentación constituyen condiciones fundamentales para comprender y construir conocimientos."
+  },
+
+  {
+    "id": 210,
+    "pdf": "Estilos y Métodos de Aprendizaje",
+    "unidad": "Estrategias de enseñanza",
+    "pagina": 23,
+    "pregunta": "Al planificar una secuencia de enseñanza para introducir el tema de la cultura de paz, ¿qué estrategia cumple la función de generar una disposición favorable hacia el contenido y activar los conocimientos previos antes de iniciar la instrucción?",
+    "opciones": [
+      "Las estrategias posinstruccionales.",
+      "Las estrategias coinstruccionales.",
+      "Las estrategias preinstruccionales, como los organizadores previos y la presentación de objetivos.",
+      "Las estrategias de evaluación sumativa."
+    ],
+    "correcta": 2,
+    "explicacion": "Las estrategias preinstruccionales preparan al estudiante para el aprendizaje activando conocimientos previos y generando una actitud favorable hacia los nuevos contenidos."
+  },
+
+  {
+    "id": 212,
+    "pdf": "Estilos y Métodos de Aprendizaje",
+    "unidad": "Motivación en el aprendizaje",
+    "pagina": 86,
+    "pregunta": "Según los estudios de la psicología educativa, ¿sobre qué aspectos específicos se manifiestan los efectos de la motivación en la educación?",
+    "opciones": [
+      "Únicamente en el rendimiento académico y la asistencia a clases.",
+      "En el comportamiento dirigido hacia metas, el esfuerzo, el inicio y la persistencia de las actividades, el procesamiento cognitivo, la percepción del refuerzo y el rendimiento.",
+      "Exclusivamente en la memoria a corto plazo y la atención sostenida.",
+      "Solo en la adquisición de conocimientos conceptuales."
+    ],
+    "correcta": 1,
+    "explicacion": "La motivación influye en la orientación hacia metas, el esfuerzo, la persistencia, el procesamiento cognitivo, la valoración de los refuerzos y el rendimiento académico."
+  },
+
+  {
+    "id": 213,
+    "pdf": "Estilos y Métodos de Aprendizaje",
+    "unidad": "Objetivos de aprendizaje",
+    "pagina": 22,
+    "pregunta": "Los expertos recomiendan utilizar el acrónimo S-K-A para formular objetivos de aprendizaje. ¿Qué representan estas siglas?",
+    "opciones": [
+      "Skills (Habilidades), Knowledge (Conocimiento) y Attitudes (Actitudes).",
+      "Strategy (Estrategia), Knowledge (Conocimiento) y Assessment (Evaluación).",
+      "Science (Ciencia), Knowledge (Conocimiento) y Application (Aplicación).",
+      "Skills (Habilidades), Know-how (Experiencia) y Aptitude (Aptitud)."
+    ],
+    "correcta": 0,
+    "explicacion": "El modelo S-K-A propone que los objetivos de aprendizaje integren habilidades, conocimientos y actitudes."
+  },
+
+  {
+    "id": 216,
+    "pdf": "Estilos y Métodos de Aprendizaje",
+    "unidad": "Estrategias de aprendizaje",
+    "pagina": 23,
+    "pregunta": "¿Cuál de las siguientes capacidades cognitivas se define como la habilidad de seleccionar y articular estrategias?",
+    "opciones": [
+      "La memoria de trabajo.",
+      "La metacognición.",
+      "La atención sostenida.",
+      "La percepción."
+    ],
+    "correcta": 1,
+    "explicacion": "La metacognición permite al estudiante planificar, seleccionar, supervisar y regular las estrategias más adecuadas para aprender."
+  },
+
+  {
+    "id": 224,
+    "pdf": "Estilos y Métodos de Aprendizaje",
+    "unidad": "Diferencias individuales",
+    "pagina": 80,
+    "pregunta": "¿Qué implica para un docente reconocer las diferencias individuales de los estudiantes como un elemento esencial de la enseñanza?",
+    "opciones": [
+      "Aplicar el mismo método de enseñanza para garantizar igualdad de oportunidades.",
+      "Adaptar la enseñanza a las características, necesidades y ritmos de aprendizaje de cada estudiante para favorecer aprendizajes significativos.",
+      "Agrupar a los estudiantes únicamente según su rendimiento académico.",
+      "Modificar exclusivamente los instrumentos de evaluación."
+    ],
+    "correcta": 1,
+    "explicacion": "Reconocer las diferencias individuales supone adecuar la enseñanza a las características y necesidades de cada estudiante para favorecer aprendizajes significativos."
+  },
+
+  {
+    "id": 245,
+    "pdf": "Estilos y Métodos de Aprendizaje",
+    "unidad": "Principios psicológicos de la enseñanza",
+    "pagina": 77,
+    "pregunta": "¿En qué consiste el principio de proceder de lo conocido a lo desconocido en la enseñanza?",
+    "opciones": [
+      "Presentar primero los contenidos más difíciles para desarrollar el pensamiento crítico.",
+      "Afianzar los conocimientos previos del estudiante para facilitar la incorporación de nuevos aprendizajes mediante experiencias significativas.",
+      "Repetir constantemente la información nueva hasta que sea memorizada.",
+      "Evaluar únicamente los conocimientos previos antes de iniciar una unidad."
+    ],
+    "correcta": 1,
+    "explicacion": "Este principio propone partir de los conocimientos que el estudiante ya posee para facilitar la comprensión y asimilación de nuevos contenidos."
+  },
+
+  {
+    "id": 253,
+    "pdf": "Estilos y Métodos de Aprendizaje",
+    "unidad": "Modalidades de enseñanza",
+    "pagina": 91,
+    "pregunta": "Según el texto «Estilos de Aprendizaje y Métodos de Enseñanza», ¿cuáles son las modalidades de enseñanza más reconocidas?",
+    "opciones": [
+      "Clases teóricas, clases prácticas, clases presenciales y modalidad no presencial.",
+      "Aprendizaje individual, colaborativo, cooperativo y autónomo.",
+      "Aprendizaje memorístico, significativo, experiencial y por descubrimiento.",
+      "Tutorías, laboratorios, seminarios y conferencias."
+    ],
+    "correcta": 0,
+    "explicacion": "El texto identifica como modalidades de enseñanza más reconocidas las clases teóricas, clases prácticas, modalidad presencial y modalidad no presencial."
+  },
+
+  {
+    "id": 256,
+    "pdf": "Estilos y Métodos de Aprendizaje",
+    "unidad": "Estrategias de aprendizaje",
+    "pagina": 23,
+    "pregunta": "Según Nisbet y Shucksmith, ¿cuál es el propósito principal de las estrategias de aprendizaje?",
+    "opciones": [
+      "Incrementar únicamente la velocidad de memorización.",
+      "Facilitar la adquisición, el almacenamiento y la utilización de información o conocimientos.",
+      "Evaluar exclusivamente el rendimiento académico.",
+      "Desarrollar únicamente habilidades prácticas."
+    ],
+    "correcta": 1,
+    "explicacion": "Las estrategias de aprendizaje permiten adquirir, almacenar y utilizar la información de forma más eficaz, favoreciendo un aprendizaje significativo."
+  }
+]

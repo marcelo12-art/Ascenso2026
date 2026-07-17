@@ -1,0 +1,93 @@
+<!-- ==========================================================
+     EXAMEN
+========================================================== -->
+
+<div class="examen-container">
+  <!-- Encabezado -->
+
+  <header class="examen-header">
+    <div class="header-logo">
+      <img src="img/escudo.png" class="header-escudo" alt="Escudo" />
+
+      <div>
+        <h2>SIMULACRO DE EXAMEN</h2>
+
+        <p>ASCENSO DE CATEGORÍA 2026</p>
+      </div>
+    </div>
+  </header>
+
+  <!-- Información -->
+
+  <section class="barra-superior">
+    <div class="progreso">
+      <div id="contadorPregunta">Pregunta 1 de 100</div>
+
+      <div class="barra">
+        <div id="barraProgreso"></div>
+      </div>
+
+      <div id="porcentaje">0%</div>
+    </div>
+
+    <div id="temporizador">⏰ 02:00:00</div>
+  </section>
+
+  <!-- Tarjeta -->
+
+  <section class="pregunta-card">
+    <h3 id="pregunta">Aquí aparecerá la pregunta.</h3>
+
+    <div class="opciones">
+      <label>
+        <input type="radio" name="respuesta" />
+
+        Opción A
+      </label>
+
+      <label>
+        <input type="radio" name="respuesta" />
+
+        Opción B
+      </label>
+
+      <label>
+        <input type="radio" name="respuesta" />
+
+        Opción C
+      </label>
+
+      <label>
+        <input type="radio" name="respuesta" />
+
+        Opción D
+      </label>
+    </div>
+  </section>
+
+  <!-- Navegación -->
+
+  <section class="botones">
+    <button id="btnAnterior">⬅ Anterior</button>
+
+    <button id="btnSiguiente">Siguiente ➜</button>
+  </section>
+
+  <!-- ==============================
+     MODAL FINALIZAR EXAMEN
+================================ -->
+
+  <div id="modal" class="modal oculto">
+    <div class="modal-contenido">
+      <h2>Finalizar examen</h2>
+
+      <p>¿Está seguro que desea finalizar el examen?</p>
+
+      <div class="modal-botones">
+        <button id="btnCancelar" class="btn-secundario">Cancelar</button>
+
+        <button id="btnAceptar" class="btn-principal">Finalizar examen</button>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,111 @@
+/* ==========================================================
+   PROYECTO:
+   SIMULACRO DE EXAMEN DE ASCENSO DE CATEGORÍA 2026
+
+   Archivo:
+   global.css
+
+   Descripción:
+   Estilos generales del sistema.
+
+   Versión:
+   0.1.0
+==========================================================*/
+
+/*===========================
+    RESETEO GENERAL
+============================*/
+
+* {
+  margin: 0;
+
+  padding: 0;
+
+  box-sizing: border-box;
+}
+
+/*===========================
+        HTML
+============================*/
+
+html {
+  scroll-behavior: smooth;
+}
+
+/*===========================
+        BODY
+============================*/
+
+body {
+  font-family: var(--fuente-principal);
+
+  background: var(--color-fondo);
+
+  color: var(--color-negro);
+
+  overflow-x: hidden;
+}
+
+/*===========================
+    IMÁGENES
+============================*/
+
+img {
+  max-width: 100%;
+
+  display: block;
+}
+
+/*===========================
+    ENLACES
+============================*/
+
+a {
+  text-decoration: none;
+}
+
+/*===========================
+    BOTONES
+============================*/
+
+button {
+  border: none;
+
+  outline: none;
+
+  cursor: pointer;
+}
+
+/*===========================
+    INPUTS
+============================*/
+
+input {
+  outline: none;
+}
+
+/*===========================
+    LISTAS
+============================*/
+
+ul {
+  list-style: none;
+}
+
+/*===========================
+    SECCIONES
+============================*/
+
+section {
+  width: 100%;
+}
+
+/*===========================
+    CONTENEDOR GENERAL
+============================*/
+
+.container-principal {
+  width: 100%;
+
+  min-height: 100vh;
+}

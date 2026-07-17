@@ -1,0 +1,631 @@
+[
+  {
+    "id": 2,
+    "pdf": "Curriculum",
+    "pregunta": "¿Qué riesgo enfrenta una educación que ignora los cambios en la socialización, el pensamiento y las habilidades diferenciadas en el contexto tecnológico actual?",
+    "opciones": [
+      "Mejorar automáticamente el rendimiento académico.",
+      "Lograr una mayor estabilidad curricular.",
+      "Que sus egresados no estén preparados para un mundo en constante cambio.",
+      "Reducir la necesidad de innovación pedagógica."
+    ],
+    "correcta": 2,
+    "explicacion": "Una educación que no se adapta a los cambios tecnológicos y sociales forma estudiantes menos preparados para enfrentar nuevos desafíos."
+  },
+
+  {
+    "id": 15,
+    "pdf": "Currículum",
+    "pregunta": "Gimeno Sacristán sostiene que la escuela no debe limitarse a enseñar contenidos. ¿Qué exige este planteamiento al docente?",
+    "opciones": [
+      "Limitarse exclusivamente al contenido de su asignatura.",
+      "Ensanchar las posibilidades y referentes vitales de los estudiantes formando ciudadanos responsables.",
+      "Delegar la formación ciudadana a la familia.",
+      "Priorizar únicamente el rendimiento académico."
+    ],
+    "correcta": 1,
+    "explicacion": "El docente debe ampliar la formación del estudiante más allá de los contenidos disciplinares, promoviendo valores y ciudadanía."
+  },
+
+  {
+    "id": 20,
+    "pdf": "Currículum",
+    "pregunta": "En el modelo pedagógico tradicional, ¿cuál de las siguientes describe con mayor precisión la finalidad principal que se asigna al proceso de evaluación del aprendizaje estudiantil?",
+    "opciones": [
+      "Verificar la absorción y memorización de conocimientos mediante la reproducción de información.",
+      "Promover la reflexión crítica y la construcción colectiva del conocimiento.",
+      "Evaluar el desarrollo de competencias mediante proyectos interdisciplinarios.",
+      "Valorar exclusivamente la participación y el trabajo colaborativo."
+    ],
+    "correcta": 0,
+    "explicacion": "En el modelo pedagógico tradicional, la evaluación se centra en comprobar la memorización y reproducción de los contenidos."
+  },
+
+  {
+    "id": 35,
+    "pdf": "Desarrollo e Innovación del Currículum",
+    "pregunta": "Perrenoud distingue entre currículum formal y currículum real señalando que no son de la misma naturaleza. ¿Qué diferencia estructural fundamental explica que ambos currículums operen en planos distintos dentro del sistema educativo?",
+    "opciones": [
+      "El currículum formal es una imagen de la cultura digna de transmitirse, mientras que el currículum real es el conjunto de experiencias, tareas y actividades desarrolladas en el aula.",
+      "El currículum formal corresponde únicamente a la educación superior y el currículum real a la educación escolar.",
+      "El currículum formal se aplica exclusivamente en instituciones privadas y el currículum real en instituciones públicas.",
+      "Ambos currículums son equivalentes y solo difieren en la terminología utilizada."
+    ],
+    "correcta": 0,
+    "explicacion": "El currículum formal es prescriptivo, mientras que el currículum real corresponde a la práctica educativa que se desarrolla en el aula."
+  },
+
+  {
+    "id": 44,
+    "pdf": "Desarrollo e Innovación del Currículum",
+    "pregunta": "La afirmación de que la especie humana codificó su experiencia primero con la palabra y luego básicamente con la imagen y otros signos, ¿qué sesgo implícito revela?",
+    "opciones": [
+      "Un sesgo logocéntrico que privilegia la palabra escrita sobre otros sistemas de representación y comunicación.",
+      "Un enfoque intercultural que valora por igual todos los sistemas de comunicación.",
+      "Un enfoque tecnológico centrado en los medios digitales.",
+      "Una postura que prioriza exclusivamente la comunicación audiovisual."
+    ],
+    "correcta": 0,
+    "explicacion": "El texto cuestiona la tendencia a privilegiar la palabra escrita por encima de otras formas de representación y comunicación."
+  },
+
+  {
+    "id": 47,
+    "pdf": "Desarrollo e Innovación del Currículum",
+    "pregunta": "El desplazamiento en el modo de formular las finalidades educativas entre el siglo XIX y la actualidad expresa:",
+    "opciones": [
+      "Un paso de la formación para el trabajo y la nacionalidad hacia el desarrollo personal, la autonomía y la creatividad.",
+      "Un cambio de la educación científica hacia una educación exclusivamente religiosa.",
+      "La eliminación de la formación ciudadana en favor del aprendizaje memorístico.",
+      "El abandono de la educación obligatoria para priorizar únicamente la formación técnica."
+    ],
+    "correcta": 0,
+    "explicacion": "Las finalidades educativas evolucionaron desde una formación centrada en el trabajo y la nación hacia el desarrollo integral de la persona."
+  },
+
+  {
+    "id": 49,
+    "pdf": "Desarrollo e Innovación del Currículum",
+    "pregunta": "La cultura escolar, tal como opera en la práctica pedagógica concreta, se caracteriza por:",
+    "opciones": [
+      "Ser una construcción peculiar, no una mera transmisión de la cultura en abstracto; está modelada por los usos y contextos escolares.",
+      "Transmitir la cultura de forma idéntica en todas las instituciones educativas.",
+      "Depender exclusivamente de los contenidos establecidos en los libros de texto.",
+      "Mantenerse invariable sin influencia del contexto escolar."
+    ],
+    "correcta": 0,
+    "explicacion": "La cultura escolar se construye dentro de la práctica educativa y está influenciada por el contexto y las dinámicas propias de cada institución."
+  },
+
+  {
+    "id": 50,
+    "pdf": "Desarrollo e Innovación del Currículum",
+    "pregunta": "En el texto «Diseñar el currículum», ¿cuál es la diferencia fundamental entre la posición realista y la posición relativista respecto al valor que atribuyen al conocimiento?",
+    "opciones": [
+      "La posición realista considera que el conocimiento escolar proviene de las disciplinas científicas y refleja una realidad objetiva; la posición relativista sostiene que el conocimiento escolar es una construcción social que refleja valores dominantes.",
+      "La posición realista prioriza únicamente la experiencia personal, mientras que la relativista se basa exclusivamente en las ciencias naturales.",
+      "Ambas posiciones consideran que el conocimiento escolar tiene exactamente el mismo origen y finalidad.",
+      "La posición relativista afirma que el conocimiento no puede enseñarse en la escuela."
+    ],
+    "correcta": 0,
+    "explicacion": "El texto diferencia ambas posturas por la forma en que entienden el origen y la naturaleza del conocimiento escolar."
+  },
+
+  {
+    "id": 52,
+    "pdf": "Desarrollo e Innovación del Currículum",
+    "pregunta": "La afirmación de que en sociedades medianamente complejas el ámbito de la experiencia personal directa es muy reducido, ¿qué estereotipo cultural presupone?",
+    "opciones": [
+      "El estereotipo de que la experiencia directa es la única fuente de conocimiento válida, subestimando el valor de la experiencia codificada y mediada.",
+      "Que el conocimiento científico carece de utilidad para la educación.",
+      "Que toda experiencia personal tiene el mismo valor que el conocimiento especializado.",
+      "Que el aprendizaje solo puede producirse mediante la observación directa."
+    ],
+    "correcta": 0,
+    "explicacion": "El texto cuestiona la idea de que solo la experiencia directa genera conocimiento, destacando la importancia del conocimiento transmitido y mediado."
+  },
+
+  {
+    "id": 55,
+    "pdf": "Desarrollo e Innovación del Currículum",
+    "pregunta": "Cuando el currículum formal se describe como una «trama» y la enseñanza como un «tejido», la metáfora implica que el paso de uno al otro requiere fundamentalmente:",
+    "opciones": [
+      "Un trabajo de reinvención, explicitación, ilustración, reformulación y concreción por parte del maestro.",
+      "La reproducción literal del currículum formal en todas las clases.",
+      "La eliminación de las adaptaciones curriculares para garantizar uniformidad.",
+      "La aplicación exclusiva de los libros de texto como guía de enseñanza."
+    ],
+    "correcta": 0,
+    "explicacion": "El docente transforma el currículum formal en experiencias concretas de aprendizaje mediante un proceso de adaptación y contextualización."
+  },
+
+  {
+    "id": 58,
+    "pdf": "Desarrollo e Innovación del Currículum",
+    "pregunta": "Para construir una representación realista del currículum real, Perrenoud propone abandonar la oposición entre currículum manifiesto y oculto en favor de:",
+    "opciones": [
+      "Una gradación continua en el seno del currículum real, desde lo más patente hasta lo más oculto sin solución de continuidad.",
+      "La eliminación del currículum oculto en todas las instituciones educativas.",
+      "La separación estricta entre currículum formal y currículum real.",
+      "La sustitución del currículum formal por el currículum oculto."
+    ],
+    "correcta": 0,
+    "explicacion": "Perrenoud plantea comprender el currículum real como un continuo que integra diferentes niveles de visibilidad."
+  },
+
+  {
+    "id": 62,
+    "pdf": "Desarrollo e Innovación del Currículum",
+    "pregunta": "Cuando el currículum transita por distintas instancias de decisión, su contenido no permanece intacto. ¿Qué proceso caracteriza estructuralmente ese tránsito?",
+    "opciones": [
+      "La transposición didáctica o intermediación didáctica, que modela el conocimiento según los usos y contextos escolares.",
+      "La evaluación sumativa permanente del currículo.",
+      "La planificación administrativa del sistema educativo.",
+      "La estandarización de los contenidos curriculares."
+    ],
+    "correcta": 0,
+    "explicacion": "El contenido curricular se transforma y adapta mediante la transposición didáctica para responder a los contextos educativos."
+  },
+
+  {
+    "id": 63,
+    "pdf": "Desarrollo e Innovación del Currículum",
+    "pregunta": "¿Qué relación establece Feito entre la calidad de la formación del profesorado y el grado de autonomía curricular que puede concederse a los centros educativos?",
+    "opciones": [
+      "Si el profesorado está bien formado, resulta relativamente fácil incrementar los niveles de autonomía curricular de los centros.",
+      "La autonomía curricular debe eliminarse cuando aumenta la formación docente.",
+      "La autonomía curricular depende únicamente de la infraestructura escolar.",
+      "La formación del profesorado no influye en la autonomía curricular."
+    ],
+    "correcta": 0,
+    "explicacion": "Una adecuada formación docente permite otorgar mayor autonomía curricular con mejores resultados educativos."
+  },
+
+  {
+    "id": 67,
+    "pdf": "Desarrollo e Innovación del Currículum",
+    "pregunta": "La caracterización de la imagen como una llamada de atención para relajarse del arduo proceso de descodificar la escritura, ¿qué sesgo revela?",
+    "opciones": [
+      "Un sesgo que subestima el valor pedagógico de la imagen como portadora de significado y la reduce a un mero elemento decorativo o de descanso.",
+      "Un enfoque que reconoce la imagen como el principal medio de aprendizaje.",
+      "Una valoración equilibrada entre la imagen y el texto escrito.",
+      "Un enfoque que considera la imagen como el único recurso válido para enseñar."
+    ],
+    "correcta": 0,
+    "explicacion": "El texto critica la reducción de la imagen a un recurso decorativo, destacando su valor como medio de representación y aprendizaje."
+  },
+
+  {
+    "id": 68,
+    "pdf": "Desarrollo e Innovación del Currículum",
+    "pregunta": "La afirmación de que la experiencia directa y personal genera un conocimiento seguro e imborrable revela un sesgo epistemológico implícito. ¿Cuál es?",
+    "opciones": [
+      "Un sesgo empirista que privilegia el aprendizaje vivencial y desestima el valor del aprendizaje a través de fuentes codificadas y simbólicas.",
+      "Un sesgo racionalista que prioriza exclusivamente el razonamiento lógico.",
+      "Un enfoque constructivista que integra todas las formas de aprendizaje.",
+      "Un enfoque interdisciplinario basado en el trabajo colaborativo."
+    ],
+    "correcta": 0,
+    "explicacion": "El texto identifica una postura empirista que otorga mayor valor a la experiencia directa frente al conocimiento transmitido mediante símbolos y representaciones."
+  },
+
+  {
+    "id": 72,
+    "pdf": "Desarrollo e Innovación del Currículum",
+    "pregunta": "Una maestra decide presentar los contenidos de su asignatura como verdades históricamente construidas en lugar de verdades absolutas. Según el texto «Diseñar el currículum», ¿qué tipo de decisión está tomando?",
+    "opciones": [
+      "Una decisión de tipo sociocrítica o socioconstructivista, que considera el conocimiento como una construcción social.",
+      "Una decisión de enfoque positivista, basada en verdades absolutas.",
+      "Una decisión exclusivamente conductista, centrada en la repetición de contenidos.",
+      "Una decisión tradicional orientada únicamente a la memorización."
+    ],
+    "correcta": 0,
+    "explicacion": "El enfoque sociocrítico o socioconstructivista entiende que el conocimiento se construye socialmente y puede ser reinterpretado."
+  },
+
+  {
+    "id": 74,
+    "pdf": "Desarrollo e Innovación del Currículum",
+    "pregunta": "La tensión entre diferenciación individualizadora y socialización homogeneizadora en la educación se presenta como:",
+    "opciones": [
+      "Una contradicción que debe resolverse con equilibrios siempre inestables.",
+      "Una oposición que debe eliminarse mediante la uniformidad educativa.",
+      "Un conflicto que desaparece cuando todos los estudiantes reciben el mismo currículo.",
+      "Una situación exclusiva de la educación superior."
+    ],
+    "correcta": 0,
+    "explicacion": "El currículo debe equilibrar la atención a las diferencias individuales con la función socializadora de la educación."
+  },
+
+  {
+    "id": 77,
+    "pdf": "Desarrollo e Innovación del Currículum",
+    "pregunta": "¿Qué paradoja implícita encierra el hecho de que un texto escolar dedique dos tercios a la lingüística y solo un tercio a toda la literatura en castellano de los siglos XIX y XX?",
+    "opciones": [
+      "La paradoja de que se reduce la literatura a un epítome superficial, impidiendo que los estudiantes desarrollen una verdadera comprensión y aprecio por la obra literaria.",
+      "Que la lingüística y la literatura poseen exactamente la misma importancia educativa.",
+      "Que el estudio de la literatura debe eliminarse del currículo escolar.",
+      "Que la enseñanza de la lingüística reemplaza completamente el estudio de las obras literarias."
+    ],
+    "correcta": 0,
+    "explicacion": "El texto critica el desequilibrio curricular que limita el análisis profundo y la valoración de la literatura."
+  },
+
+  {
+    "id": 90,
+    "pdf": "Desarrollo e Innovación del Currículum",
+    "pregunta": "Cuando un alumno aprende a vivir en un espacio superpoblado, a tolerar interrupciones y a diferir la satisfacción de sus deseos, ¿qué tipo de aprendizaje está adquiriendo fundamentalmente?",
+    "opciones": [
+      "Un aprendizaje del currículum oculto, específicamente «vivir dentro de una masa».",
+      "Un aprendizaje correspondiente al currículum formal basado en contenidos disciplinares.",
+      "Un aprendizaje exclusivamente relacionado con la evaluación sumativa.",
+      "Un aprendizaje centrado únicamente en el desarrollo de competencias digitales."
+    ],
+    "correcta": 0,
+    "explicacion": "El currículum oculto comprende aprendizajes implícitos que los estudiantes adquieren a través de la convivencia y la organización escolar."
+  },
+
+  {
+    "id": 92,
+    "pdf": "Desarrollo e Innovación del Currículum",
+    "pregunta": "¿Cuál de las siguientes situaciones ejemplifica un aprendizaje que, según Eggleston, el funcionamiento escolar produce regularmente al margen de los objetivos oficiales?",
+    "opciones": [
+      "Aprender a funcionar dentro de un grupo restringido, compartiendo y empleando valores y códigos de comunicación.",
+      "Memorizar los contenidos establecidos en el currículo formal.",
+      "Desarrollar competencias digitales mediante el uso de plataformas virtuales.",
+      "Aprender exclusivamente los contenidos evaluados en los exámenes."
+    ],
+    "correcta": 0,
+    "explicacion": "Eggleston explica que la escuela produce aprendizajes implícitos propios del currículum oculto, relacionados con la convivencia y la socialización."
+  },
+
+  {
+    "id": 94,
+    "pdf": "Desarrollo e Innovación del Currículum",
+    "pregunta": "¿Cuál de las siguientes situaciones ejemplifica lo que Boudon denomina como efecto perverso en el contexto del currículum real?",
+    "opciones": [
+      "Una actividad diseñada para un fin didáctico produce aprendizajes no deseados o contrarios a la intención del maestro.",
+      "Una planificación curricular alcanza exactamente los objetivos previstos.",
+      "Los estudiantes obtienen mejores resultados académicos de los esperados.",
+      "El docente adapta exitosamente una actividad al contexto de sus estudiantes."
+    ],
+    "correcta": 0,
+    "explicacion": "El efecto perverso ocurre cuando una acción educativa genera consecuencias distintas o contrarias a las que originalmente se buscaban."
+  },
+
+  {
+    "id": 98,
+    "pdf": "Desarrollo e Innovación del Currículum",
+    "pregunta": "Según Perrenoud, hacer visible lo que estaba oculto en el currículum no conduce a su eliminación sino a:",
+    "opciones": [
+      "El debate, y en ocasiones una polémica intensa, sobre su legitimidad y su posible significación respecto a las nuevas formulaciones de los objetivos educativos y del currículum formal.",
+      "La eliminación inmediata del currículum oculto.",
+      "La sustitución del currículum formal por el currículum oculto.",
+      "La desaparición de los aprendizajes implícitos."
+    ],
+    "correcta": 0,
+    "explicacion": "Perrenoud sostiene que visibilizar el currículum oculto genera debate sobre su legitimidad y su papel en la educación."
+  },
+
+  {
+    "id": 99,
+    "pdf": "Desarrollo e Innovación del Currículum",
+    "pregunta": "¿Qué desafíos presenta la economía mundial basada en la tecnología para los países a medida que sus economías nacionales se tornan más dependientes del ámbito internacional?",
+    "opciones": [
+      "La necesidad de una fuerza de trabajo cada vez más cualificada y la presión creciente del sistema productivo sobre el escolar.",
+      "La disminución de la importancia de la educación en el desarrollo económico.",
+      "La eliminación de la formación técnica en los sistemas educativos.",
+      "La reducción de la demanda de profesionales especializados."
+    ],
+    "correcta": 0,
+    "explicacion": "El desarrollo tecnológico exige una fuerza laboral más calificada y aumenta las demandas sobre los sistemas educativos."
+  },
+
+  {
+    "id": 100,
+    "pdf": "Desarrollo e Innovación del Currículum",
+    "pregunta": "En «El currículum real y el trabajo escolar», el currículum formal es una imagen de la cultura digna de transmitirse, mientras que el currículum real es:",
+    "opciones": [
+      "Un conjunto de experiencias, tareas y actividades que originan o se supone han de originar los aprendizajes.",
+      "El documento oficial aprobado por las autoridades educativas.",
+      "La planificación anual elaborada por el docente.",
+      "El conjunto de contenidos establecidos por los libros de texto."
+    ],
+    "correcta": 0,
+    "explicacion": "El currículum real corresponde a las experiencias y actividades que efectivamente generan aprendizaje en la práctica educativa."
+  },
+
+  {
+    "id": 101,
+    "pdf": "Desarrollo e Innovación del Currículum",
+    "pregunta": "Según Sacristán, ¿qué representó el currículo para la crítica progresista frente al conocimiento academicista asentado como saber escolar?",
+    "opciones": [
+      "La crítica progresista puso el dedo en la llaga de la inadecuación de la forma del conocimiento asentado como saber escolar para adecuarse a las necesidades del alumno, conectar con su desarrollo y formar ciudadanos responsables.",
+      "La defensa del conocimiento academicista como única forma válida de enseñanza.",
+      "La eliminación del currículo formal en favor del aprendizaje espontáneo.",
+      "La sustitución de las disciplinas científicas por contenidos exclusivamente prácticos."
+    ],
+    "correcta": 0,
+    "explicacion": "La crítica progresista cuestionó que el conocimiento escolar tradicional respondiera a las necesidades reales del estudiante y de la sociedad."
+  },
+
+  {
+    "id": 103,
+    "pdf": "Desarrollo e Innovación del Currículum",
+    "pregunta": "El practicum se presenta como un componente curricular, como un complejo espacio de aprendizaje y como experiencia personal. Desde esta triple dimensión, ¿cuál de las siguientes afirmaciones caracteriza correctamente su naturaleza en el marco de la formación docente?",
+    "opciones": [
+      "Es un espacio que articula la teoría y la práctica, permitiendo al docente reflexionar sobre su propia acción y construir conocimiento profesional desde la experiencia.",
+      "Es un período destinado únicamente a la observación pasiva del trabajo docente.",
+      "Es una práctica orientada exclusivamente a evaluar conocimientos teóricos.",
+      "Es una actividad administrativa previa al ejercicio profesional."
+    ],
+    "correcta": 0,
+    "explicacion": "El practicum integra teoría y práctica, favoreciendo la reflexión crítica y la construcción del conocimiento profesional mediante la experiencia."
+  },
+
+  {
+    "id": 108,
+    "pdf": "Desarrollo e Innovación del Currículum",
+    "pregunta": "Un director encarga a su equipo técnico la selección de contenidos escolares aplicando los criterios epistemológico, psicológico y pedagógico como una lista de verificación. Según el texto «Diseñar el currículum», ¿qué error de fondo comete?",
+    "opciones": [
+      "Interpretar los criterios como una lista para aplicar, cuando en realidad deben ser un marco para la discusión, ya que la selección de contenidos es una opción cultural y no una cuestión técnica.",
+      "Dar prioridad a los criterios pedagógicos sobre los epistemológicos.",
+      "Seleccionar contenidos considerando el contexto educativo.",
+      "Incorporar la participación del equipo docente en la selección de contenidos."
+    ],
+    "correcta": 0,
+    "explicacion": "Los criterios orientan la reflexión curricular; no constituyen una lista mecánica para seleccionar contenidos."
+  },
+
+  {
+    "id": 112,
+    "pdf": "Desarrollo e Innovación del Currículum",
+    "pregunta": "Según «Diseñar el currículum», ¿qué ocurre cuando los niveles de los estudiantes actúan como freno para trabajar ciertos contenidos?",
+    "opciones": [
+      "Debe ser un reto adecuarlos para que puedan ser asimilados sin que vayan acumulando deficiencias y lagunas básicas.",
+      "Los contenidos deben eliminarse definitivamente del currículo.",
+      "Se debe mantener el mismo ritmo sin considerar las dificultades de los estudiantes.",
+      "Es preferible sustituir los contenidos por actividades recreativas."
+    ],
+    "correcta": 0,
+    "explicacion": "El currículo debe adaptarse para que los estudiantes puedan comprender los contenidos sin generar vacíos en su aprendizaje."
+  },
+
+  {
+    "id": 113,
+    "pdf": "Desarrollo e Innovación del Currículum",
+    "pregunta": "En una clase, los estudiantes trabajan con lentitud sostenida durante varias semanas, lo que obliga al maestro a dejar sin cubrir varios temas del programa y a profundizar otros no previstos. ¿Qué concepto explica ese resultado según Perrenoud?",
+    "opciones": [
+      "La transposición pragmática del currículum formal, donde el ritmo de trabajo de los alumnos influye sobre los contenidos que se amplían o se dejan de desarrollar.",
+      "La evaluación diagnóstica del aprendizaje.",
+      "La planificación curricular normativa.",
+      "La enseñanza tradicional centrada en contenidos."
+    ],
+    "correcta": 0,
+    "explicacion": "El currículum real se modifica según las condiciones concretas del aula, especialmente por el ritmo de aprendizaje de los estudiantes."
+  },
+
+  {
+    "id": 144,
+    "pdf": "Desarrollo e Innovación del Currículum",
+    "unidad": "Modelos del proceso de aprendizaje",
+    "pagina": 56,
+    "pregunta": "¿A partir de qué modelo surgió la concepción predominante sobre el proceso de aprendizaje a comienzos del siglo XX y con qué propósito fue utilizada?",
+    "opciones": [
+      "Del modelo humanista, para favorecer el aprendizaje autónomo y colaborativo.",
+      "Del modelo industrial y de la racionalidad taylorista, para organizar la escolarización de manera eficiente mediante procesos parciales y graduados.",
+      "Del modelo constructivista, para desarrollar el pensamiento crítico desde la educación inicial.",
+      "Del modelo sociocultural, para fortalecer el aprendizaje cooperativo en todos los niveles educativos."
+    ],
+    "correcta": 1,
+    "explicacion": "La organización escolar de comienzos del siglo XX estuvo influenciada por el modelo industrial y la racionalidad taylorista, buscando eficiencia mediante la división de procesos."
+  },
+
+  {
+    "id": 147,
+    "pdf": "Desarrollo e Innovación del Currículum",
+    "unidad": "Currículum oculto",
+    "pagina": 98,
+    "pregunta": "¿Por qué la noción de currículum oculto emerge vinculada a una visión racionalista de la escuela?",
+    "opciones": [
+      "Porque representa el conjunto de contenidos oficialmente establecidos en el currículo.",
+      "Porque constituye el ámbito de lo no dicho, aquello que escapa a una formulación precisa de objetivos propia de la didáctica y la evaluación.",
+      "Porque reemplaza completamente al currículum formal dentro del sistema educativo.",
+      "Porque se limita exclusivamente a las actividades extracurriculares."
+    ],
+    "correcta": 1,
+    "explicacion": "El currículum oculto hace referencia a los aprendizajes implícitos que no están formulados explícitamente en los objetivos educativos."
+  },
+
+  {
+    "id": 163,
+    "pdf": "Desarrollo e Innovación del Currículum",
+    "unidad": "Libros de texto",
+    "pagina": 113,
+    "pregunta": "Según Sacristán, ¿cuál de las siguientes afirmaciones describe una limitación de los libros de texto?",
+    "opciones": [
+      "Favorecen la diversidad de materiales y estrategias de lectura en el aula.",
+      "Reducen drásticamente las posibilidades de las formas, funciones y materiales de lectura, convirtiéndose en un recurso prácticamente monopolista.",
+      "Permiten adaptar libremente el currículo a las necesidades de cada estudiante.",
+      "Promueven el aprendizaje autónomo mediante recursos abiertos y variados."
+    ],
+    "correcta": 1,
+    "explicacion": "Sacristán sostiene que los libros de texto tienden a monopolizar las formas y funciones de lectura, limitando la diversidad de recursos didácticos."
+  },
+
+  {
+    "id": 164,
+    "pdf": "Desarrollo e Innovación del Currículum",
+    "unidad": "Trabajo escolar",
+    "pagina": 110,
+    "pregunta": "Según Perrenoud, ¿qué característica distingue estructuralmente al trabajo escolar de cualquier otro tipo de trabajo?",
+    "opciones": [
+      "Produce bienes y servicios con utilidad inmediata para la sociedad.",
+      "Carece de utilidad inmediata y visible; su finalidad principal es favorecer o consolidar los aprendizajes y contribuir a la disciplina escolar.",
+      "Está orientado exclusivamente al desarrollo de competencias laborales.",
+      "Se realiza únicamente mediante actividades prácticas fuera del aula."
+    ],
+    "correcta": 1,
+    "explicacion": "Perrenoud señala que el trabajo escolar no tiene una utilidad inmediata y visible, sino que busca favorecer los aprendizajes y organizar la vida escolar."
+  },
+
+  {
+    "id": 169,
+    "pdf": "Desarrollo e Innovación del Currículum",
+    "unidad": "Competencias",
+    "pagina": 84,
+    "pregunta": "Según el enfoque didáctico planteado en el texto, ¿cómo se caracterizan las competencias genéricas?",
+    "opciones": [
+      "Son exclusivas de una profesión determinada y dependen del contexto laboral específico.",
+      "Son transversales a todas las profesiones y constituyen un soporte imprescindible para el desempeño laboral.",
+      "Se desarrollan únicamente durante la formación universitaria.",
+      "Están orientadas exclusivamente al dominio de conocimientos teóricos."
+    ],
+    "correcta": 1,
+    "explicacion": "Las competencias genéricas son comunes a distintas profesiones y proporcionan las bases necesarias para un adecuado desempeño laboral."
+  },
+
+  {
+    "id": 170,
+    "pdf": "Desarrollo e Innovación del Currículum",
+    "unidad": "El currículum como regulador",
+    "pagina": 28,
+    "pregunta": "Una institución educativa desarrolla prácticas pedagógicas innovadoras que no están contempladas en el plan oficial y, pese a ello, recibe una evaluación negativa de organismos externos. ¿Qué dimensión del poder regulador del currículum explica mejor esta situación?",
+    "opciones": [
+      "El currículum determina los contenidos mínimos únicamente para la planificación docente.",
+      "El currículum actúa como estándar para juzgar el éxito o el fracaso, definiendo qué se considera normal o satisfactorio y dejando fuera las prácticas que no se ajustan a la norma establecida.",
+      "El currículum regula exclusivamente los procesos administrativos de las instituciones educativas.",
+      "El currículum limita únicamente la organización de los horarios escolares."
+    ],
+    "correcta": 1,
+    "explicacion": "El currículum funciona como un referente normativo desde el cual se evalúan las prácticas educativas, condicionando aquello que se considera válido o satisfactorio."
+  },
+
+  {
+    "id": 174,
+    "pdf": "Desarrollo e Innovación del Currículum",
+    "unidad": "Libros de texto",
+    "pagina": 114,
+    "pregunta": "¿Qué factor explica principalmente que el libro de texto se haya convertido en el recurso dominante dentro de la escolaridad?",
+    "opciones": [
+      "Su función monopolística como proveedor de información y mediador de los contenidos que circulan en las aulas y centros educativos.",
+      "Su bajo costo de producción frente a otros materiales didácticos.",
+      "La facilidad para reemplazar completamente el trabajo del docente.",
+      "Su capacidad para adaptarse automáticamente a las necesidades de cada estudiante."
+    ],
+    "correcta": 0,
+    "explicacion": "El texto señala que el libro de texto alcanzó una posición dominante por su función monopolística como fuente principal de información y mediador del conocimiento escolar."
+  },
+
+  {
+    "id": 175,
+    "pdf": "Desarrollo e Innovación del Currículum",
+    "unidad": "Conocimiento y ciencias",
+    "pagina": 45,
+    "pregunta": "¿Cuál es la característica que distingue a las ciencias de transferencia de las ciencias puras, aun cuando ambas comparten el interés por el conocimiento científico?",
+    "opciones": [
+      "Las ciencias de transferencia buscan la aplicación práctica del conocimiento, mientras que las ciencias puras se orientan al conocimiento por sí mismo.",
+      "Las ciencias de transferencia solo estudian fenómenos sociales, mientras que las ciencias puras se limitan a las ciencias naturales.",
+      "Las ciencias de transferencia se desarrollan exclusivamente en instituciones educativas técnicas.",
+      "Las ciencias puras tienen como único propósito resolver problemas prácticos de la sociedad."
+    ],
+    "correcta": 0,
+    "explicacion": "Las ciencias de transferencia aplican el conocimiento científico para resolver problemas concretos, mientras que las ciencias puras buscan ampliar el conocimiento sin una aplicación inmediata."
+  },
+
+  {
+    "id": 177,
+    "pdf": "Desarrollo e Innovación del Currículum",
+    "unidad": "Sociedad del conocimiento y TIC",
+    "pagina": 45,
+    "pregunta": "¿Qué papel cumplen las tecnologías de la información y la comunicación (TIC) frente a la nueva economía mundial y los cambios de la sociedad actual?",
+    "opciones": [
+      "Son herramientas destinadas únicamente al almacenamiento de información académica.",
+      "Constituyen herramientas fundamentales para producir, almacenar, tratar, comunicar, registrar y presentar información, siendo claves para la productividad y la competitividad.",
+      "Su función principal es sustituir completamente el trabajo del docente en el aula.",
+      "Se utilizan exclusivamente para facilitar la comunicación entre instituciones educativas."
+    ],
+    "correcta": 1,
+    "explicacion": "El texto destaca que las TIC son esenciales para la gestión de la información y representan un factor determinante para la productividad y la competitividad."
+  },
+
+  {
+    "id": 178,
+    "pdf": "Desarrollo e Innovación del Currículum",
+    "unidad": "Fines de la educación",
+    "pagina": 35,
+    "pregunta": "Según Sacristán, ¿qué característica comparten los fines educativos que trascienden los contenidos disciplinares tradicionales?",
+    "opciones": [
+      "Se orientan exclusivamente a la transmisión de conocimientos científicos.",
+      "Se centran en el desarrollo de capacidades, actitudes y valores que trascienden las asignaturas.",
+      "Buscan únicamente incrementar la cantidad de contenidos impartidos durante la gestión escolar.",
+      "Tienen como finalidad principal fortalecer la memorización de conceptos."
+    ],
+    "correcta": 1,
+    "explicacion": "Sacristán plantea que los fines educativos deben priorizar el desarrollo integral de capacidades, actitudes y valores más allá de los contenidos disciplinares."
+  },
+
+  {
+    "id": 193,
+    "pdf": "Desarrollo e Innovación del Currículum",
+    "unidad": "Competencias genéricas",
+    "pagina": 84,
+    "pregunta": "Las competencias genéricas constituyen un soporte imprescindible para el desempeño laboral. ¿Cuál de las siguientes afirmaciones describe mejor su naturaleza?",
+    "opciones": [
+      "Se aplican únicamente a una profesión específica.",
+      "No están ligadas a una ocupación particular y pueden aplicarse a una amplia variedad de ocupaciones.",
+      "Son competencias exclusivas del ámbito universitario.",
+      "Se limitan al dominio de contenidos teóricos de una disciplina."
+    ],
+    "correcta": 1,
+    "explicacion": "Las competencias genéricas son transversales y pueden utilizarse en distintos ámbitos profesionales, favoreciendo el desempeño laboral y personal."
+  },
+
+  {
+    "id": 195,
+    "pdf": "Desarrollo e Innovación del Currículum",
+    "unidad": "Conocimiento y comunidades académicas",
+    "pagina": 14,
+    "pregunta": "En el ámbito de la educación, ¿cómo se caracterizan las comunidades académicas dedicadas a la reflexión e investigación sobre la enseñanza de la matemática?",
+    "opciones": [
+      "Son espacios de construcción colectiva del conocimiento que buscan transformar las prácticas de enseñanza y aprendizaje.",
+      "Son organizaciones creadas únicamente para elaborar materiales de evaluación estandarizada.",
+      "Se dedican exclusivamente a la capacitación de docentes universitarios.",
+      "Tienen como finalidad principal administrar recursos económicos destinados a la investigación."
+    ],
+    "correcta": 0,
+    "explicacion": "Estas comunidades promueven la construcción colectiva del conocimiento y la mejora continua de las prácticas de enseñanza y aprendizaje."
+  },
+
+  {
+    "id": 204,
+    "pdf": "Desarrollo e Innovación del Currículum",
+    "unidad": "Currículum oculto",
+    "pagina": 100,
+    "pregunta": "Según Eggleston, ¿por qué la experiencia de «vivir dentro de una masa» forma parte del currículum oculto?",
+    "opciones": [
+      "Porque constituye un contenido oficialmente establecido en el currículo nacional.",
+      "Porque es una experiencia cotidiana del funcionamiento escolar que genera aprendizajes no previstos explícitamente entre los objetivos oficiales de enseñanza.",
+      "Porque representa una estrategia metodológica utilizada por todos los docentes.",
+      "Porque corresponde únicamente a actividades extracurriculares organizadas por la institución."
+    ],
+    "correcta": 1,
+    "explicacion": "Eggleston considera que la convivencia cotidiana dentro de la escuela produce aprendizajes implícitos, como tolerar la convivencia masiva y postergar deseos, que forman parte del currículum oculto."
+  },
+
+  {
+    "id": 251,
+    "pdf": "Currículum",
+    "unidad": "Desarrollo cognoscitivo",
+    "pagina": 57,
+    "pregunta": "Según la teoría del desarrollo cognoscitivo de Jean Piaget, ¿cuál es el orden cronológico correcto de los estadios del desarrollo intelectual?",
+    "opciones": [
+      "Preoperacional, sensorio-motriz, operaciones concretas y operaciones formales.",
+      "Sensorio-motriz, preoperacional, operaciones concretas y operaciones formales.",
+      "Sensorio-motriz, operaciones concretas, preoperacional y operaciones formales.",
+      "Operaciones concretas, sensorio-motriz, preoperacional y operaciones formales."
+    ],
+    "correcta": 1,
+    "explicacion": "Piaget plantea cuatro estadios del desarrollo cognitivo que se suceden cronológicamente: sensorio-motriz, preoperacional, operaciones concretas y operaciones formales."
+  }
+]

@@ -1,0 +1,503 @@
+[
+  {
+    "id": 13,
+    "pdf": "Innovación Educativa",
+    "pregunta": "¿Cuál es la enseñanza más importante que promueve el Aprendizaje Basado en Problemas (ABP)?",
+    "opciones": [
+      "Aprender a memorizar contenidos.",
+      "Aprender a aprender.",
+      "Aprender únicamente mediante exposiciones.",
+      "Aprender siguiendo instrucciones sin reflexión."
+    ],
+    "correcta": 1,
+    "explicacion": "El ABP busca que el estudiante aprenda a aprender mediante la resolución de problemas reales."
+  },
+
+  {
+    "id": 39,
+    "pdf": "Innovación Educativa",
+    "pregunta": "¿Cuál es una condición institucional indispensable para que la innovación educativa pueda desarrollarse de manera sostenida en los sistemas educativos?",
+    "opciones": [
+      "Flexibilidad y adecuación a cada contexto, con mayores y reales niveles de autonomía en la toma de decisiones.",
+      "Aplicar un único modelo pedagógico en todas las instituciones.",
+      "Incrementar únicamente la infraestructura escolar.",
+      "Centralizar todas las decisiones en la administración educativa."
+    ],
+    "correcta": 0,
+    "explicacion": "La innovación educativa requiere flexibilidad y autonomía institucional para responder a las necesidades de cada contexto."
+  },
+
+  {
+    "id": 45,
+    "pdf": "Innovación Educativa",
+    "pregunta": "Cuando una institución educativa adapta e incluso recrea la normativa externa a sus características concretas, esto refleja principalmente:",
+    "opciones": [
+      "El grado de creatividad, autonomía y madurez de la misma.",
+      "La capacidad de cumplir estrictamente todas las normas sin modificaciones.",
+      "La necesidad de eliminar la normativa institucional.",
+      "La dependencia de decisiones tomadas exclusivamente por autoridades externas."
+    ],
+    "correcta": 0,
+    "explicacion": "La capacidad de adaptar creativamente la normativa demuestra autonomía institucional y madurez organizacional."
+  },
+
+  {
+    "id": 48,
+    "pdf": "Innovación Educativa",
+    "pregunta": "¿Qué se entiende por innovación educativa?",
+    "opciones": [
+      "Un acto deliberado y planificado de solución de problemas que busca mejorar la calidad de los aprendizajes, superando el paradigma tradicional mediante la construcción colectiva del aprendizaje.",
+      "La incorporación obligatoria de equipos tecnológicos en todas las aulas.",
+      "La modificación ocasional de las actividades escolares sin planificación previa.",
+      "La sustitución de los docentes por plataformas virtuales."
+    ],
+    "correcta": 0,
+    "explicacion": "La innovación educativa implica un cambio planificado orientado a mejorar los aprendizajes mediante nuevas formas de enseñar y aprender."
+  },
+
+  {
+    "id": 60,
+    "pdf": "Innovación Educativa",
+    "pregunta": "De acuerdo con el planteamiento sobre innovación educativa, ¿qué criterio permite distinguir con mayor precisión una innovación paradigmática de una innovación progresiva?",
+    "opciones": [
+      "La innovación paradigmática produce una ruptura con los esquemas y la cultura vigentes en las escuelas, mientras que la progresiva se limita a mejoras o ajustes.",
+      "La innovación paradigmática solo incorpora nuevas tecnologías y la progresiva modifica el currículo.",
+      "La innovación progresiva elimina totalmente las prácticas anteriores y la paradigmática las conserva.",
+      "No existe diferencia entre una innovación paradigmática y una progresiva."
+    ],
+    "correcta": 0,
+    "explicacion": "La innovación paradigmática implica un cambio profundo en la forma de comprender y desarrollar la educación, mientras que la progresiva introduce mejoras graduales."
+  },
+
+  {
+    "id": 65,
+    "pdf": "Innovación Educativa",
+    "pregunta": "La innovación en el ámbito escolar es entendida como:",
+    "opciones": [
+      "Un cambio que incide en algún aspecto estructural de la educación para mejorar su calidad, pudiendo ocurrir a nivel de aula, institución o sistema.",
+      "La incorporación obligatoria de tecnología en todas las aulas.",
+      "La modificación de los horarios escolares sin cambiar la práctica educativa.",
+      "La sustitución de los métodos tradicionales por recursos digitales."
+    ],
+    "correcta": 0,
+    "explicacion": "La innovación educativa implica cambios estructurales orientados a mejorar la calidad de la educación en distintos niveles."
+  },
+
+  {
+    "id": 71,
+    "pdf": "Innovación Educativa",
+    "pregunta": "Las dinámicas de intercambio y trabajo compartido generadas por la innovación educativa de la primera década del siglo XXI, como las comunidades educativas y redes pedagógicas, ¿qué dimensión de la innovación expresan respecto al cambio «desde abajo»?",
+    "opciones": [
+      "El protagonismo de las instituciones educativas y docentes en el cambio, promoviendo dinámicas de intercambio y trabajo compartido.",
+      "La centralización de todas las decisiones en los organismos nacionales de educación.",
+      "La sustitución del trabajo colaborativo por modelos individuales de enseñanza.",
+      "La implementación exclusiva de tecnologías digitales en el aula."
+    ],
+    "correcta": 0,
+    "explicacion": "La innovación desde abajo reconoce a docentes e instituciones como protagonistas del cambio educativo mediante el trabajo colaborativo."
+  },
+
+  {
+    "id": 76,
+    "pdf": "Innovación Educativa",
+    "pregunta": "Según el texto «Innovación Educativa» de la UNESCO, la afirmación de que la innovación está fundamentada sobre el aprendizaje porque éste se encuentra ligado a la acción transformadora del mundo, remite específicamente a:",
+    "opciones": [
+      "La concepción del aprendizaje como un proceso de cambio y transformación que no se limita a la asimilación pasiva de información.",
+      "La incorporación obligatoria de nuevas tecnologías en todos los procesos educativos.",
+      "La memorización de contenidos como base del aprendizaje.",
+      "La enseñanza centrada exclusivamente en la transmisión de conocimientos."
+    ],
+    "correcta": 0,
+    "explicacion": "La innovación educativa entiende el aprendizaje como un proceso activo que transforma tanto a la persona como a su entorno."
+  },
+
+  {
+    "id": 78,
+    "pdf": "Innovación Educativa",
+    "pregunta": "De acuerdo con los aspectos fundamentales de la innovación educativa, ¿qué establece la dinámica de acciones con aprendizajes que construye la innovación?",
+    "opciones": [
+      "Establece una reflexión permanente que permite aprender de los errores.",
+      "Promueve la repetición constante de procedimientos sin modificaciones.",
+      "Elimina la evaluación durante el proceso educativo.",
+      "Sustituye la planificación por acciones improvisadas."
+    ],
+    "correcta": 0,
+    "explicacion": "La innovación educativa requiere reflexión continua sobre la práctica para aprender de los errores y mejorar los procesos."
+  },
+
+  {
+    "id": 88,
+    "pdf": "Innovación Educativa",
+    "pregunta": "Según el texto «Innovación Educativa», ¿cuál de las siguientes afirmaciones describe con mayor precisión la concepción de innovación como capacidad humana?",
+    "opciones": [
+      "Es la construcción de la capacidad humana de transformar, crear y recrear el mundo.",
+      "Es la incorporación permanente de nuevas tecnologías en la educación.",
+      "Es la modificación de los programas de estudio cada gestión escolar.",
+      "Es la aplicación estricta de metodologías tradicionales."
+    ],
+    "correcta": 0,
+    "explicacion": "La innovación se entiende como una capacidad humana para transformar la realidad mediante la creatividad y la acción."
+  },
+
+  {
+    "id": 114,
+    "pdf": "Innovación Educativa",
+    "pregunta": "Sobre la Innovación Educativa, ¿hacia qué propósito orienta su acción la educación en el contexto de la sociedad de la información?",
+    "opciones": [
+      "Hacia la formación de una cultura de innovación, donde la innovación se convierta en una cultura y no solo en una moda, con una actitud crítica.",
+      "Hacia la incorporación exclusiva de herramientas tecnológicas en el aula.",
+      "Hacia la sustitución de los métodos tradicionales por plataformas digitales.",
+      "Hacia la especialización temprana de los estudiantes en áreas tecnológicas."
+    ],
+    "correcta": 0,
+    "explicacion": "La innovación educativa busca consolidar una cultura permanente de innovación sustentada en una actitud crítica y transformadora."
+  },
+
+  {
+    "id": 116,
+    "pdf": "Innovación Educativa",
+    "pregunta": "Según Martinic, en el texto «Innovación Educativa», la alteración de sentidos en el ámbito educativo involucra necesariamente cambios en las personas. ¿Qué elementos comprenden dichos cambios y cuál es el rol que se destaca en los docentes dentro de este proceso?",
+    "opciones": [
+      "Cambios en sus actitudes, creencias, concepciones y prácticas, así como en las relaciones que establecen entre ellas; los docentes son considerados autores del cambio educativo.",
+      "Cambios únicamente en la infraestructura escolar, siendo los docentes ejecutores de políticas educativas.",
+      "Cambios exclusivamente en los contenidos curriculares, mientras los docentes cumplen funciones administrativas.",
+      "Cambios limitados al uso de tecnologías digitales, sin modificar las prácticas pedagógicas."
+    ],
+    "correcta": 0,
+    "explicacion": "Martinic sostiene que la innovación implica transformaciones en las personas y reconoce a los docentes como protagonistas del cambio educativo."
+  },
+
+  {
+    "id": 117,
+    "pdf": "Innovación Educativa",
+    "pregunta": "Desde la perspectiva de la innovación educativa, se afirma que esta «produce modificaciones materiales y simbólicas, y por ello tiene una relación profunda con la tradición». ¿Qué implica esta afirmación respecto a la naturaleza de la innovación?",
+    "opciones": [
+      "La innovación no constituye una ruptura total con el pasado, sino que se construye transformando lo existente.",
+      "La innovación exige eliminar completamente todas las prácticas educativas anteriores.",
+      "La innovación consiste únicamente en incorporar nuevas tecnologías al aula.",
+      "La innovación reemplaza la tradición sin considerar la experiencia acumulada."
+    ],
+    "correcta": 0,
+    "explicacion": "La innovación educativa transforma la realidad apoyándose en la experiencia previa, sin romper totalmente con la tradición."
+  },
+
+  {
+    "id": 126,
+    "pdf": "Innovación Educativa",
+    "unidad": "Innovación y cambio educativo",
+    "pagina": 22,
+    "pregunta": "Según el enfoque de innovación educativa promovido por los organismos internacionales de educación, ¿cuál es el rol que cumplen las estructuras y procesos micropolíticos en los centros escolares?",
+    "opciones": [
+      "Constituyen un obstáculo que debe eliminarse para garantizar la innovación.",
+      "Son fundamentales para el cambio y la innovación, así como para la estabilidad y el mantenimiento de los centros escolares.",
+      "Solo intervienen en la administración económica de las instituciones educativas.",
+      "Tienen importancia únicamente durante los procesos de evaluación institucional."
+    ],
+    "correcta": 1,
+    "explicacion": "Las estructuras y procesos micropolíticos son elementos esenciales para impulsar la innovación educativa y, al mismo tiempo, garantizar la estabilidad y continuidad de los centros escolares."
+  },
+
+  {
+    "id": 128,
+    "pdf": "Innovación Educativa",
+    "unidad": "Características de la innovación educativa",
+    "pagina": 31,
+    "pregunta": "En el campo de la innovación educativa, ¿qué característica describe con mayor precisión la naturaleza de la innovación dentro del sistema educativo?",
+    "opciones": [
+      "La innovación tiene un carácter sistémico, por lo que cualquier cambio en un componente repercute en los demás.",
+      "La innovación afecta únicamente a las metodologías de enseñanza sin modificar otros componentes.",
+      "La innovación depende exclusivamente de la incorporación de recursos tecnológicos.",
+      "La innovación consiste únicamente en modificar los contenidos curriculares."
+    ],
+    "correcta": 0,
+    "explicacion": "La innovación educativa posee un carácter sistémico, ya que cualquier modificación en uno de sus componentes genera efectos sobre el resto del sistema educativo."
+  },
+
+  {
+    "id": 133,
+    "pdf": "Innovación Educativa",
+    "unidad": "Cultura de innovación",
+    "pagina": 10,
+    "pregunta": "La educación es fundamental para formar una cultura de innovación y evitar que la innovación se convierta únicamente en una moda. ¿Qué implica esta perspectiva?",
+    "opciones": [
+      "Promover el cambio permanente sin considerar las experiencias anteriores.",
+      "Mantener una actitud crítica fundamentada en principios que orienten la innovación educativa.",
+      "Reemplazar completamente las prácticas tradicionales por tecnologías digitales.",
+      "Aplicar innovaciones únicamente cuando existan recursos tecnológicos suficientes."
+    ],
+    "correcta": 1,
+    "explicacion": "La innovación educativa requiere una actitud crítica sustentada en principios sólidos para evitar el cambio por el simple hecho de cambiar."
+  },
+
+  {
+    "id": 137,
+    "pdf": "Innovación Educativa",
+    "unidad": "Micropolítica e innovación educativa",
+    "pagina": 22,
+    "pregunta": "Según el texto «Innovación Educativa», ¿por qué elementos está constituido el «estado» político de una organización escolar?",
+    "opciones": [
+      "Únicamente por la estructura organizativa de la institución.",
+      "Procesos convergentes y divergentes, así como estructuras.",
+      "Solo por las decisiones de la dirección y del personal docente.",
+      "Exclusivamente por las normas administrativas del sistema educativo."
+    ],
+    "correcta": 1,
+    "explicacion": "El texto explica que el estado político de una organización escolar está conformado por procesos convergentes, divergentes y por sus estructuras."
+  },
+
+  {
+    "id": 142,
+    "pdf": "Innovación Educativa",
+    "unidad": "El docente como agente de innovación",
+    "pagina": 31,
+    "pregunta": "Según el texto «Innovación Educativa», ¿qué tres elementos debe transformar el docente para que su compromiso incida genuinamente en los procesos de innovación educativa?",
+    "opciones": [
+      "Sus conocimientos, sus recursos tecnológicos y su planificación.",
+      "Sus creencias, sus concepciones y sus prácticas.",
+      "Sus evaluaciones, sus horarios y sus materiales didácticos.",
+      "Sus competencias digitales, sus contenidos y sus estrategias administrativas."
+    ],
+    "correcta": 1,
+    "explicacion": "La innovación educativa requiere que el docente transforme sus creencias, sus concepciones y sus prácticas para convertirse en un verdadero agente de cambio."
+  },
+
+  {
+    "id": 146,
+    "pdf": "Innovación Educativa",
+    "unidad": "Cambio organizacional",
+    "pagina": 23,
+    "pregunta": "Según Baldridge (1970), citado en el texto «Innovación Educativa», ¿qué característica distingue al cambio en las organizaciones escolares tradicionales de un proceso de innovación genuinamente participativo?",
+    "opciones": [
+      "El cambio surge de iniciativas propuestas por toda la comunidad educativa.",
+      "El cambio suele imponerse de forma jerárquica, de arriba hacia abajo, constituyendo una estrategia política.",
+      "El cambio se produce únicamente por decisión de los estudiantes.",
+      "El cambio depende exclusivamente de la incorporación de nuevas tecnologías."
+    ],
+    "correcta": 1,
+    "explicacion": "Baldridge señala que, en las organizaciones escolares tradicionales, el cambio suele imponerse jerárquicamente desde los niveles superiores y no mediante procesos participativos."
+  },
+
+  {
+    "id": 150,
+    "pdf": "Innovación Educativa",
+    "unidad": "Trabajo colaborativo",
+    "pagina": 33,
+    "pregunta": "¿Qué condiciones caracterizan al trabajo colaborativo como estrategia para sostener la innovación educativa en una institución?",
+    "opciones": [
+      "Favorece únicamente la distribución de tareas entre docentes sin intercambio de experiencias.",
+      "Genera relaciones jerárquicas donde las decisiones corresponden exclusivamente a la dirección.",
+      "Promueve nexos significativos entre docentes y directivos, relaciones horizontales y complementariedad de enfoques y puntos de vista.",
+      "Se limita exclusivamente al trabajo administrativo de la institución."
+    ],
+    "correcta": 2,
+    "explicacion": "El trabajo colaborativo fortalece la innovación mediante relaciones horizontales, cooperación y complementariedad entre los actores educativos."
+  },
+
+  {
+    "id": 151,
+    "pdf": "Innovación Educativa",
+    "unidad": "Trabajo colaborativo",
+    "pagina": 33,
+    "pregunta": "Según el texto «Innovación Educativa», ¿qué rasgos definen al trabajo mancomunado como mecanismo para mantener vivos los procesos de transformación pedagógica en un centro formativo?",
+    "opciones": [
+      "La competencia entre docentes para mejorar el rendimiento institucional.",
+      "La colaboración y el trabajo en equipo, que generan relaciones horizontales, complementariedad y un clima favorable para nuevas ideas.",
+      "La centralización de las decisiones en la dirección del establecimiento educativo.",
+      "La distribución individual de responsabilidades sin coordinación entre docentes."
+    ],
+    "correcta": 1,
+    "explicacion": "El trabajo mancomunado fortalece la innovación mediante la colaboración, el trabajo en equipo y la generación de relaciones horizontales que favorecen nuevas ideas."
+  },
+
+  {
+    "id": 157,
+    "pdf": "Innovación Educativa",
+    "unidad": "Sentido crítico de la innovación",
+    "pagina": 11,
+    "pregunta": "¿Qué tipo de sujetos busca formar la innovación educativa cuando se orienta con un sentido crítico?",
+    "opciones": [
+      "Sujetos capaces únicamente de adaptarse a las transformaciones tecnológicas.",
+      "Sujetos sociales e históricos capaces de impulsar la innovación con un sentido crítico.",
+      "Sujetos especializados exclusivamente en la administración educativa.",
+      "Sujetos orientados principalmente al cumplimiento de normas institucionales."
+    ],
+    "correcta": 1,
+    "explicacion": "La innovación educativa pretende formar sujetos sociales e históricos capaces de participar activamente en los procesos de transformación con una actitud crítica."
+  },
+
+  {
+    "id": 182,
+    "pdf": "Innovación Educativa",
+    "unidad": "Aprendizaje a partir del error",
+    "pagina": 20,
+    "pregunta": "¿Qué papel cumplen los errores que experimentan los docentes al poner en práctica nuevas estrategias pedagógicas dentro de la innovación educativa?",
+    "opciones": [
+      "Constituyen una causa de fracaso que debe evitarse mediante controles permanentes.",
+      "Representan una fuente de aprendizaje siempre que exista un clima de confianza y apoyo que no los censure.",
+      "Demuestran la falta de preparación profesional del docente.",
+      "Solo tienen importancia cuando afectan los resultados de las evaluaciones externas."
+    ],
+    "correcta": 1,
+    "explicacion": "La innovación educativa considera el error como una oportunidad de aprendizaje cuando existe un ambiente de confianza que favorece la reflexión y la mejora."
+  },
+
+  {
+    "id": 183,
+    "pdf": "Innovación Educativa",
+    "unidad": "Resistencia al cambio",
+    "pagina": 19,
+    "pregunta": "¿Cómo describe el texto «Innovación Educativa» los impedimentos y resistencias que dificultan la apertura al cambio en las instituciones educativas?",
+    "opciones": [
+      "Como problemas exclusivamente administrativos que pueden resolverse mediante reglamentos.",
+      "Como dificultades poco visibles, cuyo origen no siempre es evidente y que están relacionadas con modelos mentales profundamente arraigados.",
+      "Como limitaciones originadas únicamente por la falta de recursos económicos.",
+      "Como obstáculos derivados exclusivamente de la infraestructura escolar."
+    ],
+    "correcta": 1,
+    "explicacion": "Las resistencias al cambio suelen originarse en modelos mentales profundamente arraigados que dificultan la adopción de nuevas prácticas."
+  },
+
+  {
+    "id": 184,
+    "pdf": "Innovación Educativa",
+    "unidad": "Modelos mentales",
+    "pagina": 19,
+    "pregunta": "Cuando un director afirma que su equipo «no está preparado» para aplicar una nueva estrategia pedagógica, ¿cómo interpreta el texto «Innovación Educativa» este tipo de afirmaciones?",
+    "opciones": [
+      "Como conclusiones derivadas exclusivamente de evaluaciones objetivas del desempeño.",
+      "Como ideas o creencias profundamente arraigadas que generan inseguridad y disminuyen la confianza para aprender e innovar.",
+      "Como decisiones fundamentadas únicamente en normas institucionales.",
+      "Como evidencia de que la innovación educativa no puede implementarse en ese contexto."
+    ],
+    "correcta": 1,
+    "explicacion": "El texto explica que este tipo de afirmaciones reflejan modelos mentales o creencias arraigadas que limitan la disposición al cambio y al aprendizaje."
+  },
+
+  {
+    "id": 188,
+    "pdf": "Innovación Educativa",
+    "unidad": "Procesos de innovación",
+    "pagina": 14,
+    "pregunta": "¿Cómo se caracterizan las iniciativas de cambio en las prácticas escolares cuando se encuentran en una etapa incipiente hacia la innovación educativa?",
+    "opciones": [
+      "Son cambios estructurales consolidados que transforman permanentemente la institución.",
+      "Son iniciativas puntuales y pasajeras, con escasa conexión con una perspectiva estratégica de cambio educativo.",
+      "Constituyen procesos permanentes de transformación respaldados por políticas institucionales.",
+      "Se orientan exclusivamente a la incorporación de tecnologías digitales."
+    ],
+    "correcta": 1,
+    "explicacion": "El texto señala que las iniciativas iniciales de cambio suelen ser aisladas y poco articuladas con una estrategia integral de innovación."
+  },
+
+  {
+    "id": 191,
+    "pdf": "Innovación Educativa",
+    "unidad": "El docente como agente de cambio",
+    "pagina": 31,
+    "pregunta": "¿De qué manera inciden el compromiso y la voluntad de los docentes en los procesos de innovación educativa?",
+    "opciones": [
+      "Solo permiten mejorar la planificación administrativa de la institución.",
+      "Son imprescindibles para transformar sus creencias, concepciones y prácticas; sin su compromiso las innovaciones no se sostienen.",
+      "Únicamente facilitan la incorporación de recursos tecnológicos en el aula.",
+      "Su influencia se limita a la evaluación del aprendizaje."
+    ],
+    "correcta": 1,
+    "explicacion": "La innovación educativa requiere el compromiso del docente para transformar sus creencias, concepciones y prácticas, garantizando la sostenibilidad del cambio."
+  },
+
+  {
+    "id": 194,
+    "pdf": "Innovación Educativa",
+    "unidad": "Modelos mentales",
+    "pagina": 19,
+    "pregunta": "En el contexto de la innovación educativa, ¿qué son los modelos mentales y por qué representan un obstáculo para el cambio?",
+    "opciones": [
+      "Son normas institucionales que regulan la organización escolar.",
+      "Son estructuras de pensamiento que condicionan la forma de pensar y actuar; dificultan el cambio porque limitan la capacidad de ver nuevas posibilidades.",
+      "Son estrategias metodológicas utilizadas exclusivamente para evaluar aprendizajes.",
+      "Son procedimientos administrativos para organizar la gestión educativa."
+    ],
+    "correcta": 1,
+    "explicacion": "Los modelos mentales son creencias profundamente arraigadas que condicionan la manera de interpretar la realidad y pueden impedir la innovación."
+  },
+
+  {
+    "id": 199,
+    "pdf": "Innovación Educativa",
+    "unidad": "Resistencia al cambio",
+    "pagina": 19,
+    "pregunta": "En el contexto de la innovación educativa, cuando se afirma que «no se está preparado para los cambios», ¿qué representan realmente esas resistencias?",
+    "opciones": [
+      "Problemas exclusivamente económicos que impiden implementar innovaciones.",
+      "Ideas o creencias que generan inseguridad y disminuyen la confianza para aprender algo nuevo.",
+      "Deficiencias técnicas relacionadas con la infraestructura escolar.",
+      "Normas legales que limitan la autonomía institucional."
+    ],
+    "correcta": 1,
+    "explicacion": "El texto explica que estas resistencias corresponden a creencias profundamente arraigadas que afectan la confianza y dificultan la innovación."
+  },
+
+  {
+    "id": 200,
+    "pdf": "Innovación Educativa",
+    "unidad": "Modelos mentales",
+    "pagina": 19,
+    "pregunta": "Según el texto de Innovación Educativa, ¿cómo se originan las ideas que quitan seguridad o tranquilidad y reducen la confianza para aprender algo nuevo?",
+    "opciones": [
+      "Se originan únicamente por la falta de capacitación profesional.",
+      "Son creencias formadas desde etapas tempranas de la vida que llegan a convertirse en verdades y operan como modelos mentales.",
+      "Se producen exclusivamente por la presión administrativa de las instituciones.",
+      "Surgen únicamente cuando existen cambios tecnológicos en el sistema educativo."
+    ],
+    "correcta": 1,
+    "explicacion": "Las resistencias al cambio provienen de modelos mentales construidos desde edades tempranas que condicionan la forma de pensar y actuar."
+  },
+
+  {
+    "id": 215,
+    "pdf": "Innovación Educativa",
+    "unidad": "Cambio y aprendizaje institucional",
+    "pagina": 30,
+    "pregunta": "Desde la perspectiva de la innovación educativa, aceptar que el cambio constituye un proceso de aprendizaje implica que las escuelas deberían ser:",
+    "opciones": [
+      "Instituciones donde únicamente los estudiantes aprendan mediante actividades previamente planificadas.",
+      "Espacios donde los docentes aprendan de su propia experiencia del mismo modo que esperan que sus estudiantes aprendan de las tareas y actividades que realizan.",
+      "Organizaciones enfocadas exclusivamente en el cumplimiento de normas administrativas.",
+      "Centros educativos donde las innovaciones dependan únicamente de las decisiones de la dirección."
+    ],
+    "correcta": 1,
+    "explicacion": "La innovación educativa concibe a la escuela como una organización que aprende, donde también los docentes reflexionan sobre su práctica y aprenden de la experiencia."
+  },
+
+  {
+    "id": 225,
+    "pdf": "Innovación Educativa",
+    "unidad": "Concepto de innovación",
+    "pagina": 29,
+    "pregunta": "Según el texto «Innovación Educativa», ¿qué significa el término «innovar»?",
+    "opciones": [
+      "Sustituir completamente todas las prácticas educativas existentes.",
+      "Mudar o alterar las cosas introduciendo novedades.",
+      "Aplicar únicamente tecnologías digitales en el proceso educativo.",
+      "Modificar exclusivamente el currículo oficial."
+    ],
+    "correcta": 1,
+    "explicacion": "El texto define innovar como mudar o alterar las cosas introduciendo novedades, sin implicar necesariamente una ruptura total con lo existente."
+  },
+
+  {
+    "id": 243,
+    "pdf": "Innovación Educativa",
+    "unidad": "Condiciones para la innovación",
+    "pagina": 22,
+    "pregunta": "¿Qué condición estructural debe reunir el entorno normativo y organizativo para que los centros educativos puedan sostener procesos permanentes de innovación?",
+    "opciones": [
+      "Mantener una estructura rígida con decisiones centralizadas.",
+      "Ser flexible y permitir mayores y reales niveles de autonomía en la toma de decisiones.",
+      "Depender exclusivamente de disposiciones emitidas por la administración central.",
+      "Limitar la participación docente en los procesos institucionales."
+    ],
+    "correcta": 1,
+    "explicacion": "La innovación educativa requiere un entorno organizativo flexible que otorgue autonomía real para favorecer procesos continuos de mejora."
+  }
+]

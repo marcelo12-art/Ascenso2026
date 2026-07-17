@@ -1,0 +1,156 @@
+[
+  {
+    "id": 21,
+    "pregunta": "¿Cuál es una de las finalidades del Escalafón Nacional del Servicio de Educación?",
+    "opciones": [
+      "Regular únicamente los procesos disciplinarios.",
+      "Normar la jubilación, la calificación de méritos y deméritos y la promoción de categoría docente.",
+      "Administrar exclusivamente los recursos económicos del sistema educativo.",
+      "Determinar los contenidos curriculares nacionales."
+    ],
+    "correcta": 1,
+    "explicacion": "El Escalafón Nacional regula aspectos relacionados con la carrera docente, incluyendo la promoción de categorías, la calificación de méritos y deméritos y los efectos de la jubilación.",
+    "pdf": "reglamento_escalafon_nacional.pdf",
+    "tema": "Escalafón Nacional"
+  },
+  {
+    "id": 66,
+    "pdf": "Escalafón",
+    "pregunta": "¿Cuál es la estructura correcta de las escalas jerárquicas y de promociones establecidas para el personal del magisterio boliviano?",
+    "opciones": [
+      "Escala jerárquica (Director General, Director Nacional, Jefes de Distrito, entre otros) y escala de promociones de categoría (de 5.ª a 1.ª categoría con bonificaciones).",
+      "Escala administrativa y escala salarial, ambas sin categorías de promoción.",
+      "Escala de antigüedad y escala de desempeño institucional únicamente.",
+      "Escala nacional y escala departamental sin categorías jerárquicas."
+    ],
+    "correcta": 0,
+    "explicacion": "El Reglamento del Escalafón organiza la carrera docente mediante una escala jerárquica de cargos y una escala de promociones por categorías."
+  },
+
+  {
+    "id": 134,
+    "pdf": "Reglamento del Escalafón Nacional",
+    "unidad": "Requisitos para el ingreso al magisterio",
+    "pagina": 5,
+    "pregunta": "Según el Reglamento del Escalafón Nacional del Servicio de Educación, ¿qué requisito de edad debe cumplir una persona para ingresar al sector docente y ejercer el magisterio fiscal?",
+    "opciones": [
+      "Tener entre 21 y 60 años de edad.",
+      "No ser menor de 18 años ni mayor de 50 años de edad.",
+      "Tener entre 18 y 65 años de edad.",
+      "Ser mayor de 25 años sin límite máximo de edad."
+    ],
+    "correcta": 1,
+    "explicacion": "El Reglamento del Escalafón Nacional establece como requisito tener no menos de 18 años ni más de 50 años para el ingreso al magisterio fiscal."
+  },
+
+  {
+    "id": 262,
+    "pdf": "Reglamento del Escalafón Nacional",
+    "unidad": "Servicio de Educación",
+    "pagina": 4,
+    "pregunta": "¿Cuál es la definición normativa de los dos sectores que comprende el Servicio de Educación?",
+    "opciones": [
+      "El sector docente, encargado del sistema educativo, y el sector administrativo, encargado de las funciones no docentes en todas las reparticiones del ramo.",
+      "El sector fiscal y el sector privado.",
+      "El sector urbano y el sector rural.",
+      "El sector regular y el sector alternativo."
+    ],
+    "correcta": 0,
+    "explicacion": "El Reglamento del Escalafón establece que el Servicio de Educación comprende el sector docente y el sector administrativo, definiendo claramente las funciones de cada uno."
+  },
+
+  {
+    "id": 321,
+    "pdf": "Reglamento del Escalafón Nacional (D.S. 4688)",
+    "unidad": "Comprobación del tiempo de servicios",
+    "pagina": 30,
+    "pregunta": "De acuerdo al Escalafón Nacional del Magisterio Público, una vez que el Jefe del Distrito dicta el auto de legalización de los comprobantes de servicios, ¿a través de qué instrumento normativo se reconoce oficialmente el tiempo de servicios del docente?",
+    "opciones": [
+      "Mediante Resolución Ministerial.",
+      "Mediante Resolución Suprema.",
+      "Mediante Auto Administrativo.",
+      "Mediante Resolución Distrital."
+    ],
+    "correcta": 1,
+    "explicacion": "El artículo 77 establece que, una vez dictado el auto de legalización por el Jefe del Distrito, el tiempo de servicios será reconocido mediante Resolución Suprema para su calificación por las Comisiones Distritales. :contentReference[oaicite:0]{index=0}"
+  },
+
+  {
+    "id": 322,
+    "pdf": "Reglamento del Escalafón Nacional (D.S. 4688)",
+    "unidad": "Incorporación definitiva de maestros interinos",
+    "pagina": 4,
+    "pregunta": "Conforme al Escalafón Nacional del Servicio de Educación, los maestros interinos que acreditan 10 años de servicios docentes y aprueban un examen de capacidad, ¿mediante qué instrumento legal obtienen el título que determina su incorporación definitiva en la carrera del magisterio?",
+    "opciones": [
+      "Mediante Resolución Ministerial.",
+      "Mediante Decreto Supremo.",
+      "Mediante Resolución Suprema.",
+      "Mediante Resolución Administrativa."
+    ],
+    "correcta": 2,
+    "explicacion": "El artículo 10 del Reglamento del Escalafón Nacional establece que los maestros interinos que acrediten diez años de servicios docentes y aprueben el examen de capacidad obtendrán el título que determina su incorporación definitiva al Escalafón mediante Resolución Suprema."
+  },
+
+  {
+    "id": 357,
+    "pdf": "Reglamento del Escalafón Nacional (D.S. 4688)",
+    "unidad": "Finalidades del Escalafón Nacional",
+    "pagina": 2,
+    "pregunta": "¿Cuál de las siguientes opciones corresponde correctamente a una de las finalidades del Escalafón Nacional del Servicio de Educación?",
+    "opciones": [
+      "Regular únicamente los procesos de evaluación del personal docente.",
+      "Establecer la Escala de Categoría y la Escala Jerárquica para el desarrollo de la carrera docente y de la administrativa.",
+      "Determinar exclusivamente los requisitos para el ingreso al servicio docente.",
+      "Organizar los procesos de capacitación permanente del magisterio."
+    ],
+    "correcta": 1,
+    "explicacion": "El artículo 2, inciso b), del Reglamento del Escalafón Nacional establece como una de sus finalidades la creación de la Escala de Categoría y la Escala Jerárquica para el desarrollo de la carrera docente y administrativa."
+  },
+
+  {
+    "id": 427,
+    "pdf": "Reglamento del Escalafón Nacional (D.S. 4688)",
+    "unidad": "Disposiciones generales",
+    "pagina": 28,
+    "pregunta": "Según el Reglamento del Escalafón Nacional del Servicio de Educación, ¿qué condición define a una persona como jefe de familia para los efectos de dicho reglamento?",
+    "opciones": [
+      "Ser el principal sostén económico del hogar.",
+      "Tener por lo menos un hijo menor a su cargo.",
+      "Estar casado o convivir legalmente.",
+      "Tener bajo su responsabilidad a cualquier familiar dependiente."
+    ],
+    "correcta": 1,
+    "explicacion": "El artículo 71 del Reglamento del Escalafón Nacional establece que, para los efectos del reglamento, se considera jefe de familia a la persona que tiene por lo menos un hijo menor a su cargo."
+  },
+
+  {
+    "id": 812,
+    "pdf": "Reglamento del Escalafón Nacional",
+    "unidad": "Cómputo de servicios",
+    "pagina": 14,
+    "pregunta": "Los años de servicios prestados a países extranjeros, ¿para qué fines no se computan?",
+    "opciones": [
+      "No se computan para fines de jubilación ni de calificación de servicios.",
+      "No se computan únicamente para fines de ascenso de categoría.",
+      "No se computan para el pago de beneficios sociales.",
+      "No se computan para la antigüedad, pero sí para la jubilación."
+    ],
+    "correcta": 0,
+    "explicacion": "El artículo 31 del Reglamento del Escalafón Nacional establece que los años de servicios prestados a países extranjeros no se computan para fines de jubilación ni de calificación de servicios."
+  },
+  {
+    "id": 816,
+    "pdf": "Reglamento del Escalafón Nacional",
+    "unidad": "Cómputo de antigüedad",
+    "pagina": 33,
+    "pregunta": "¿Para qué efectos son válidos en el cómputo de antigüedad los servicios prestados por maestros normalistas en cargos administrativos del ramo de educación?",
+    "opciones": [
+      "Para los efectos de la categorización y la jubilación.",
+      "Únicamente para los efectos de la jubilación.",
+      "Para la promoción a cargos jerárquicos y la calificación de servicios.",
+      "Exclusivamente para el reconocimiento de antigüedad administrativa."
+    ],
+    "correcta": 0,
+    "explicacion": "El artículo 79 del Reglamento del Escalafón Nacional establece que los servicios prestados por maestros normalistas en cargos administrativos del ramo de educación son válidos, para efectos del cómputo de antigüedad, tanto para la categorización como para la jubilación."
+  }
+]

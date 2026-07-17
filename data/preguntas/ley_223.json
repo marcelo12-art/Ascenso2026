@@ -1,0 +1,255 @@
+[
+  {
+    "id": 57,
+    "pdf": "Ley 223",
+    "pregunta": "En el marco de los derechos de las personas con discapacidad, la protección de la familia hacia la persona con discapacidad en ningún caso podrá ser entendida como:",
+    "opciones": [
+      "Una limitación al ejercicio de los derechos y deberes de las personas con discapacidad.",
+      "Una obligación exclusiva del Estado.",
+      "Una autorización para restringir su participación social.",
+      "Una sustitución permanente de su capacidad de decisión."
+    ],
+    "correcta": 0,
+    "explicacion": "La protección familiar no puede utilizarse como argumento para restringir los derechos ni la autonomía de la persona con discapacidad."
+  },
+
+  {
+    "id": 180,
+    "pdf": "Ley 223",
+    "unidad": "Definiciones",
+    "pagina": 5,
+    "pregunta": "Según la Ley N.º 223, ¿qué se entiende por «Deficiencia»?",
+    "opciones": [
+      "La imposibilidad permanente de realizar cualquier actividad laboral.",
+      "Problemas en las funciones fisiológicas o en las estructuras corporales que pueden consistir en una pérdida, defecto, anomalía u otra desviación significativa respecto a la norma estadísticamente establecida.",
+      "Toda limitación ocasionada exclusivamente por factores sociales o económicos.",
+      "La reducción temporal de las capacidades físicas provocada por enfermedades comunes."
+    ],
+    "correcta": 1,
+    "explicacion": "La Ley 223 define la deficiencia como una alteración en las funciones fisiológicas o estructuras corporales que puede manifestarse como pérdida, defecto, anomalía u otra desviación significativa."
+  },
+
+  {
+    "id": 220,
+    "pdf": "Ley 223",
+    "unidad": "Clasificación del grado de discapacidad",
+    "pagina": 5,
+    "pregunta": "Conforme a la Ley General para Personas con Discapacidad, ¿qué condición caracteriza el grado de discapacidad leve?",
+    "opciones": [
+      "La persona requiere asistencia permanente para realizar todas las actividades de la vida diaria.",
+      "Existen síntomas, signos o secuelas que generan alguna dificultad para realizar las actividades de la vida diaria, pero son compatibles con su ejecución.",
+      "La persona presenta una incapacidad total para desarrollar actividades laborales.",
+      "La discapacidad impide completamente la participación social."
+    ],
+    "correcta": 1,
+    "explicacion": "La Ley 223 establece que el grado de discapacidad leve comprende síntomas, signos o secuelas que ocasionan cierta dificultad para las actividades de la vida diaria, aunque permiten realizarlas."
+  },
+
+  {
+    "id": 289,
+    "pdf": "Ley N.º 223 – Personas con Discapacidad",
+    "unidad": "Definiciones",
+    "pagina": 5,
+    "pregunta": "¿Cuál es la definición de “ajustes razonables” establecida en la normativa boliviana para personas con discapacidad?",
+    "opciones": [
+      "Son modificaciones o adaptaciones temporales aplicadas únicamente en instituciones públicas para facilitar el acceso de las personas con discapacidad.",
+      "Son las modificaciones, adaptaciones necesarias y adecuadas, que no impongan una carga desproporcionada o indebida, cuando se requiera en un caso particular para garantizar a las personas con discapacidad el goce o ejercicio en igualdad de condiciones de los derechos humanos y libertades fundamentales.",
+      "Son beneficios económicos otorgados por el Estado para cubrir las necesidades especiales de las personas con discapacidad.",
+      "Son medidas de rehabilitación médica destinadas exclusivamente a personas con discapacidad permanente."
+    ],
+    "correcta": 1,
+    "explicacion": "La Ley N.º 223 define los ajustes razonables como las modificaciones o adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, garantizando a las personas con discapacidad el ejercicio de sus derechos humanos y libertades fundamentales en igualdad de condiciones. :contentReference[oaicite:0]{index=0}"
+  },
+
+  {
+    "id": 353,
+    "pdf": "Ley N.º 223 – Personas con Discapacidad",
+    "unidad": "Accesibilidad",
+    "pagina": 18,
+    "pregunta": "En el marco de las atribuciones normativas reconocidas a los niveles autonómicos subnacionales para garantizar la accesibilidad de personas con discapacidad, ¿cuál de los siguientes ámbitos está expresamente contemplado como obligación de las Asambleas Legislativas Departamentales y Concejos Municipales, en concordancia con las normas regulatorias de la autoridad competente?",
+    "opciones": [
+      "Establecer programas de rehabilitación integral y capacitación laboral para todas las personas con discapacidad.",
+      "Implementar rutas y vías peatonales accesibles, señalización de sistemas de avisos en espacios públicos, señales de acceso, beneficios y descuentos en transporte, privilegio en espacios de parqueo y señalización de audición.",
+      "Otorgar pensiones vitalicias y subsidios económicos permanentes a todas las personas con discapacidad.",
+      "Crear centros especializados de atención médica y psicológica en cada municipio del país."
+    ],
+    "correcta": 1,
+    "explicacion": "El artículo 48, parágrafo II, de la Ley N.º 223 establece que las Asambleas Legislativas Departamentales y los Concejos Municipales deben desarrollar normativa sobre accesibilidad, contemplando rutas y vías peatonales accesibles, sistemas de avisos en espacios públicos, señales de acceso, beneficios y descuentos en transporte, espacios de parqueo preferente y señalización de audición, conforme a las normas regulatorias de la autoridad competente."
+  },
+
+  {
+    "id": 364,
+    "pdf": "Ley N.º 223 – Personas con Discapacidad",
+    "unidad": "Comunicación",
+    "pagina": 15,
+    "pregunta": "La Ley General para Personas con Discapacidad establece obligaciones específicas en materia de comunicación para instituciones públicas, servicios privados y Unidades Educativas orientadas a la atención de personas con discapacidad auditiva y visual. ¿Qué dos condiciones deben cumplir obligatoriamente dichas instituciones para garantizar esa atención?",
+    "opciones": [
+      "Contar con recursos humanos capacitados en lengua de señas y tener la señalización apropiada interna y externa.",
+      "Disponer únicamente de intérpretes de lengua de señas durante actos públicos y material audiovisual subtitulado.",
+      "Implementar exclusivamente sistemas informáticos accesibles y personal especializado en informática.",
+      "Garantizar transporte gratuito y material educativo en sistema Braille para todos los usuarios."
+    ],
+    "correcta": 0,
+    "explicacion": "El artículo 36, parágrafo III, de la Ley N.º 223 dispone que las instituciones públicas, privadas y unidades educativas deben contar con recursos humanos capacitados en lengua de señas y con señalización apropiada, tanto interna como externa, para garantizar la atención adecuada de personas con discapacidad auditiva y visual."
+  },
+
+  {
+    "id": 387,
+    "pdf": "Ley N.º 223 – Personas con Discapacidad",
+    "unidad": "Financiamiento",
+    "pagina": 12,
+    "pregunta": "El Estado Plurinacional de Bolivia establece fuentes específicas de financiamiento para la gestión pública en materia de discapacidad. ¿Cuáles son los recursos económicos destinados a este fin?",
+    "opciones": [
+      "Recursos del Tesoro General del Estado y aportes obligatorios de los Gobiernos Autónomos Municipales.",
+      "Recursos provenientes de la Ley N.º 3925 de 21 de agosto de 2008, referida a la eliminación de subsidios a partidos políticos, y donaciones, legados y recursos de cooperación nacional e internacional.",
+      "Únicamente recursos de cooperación internacional y créditos externos.",
+      "Recursos generados por impuestos especiales destinados exclusivamente a programas de discapacidad."
+    ],
+    "correcta": 1,
+    "explicacion": "El artículo 29 de la Ley N.º 223 establece que el financiamiento para las políticas y programas en materia de discapacidad proviene de los recursos establecidos por la Ley N.º 3925, así como de donaciones, legados y recursos de cooperación nacional e internacional."
+  },
+
+  {
+    "id": 416,
+    "pdf": "Ley N.º 223 – Personas con Discapacidad",
+    "unidad": "Derecho a la salud sexual y reproductiva",
+    "pagina": 13,
+    "pregunta": "Una persona con discapacidad acude a un centro de salud público solicitando orientación en planificación familiar. El personal de salud propone someterla a esterilización sin su consentimiento. ¿Qué obligación tiene el Estado Plurinacional de Bolivia frente a esta situación?",
+    "opciones": [
+      "Garantizar el acceso a servicios de información de salud sexual y reproductiva, salvaguardando los derechos sexuales y reproductivos, contra la esterilización obligatoria.",
+      "Autorizar la esterilización cuando sea recomendada por el personal médico para proteger la salud de la persona con discapacidad.",
+      "Solicitar únicamente la autorización de los familiares para proceder con la esterilización.",
+      "Limitar el acceso a los servicios de salud sexual y reproductiva cuando exista discapacidad intelectual."
+    ],
+    "correcta": 0,
+    "explicacion": "El artículo 32, parágrafo VI, de la Ley N.º 223 garantiza que las personas con discapacidad accedan a servicios de información sobre salud sexual y reproductiva, salvaguardando sus derechos sexuales y reproductivos y protegiéndolas contra la esterilización obligatoria."
+  },
+
+  {
+    "id": 586,
+    "pdf": "Ley N.º 223 – Personas con Discapacidad",
+    "unidad": "Ámbito de aplicación",
+    "pagina": 2,
+    "pregunta": "La Ley de Discapacidad es aplicable en todo el territorio del Estado Plurinacional y de cumplimiento obligatorio por todos los Órganos del Estado, así como por las instituciones...",
+    "opciones": [
+      "Públicas, privadas, cooperativas y/o de economía mixta.",
+      "Públicas y privadas, excluyendo a las cooperativas y entidades de economía mixta.",
+      "Únicamente públicas y descentralizadas.",
+      "Públicas, organizaciones sociales y entidades territoriales autónomas."
+    ],
+    "correcta": 0,
+    "explicacion": "El artículo 3 de la Ley N.º 223 establece que sus disposiciones son de aplicación en todo el territorio del Estado Plurinacional de Bolivia y de cumplimiento obligatorio para todos los Órganos del Estado, así como para las instituciones públicas, privadas, cooperativas y/o de economía mixta."
+  },
+
+  {
+    "id": 604,
+    "pdf": "Ley N.º 223 – Personas con Discapacidad",
+    "unidad": "Trabajo y empleo",
+    "pagina": 11,
+    "pregunta": "Según la normativa boliviana sobre derechos de las personas con discapacidad, ¿cuál es la medida que el Órgano Ejecutivo debe promover para facilitar la constitución de empresas de economía social por parte de personas con discapacidad, así como de sus padres, madres y/o tutores?",
+    "opciones": [
+      "El acceso de personas con discapacidad, padres, madres y/o tutores de personas con discapacidad, al microcrédito destinado a la constitución de empresas de economía social.",
+      "La entrega de subsidios económicos permanentes para la creación de empresas privadas.",
+      "La exención total del pago de impuestos para todas las empresas administradas por personas con discapacidad.",
+      "La creación obligatoria de empresas estatales administradas por personas con discapacidad."
+    ],
+    "correcta": 0,
+    "explicacion": "El artículo 27 de la Ley N.º 223 establece que el Órgano Ejecutivo promoverá el acceso de las personas con discapacidad, así como de sus padres, madres y/o tutores, al microcrédito destinado a la constitución de empresas de economía social, favoreciendo su inclusión económica y laboral."
+  },
+
+  {
+    "id": 606,
+    "pdf": "Ley N.º 223 – Personas con Discapacidad",
+    "unidad": "Trabajo y empleo",
+    "pagina": 11,
+    "pregunta": "El Órgano Ejecutivo tiene la obligación de promover una medida económica específica dirigida a personas con discapacidad, así como a padres, madres y/o tutores de personas con discapacidad, con el propósito de facilitar la constitución de empresas de economía social. ¿En qué consiste dicha medida?",
+    "opciones": [
+      "El acceso al microcrédito, destinado a la constitución de empresas de economía social.",
+      "La entrega de créditos de vivienda con tasa de interés preferencial.",
+      "La exención del pago de impuestos para todas las empresas creadas por personas con discapacidad.",
+      "La asignación de un capital semilla financiado por los gobiernos municipales."
+    ],
+    "correcta": 0,
+    "explicacion": "El artículo 27 de la Ley N.º 223 establece que el Órgano Ejecutivo promoverá el acceso al microcrédito para personas con discapacidad, así como para sus padres, madres y/o tutores, destinado a la constitución de empresas de economía social."
+  },
+
+  {
+    "id": 652,
+    "pdf": "Ley N.º 223 – Personas con Discapacidad",
+    "unidad": "Derecho a la protección de la familia",
+    "pagina": 4,
+    "pregunta": "De acuerdo a la Ley General para Personas con Discapacidad, en el marco del derecho a protección de su familia, ¿cómo se define a la familia en relación con la persona con discapacidad?",
+    "opciones": [
+      "La familia es el primer espacio de inclusión y está obligada a proporcionar protección y bienestar a la persona con discapacidad promoviendo su autonomía y respetando su autodeterminación.",
+      "La familia es la principal responsable de la atención médica y rehabilitación integral de la persona con discapacidad.",
+      "La familia tiene la obligación de representar legalmente a la persona con discapacidad en todas las etapas de su vida.",
+      "La familia debe garantizar exclusivamente el sustento económico de la persona con discapacidad."
+    ],
+    "correcta": 0,
+    "explicacion": "El artículo 7, parágrafo I, de la Ley N.º 223 establece que la familia constituye el primer espacio de inclusión y tiene la obligación de brindar protección y bienestar a la persona con discapacidad, promoviendo su autonomía y respetando su autodeterminación."
+  },
+
+  {
+    "id": 823,
+    "pdf": "Ley N.º 223 – Personas con Discapacidad",
+    "unidad": "Accesibilidad",
+    "pagina": 18,
+    "pregunta": "Los gobiernos autónomos departamentales y municipales tienen atribuciones para dictar normas que garanticen accesibilidad para personas con discapacidad en diversos ámbitos. ¿Cuál de las siguientes opciones refleja correctamente uno o más de esos ámbitos?",
+    "opciones": [
+      "Rutas y vías peatonales accesibles, señalización de sistemas de avisos en espacios públicos, señales de acceso, beneficios y descuentos en transporte, privilegio en espacios de parqueo, y señalización de audición.",
+      "Únicamente la construcción de hospitales especializados y centros de rehabilitación para personas con discapacidad.",
+      "La creación de programas de empleo temporal y la dotación obligatoria de viviendas sociales adaptadas.",
+      "La exención del pago de impuestos municipales y departamentales para todas las personas con discapacidad."
+    ],
+    "correcta": 0,
+    "explicacion": "El artículo 48, parágrafo II, de la Ley N.º 223 establece que las Asambleas Legislativas Departamentales y los Concejos Municipales deben dictar normas que garanticen la accesibilidad, comprendiendo rutas y vías peatonales accesibles, señalización de sistemas de avisos en espacios públicos, señales de acceso, beneficios y descuentos en transporte, privilegio en espacios de parqueo y señalización de audición."
+  },
+
+  {
+    "id": 856,
+    "pdf": "Ley N.º 223 – Personas con Discapacidad",
+    "unidad": "Comité Nacional de las Personas con Discapacidad",
+    "pagina": 18,
+    "pregunta": "El Directorio del Comité Nacional de las Personas con Discapacidad está conformado por representantes de la sociedad civil organizada y del Órgano Ejecutivo. ¿Cuántos representantes aporta cada parte, mediante qué instrumento normativo son designados los representantes estatales y qué condición económica se establece para ellos?",
+    "opciones": [
+      "Nueve representantes de cada parte; los representantes estatales son designados mediante Resolución Ministerial; no percibirán dietas ni remuneraciones.",
+      "Siete representantes de cada parte; los representantes estatales son designados mediante Decreto Supremo; percibirán dietas por sesión.",
+      "Nueve representantes de la sociedad civil y siete del Órgano Ejecutivo; los representantes estatales son designados mediante Resolución Suprema; percibirán remuneración mensual.",
+      "Ocho representantes de cada parte; los representantes estatales son designados mediante Resolución Ministerial; percibirán únicamente viáticos."
+    ],
+    "correcta": 0,
+    "explicacion": "El artículo 47 de la Ley N.º 223 establece que el Directorio del Comité Nacional de las Personas con Discapacidad está integrado por nueve representantes de la sociedad civil organizada y nueve del Órgano Ejecutivo. Los representantes estatales son designados mediante Resolución Ministerial y ejercen sus funciones sin percibir dietas ni remuneraciones."
+  },
+
+  {
+    "id": 858,
+    "pdf": "Ley N.º 223 – Personas con Discapacidad",
+    "unidad": "Definiciones",
+    "pagina": 3,
+    "pregunta": "La “Inclusión Laboral”, en el marco de los derechos de las personas con discapacidad, se define como el derecho al empleo integrado en empresas... ¿Cuál es la opción que completa correctamente esta definición?",
+    "opciones": [
+      "...normalizadas y adaptados, es decir, empleo exactamente igual y en las mismas condiciones y equiparación de oportunidades, de remuneraciones, horarios y beneficios sociales que el de cualquier otro trabajador o trabajadora sin discapacidad.",
+      "...especializadas en la contratación de personas con discapacidad, con beneficios laborales diferenciados y jornadas especiales.",
+      "...públicas y privadas, con prioridad en la contratación y remuneración diferenciada de acuerdo con el grado de discapacidad.",
+      "...de carácter protegido, con horarios reducidos y beneficios sociales exclusivos para personas con discapacidad."
+    ],
+    "correcta": 0,
+    "explicacion": "El artículo 5, inciso s), de la Ley N.º 223 define la inclusión laboral como el derecho al empleo integrado en empresas normalizadas y adaptados, en igualdad de condiciones y equiparación de oportunidades, remuneraciones, horarios y beneficios sociales respecto de cualquier otro trabajador o trabajadora sin discapacidad."
+  },
+
+  {
+    "id": 990,
+    "pdf": "Ley N.º 223 – Personas con Discapacidad",
+    "unidad": "Salud",
+    "pagina": 13,
+    "pregunta": "En el marco de las obligaciones del Estado Plurinacional de Bolivia en materia de salud para personas con discapacidad, se establecen distintas responsabilidades para diferentes instancias del Estado. Considerando la gestión de los equipos multidisciplinarios destinados a la calificación continua de todas las personas con discapacidad, ¿qué instancia es responsable de mantenerlos y distribuirlos racionalmente, incluyendo mancomunidades de municipios?",
+    "opciones": [
+      "El Ministerio de Salud y Deportes en coordinación con las entidades territoriales autónomas.",
+      "Los Gobiernos Autónomos Departamentales a través de los Servicios Departamentales de Salud.",
+      "El Comité Nacional de Personas con Discapacidad mediante los Centros de Rehabilitación.",
+      "Los Gobiernos Autónomos Municipales de forma exclusiva en cada jurisdicción."
+    ],
+    "correcta": 0,
+    "explicacion": "El artículo 32, parágrafo III, de la Ley N.º 223 dispone que el Ministerio de Salud y Deportes, en coordinación con las entidades territoriales autónomas, es responsable de mantener y distribuir racionalmente los equipos multidisciplinarios para la calificación continua de las personas con discapacidad, incluyendo las mancomunidades de municipios."
+  }
+]

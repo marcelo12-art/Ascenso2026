@@ -1,0 +1,297 @@
+/* ==========================================================
+   PROYECTO:
+   SIMULACRO DE EXAMEN DE ASCENSO DE CATEGORÍA
+
+   Archivo:
+   login.css
+
+   Versión:
+   0.1.1
+==========================================================*/
+
+/*===============================
+        LOGIN
+================================*/
+
+.login-container {
+  position: relative;
+
+  width: 100%;
+
+  min-height: 100vh;
+
+  background: #ffffff;
+
+  overflow: hidden;
+
+  display: flex;
+
+  justify-content: center;
+
+  align-items: center;
+
+  padding: 40px;
+}
+
+/*===============================
+        MARCA DE AGUA
+================================*/
+
+.marca-agua {
+  position: absolute;
+
+  width: 1200px;
+
+  height: 1200px;
+
+  background: url("../img/escudo.png") center center no-repeat;
+
+  background-size: contain;
+
+  opacity: 0.05;
+
+  z-index: 1;
+}
+
+/*===============================
+        TARJETA
+================================*/
+
+.login-card {
+  position: relative;
+
+  z-index: 2;
+
+  width: 100%;
+
+  max-width: 700px;
+
+  display: flex;
+
+  flex-direction: column;
+
+  align-items: center;
+}
+
+/*===============================
+        ESCUDO
+================================*/
+
+.escudo {
+  width: 170px;
+
+  margin-bottom: 20px;
+}
+
+/*===============================
+        MINISTERIO
+================================*/
+
+.ministerio {
+  font-size: 42px;
+
+  font-weight: 700;
+
+  text-align: center;
+
+  color: var(--color-dorado);
+
+  line-height: 1.1;
+}
+
+.ministerio span {
+  display: block;
+
+  color: #2d2d2d;
+}
+
+/*===============================
+        LINEA
+================================*/
+
+.linea-colores {
+  width: 250px;
+
+  height: 4px;
+
+  margin: 20px 0 40px;
+
+  background: linear-gradient(to right, #d52b1e, #ffd700, #007934);
+}
+
+/*===============================
+        TITULOS
+================================*/
+
+.titulo {
+  text-align: center;
+
+  font-size: 60px;
+
+  font-weight: 800;
+
+  color: #444;
+
+  line-height: 1.1;
+}
+
+.titulo-dorado {
+  color: var(--color-dorado);
+}
+
+.gestion {
+  margin-top: 10px;
+
+  font-size: 52px;
+
+  color: var(--color-gris);
+
+  font-weight: 700;
+}
+
+/*===============================
+        LABEL
+================================*/
+
+.lbl-codigo {
+  margin-top: 45px;
+
+  margin-bottom: 15px;
+
+  font-size: 22px;
+
+  font-weight: 600;
+}
+
+/*===============================
+        INPUT
+================================*/
+
+.input-codigo {
+  width: 100%;
+
+  max-width: 560px;
+
+  display: flex;
+
+  align-items: center;
+
+  border: 2px solid var(--color-dorado);
+
+  border-radius: 15px;
+
+  overflow: hidden;
+
+  background: white;
+
+  box-shadow: var(--sombra-normal);
+}
+
+.input-codigo i {
+  width: 70px;
+
+  text-align: center;
+
+  font-size: 28px;
+
+  color: var(--color-dorado);
+}
+
+.input-codigo input {
+  flex: 1;
+
+  border: none;
+
+  padding: 18px;
+
+  font-size: 20px;
+}
+
+/*===============================
+        WHATSAPP
+================================*/
+
+.whatsapp {
+  margin-top: 30px;
+
+  text-align: center;
+}
+
+.whatsapp i {
+  font-size: 40px;
+
+  color: #25d366;
+}
+
+.whatsapp p {
+  margin: 8px 0;
+
+  font-size: 22px;
+}
+
+.whatsapp h3 {
+  font-size: 40px;
+
+  color: var(--color-dorado);
+}
+
+/*===============================
+        BOTON
+================================*/
+
+.btn-ingresar {
+  margin-top: 35px;
+
+  width: 360px;
+
+  height: 70px;
+
+  border: none;
+
+  border-radius: 18px;
+
+  background: var(--color-dorado);
+
+  color: white;
+
+  font-size: 28px;
+
+  font-weight: 700;
+
+  transition: 0.3s;
+
+  box-shadow: var(--sombra-normal);
+}
+
+.btn-ingresar:hover {
+  background: var(--color-dorado-hover);
+
+  transform: translateY(-3px);
+}
+
+/*===============================
+        FOOTER
+================================*/
+
+.footer-login {
+  margin-top: 45px;
+
+  color: #777;
+
+  font-size: 15px;
+}
+/*===============================
+        MENSAJE LOGIN
+================================*/
+
+.mensaje-login {
+  margin-top: 20px;
+
+  min-height: 25px;
+
+  font-size: 18px;
+
+  font-weight: 600;
+
+  text-align: center;
+}

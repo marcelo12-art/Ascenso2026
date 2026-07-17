@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "pregunta": "¿Quién fue el primer científico en proponer la plasticidad en la fuerza y el número de las conexiones neuronales como base del aprendizaje y la memoria?",
+    "opciones": [
+      "Donald Hebb",
+      "Santiago Ramón y Cajal",
+      "Jean Piaget",
+      "Paul MacLean"
+    ],
+    "correcta": 1,
+    "explicacion": "Santiago Ramón y Cajal fue el primer científico en proponer que la plasticidad de las conexiones neuronales constituye la base del aprendizaje y la memoria.",
+    "pdf": "NEUROCIENCIA.pdf",
+    "tema": "Neuroplasticidad"
+  },
+
+  {
+    "id": 3,
+    "pdf": "Neurociencia",
+    "pregunta": "¿Qué tipo de atención requiere un mayor gasto energético?",
+    "opciones": [
+      "La atención involuntaria.",
+      "La atención refleja.",
+      "La atención automática.",
+      "La atención voluntaria."
+    ],
+    "correcta": 3,
+    "explicacion": "La atención voluntaria exige esfuerzo consciente y un mayor consumo de recursos cognitivos."
+  },
+
+  {
+    "id": 5,
+    "pdf": "Neurociencia",
+    "pregunta": "¿Con qué áreas neuroanatómicas está relacionado principalmente el proceso de codificación y registro de la información?",
+    "opciones": [
+      "Área motora y cerebelo.",
+      "Área visual y área auditiva.",
+      "Hipotálamo y tálamo.",
+      "Lóbulo occipital y médula espinal."
+    ],
+    "correcta": 1,
+    "explicacion": "La codificación inicial de la información depende principalmente del procesamiento visual y auditivo."
+  },
+
+  {
+    "id": 14,
+    "pdf": "Neurociencia",
+    "pregunta": "¿Qué instrumentos son más convenientes para evaluar la comprensión y estimular un aprendizaje significativo y duradero desde el neuroaprendizaje?",
+    "opciones": [
+      "Preguntas de desarrollo, ítems interpretativos, informes de investigación y proyectos.",
+      "Únicamente pruebas objetivas de selección múltiple.",
+      "Solo cuestionarios de verdadero y falso.",
+      "Exámenes exclusivamente memorísticos."
+    ],
+    "correcta": 0,
+    "explicacion": "El neuroaprendizaje prioriza instrumentos que permitan demostrar comprensión y aplicación del conocimiento."
+  },
+
+  {
+    "id": 18,
+    "pdf": "Neurociencia",
+    "pregunta": "Desde la neurociencia educativa, cuando la amígdala detecta una amenaza activa una respuesta de lucha liberando cortisol y adrenalina, generando reacciones observables en el estudiante. ¿De qué formas puede manifestarse dicha reacción en el aula?",
+    "opciones": [
+      "Mediante la lucha (ofensiva o defensiva) o la fuga (huida, omisión o inhibición de acción).",
+      "Únicamente mediante el aislamiento social del estudiante.",
+      "Exclusivamente mediante el aumento de la concentración.",
+      "A través de un incremento de la memoria a largo plazo."
+    ],
+    "correcta": 0,
+    "explicacion": "Cuando la amígdala percibe una amenaza puede desencadenar respuestas de lucha o de fuga como mecanismos de supervivencia."
+  },
+
+  {
+    "id": 22,
+    "pregunta": "Un maestro diseña un aula con normas claras, trato respetuoso y actividades desafiantes pero alcanzables. Desde la neurociencia, esta decisión impacta directamente sobre el cerebro profundo. ¿Por qué el funcionamiento de la amígdala influye de manera determinante en el aprendizaje?",
+    "opciones": [
+      "Porque incrementa automáticamente la inteligencia del estudiante.",
+      "Porque cuando detecta una amenaza activa la respuesta de supervivencia y bloquea el paso de la información hacia los lóbulos prefrontales, dificultando el aprendizaje.",
+      "Porque reemplaza la función del hipocampo.",
+      "Porque elimina las emociones negativas de manera inmediata."
+    ],
+    "correcta": 1,
+    "explicacion": "Cuando la amígdala percibe una amenaza activa mecanismos de supervivencia (lucha o fuga), dificultando que la información llegue a las áreas cognitivas y a la memoria de largo plazo.",
+    "pdf": "NEUROCIENCIA.pdf",
+    "tema": "Amígdala y aprendizaje"
+  },
+
+  {
+    "id": 38,
+    "pregunta": "Desde la neurociencia del aprendizaje, la depresión y la violencia son clasificadas como emociones de tipo:",
+    "opciones": ["Primarias", "Secundarias", "Innatas", "Universales"],
+    "correcta": 1,
+    "explicacion": "La depresión y la violencia son emociones secundarias. La depresión deriva de la tristeza y la violencia deriva de la ira, por lo que no son emociones con las que una persona nace, sino que se desarrollan a partir de las emociones primarias.",
+    "pdf": "NEUROCIENCIA.pdf",
+    "pagina": 65,
+    "tema": "Emociones primarias y secundarias"
+  },
+
+  {
+    "id": 107,
+    "pdf": "Neurociencia",
+    "pregunta": "Según la neurociencia, del total de treinta mil genes del genoma humano, ¿cuántos están encargados de modelar el cerebro?",
+    "opciones": [
+      "Trece mil genes.",
+      "Cinco mil genes.",
+      "Diez mil genes.",
+      "Veinte mil genes."
+    ],
+    "correcta": 0,
+    "explicacion": "La neurociencia señala que aproximadamente trece mil genes participan en el modelado y desarrollo del cerebro humano."
+  },
+
+  {
+    "id": 119,
+    "pdf": "Neurociencia",
+    "pregunta": "Según los principios del neuroaprendizaje aplicados al aula, ¿cuál es el propósito neurológico de repetir un contenido con variantes novedosas durante el proceso de enseñanza y aprendizaje?",
+    "opciones": [
+      "Consolidar el aprendizaje para que pase de la memoria de trabajo a la memoria a largo plazo, generando nuevas redes neuronales.",
+      "Evitar que los estudiantes desarrollen conexiones neuronales estables.",
+      "Incrementar únicamente la memoria de corto plazo sin favorecer el aprendizaje permanente.",
+      "Reducir la actividad cerebral para facilitar la memorización mecánica."
+    ],
+    "correcta": 0,
+    "explicacion": "La repetición con variaciones fortalece las conexiones neuronales y favorece el almacenamiento de la información en la memoria a largo plazo."
+  },
+
+  {
+    "id": 123,
+    "pdf": "Neurociencia",
+    "unidad": "Neuroaprendizaje estratégico",
+    "pagina": 61,
+    "pregunta": "Según el libro «Neurociencias, Neuroaprendizaje: Las emociones y el aprendizaje», ¿qué herramientas son necesarias para que ocurran los aprendizajes estratégicos?",
+    "opciones": [
+      "Memorizar información y repetir contenidos de manera literal.",
+      "Aplicar únicamente ejercicios mecánicos y repetitivos para reforzar la memoria.",
+      "Asociar ideas aplicando principios integradores de los contenidos, elaborar conclusiones propias y aplicarlas a vivencias concretas.",
+      "Incrementar la cantidad de tareas y evaluaciones para consolidar los contenidos."
+    ],
+    "correcta": 2,
+    "explicacion": "Los aprendizajes estratégicos requieren asociar ideas mediante principios integradores, elaborar conclusiones propias y aplicar los conocimientos a experiencias concretas."
+  },
+
+  {
+    "id": 140,
+    "pdf": "Neurociencia",
+    "unidad": "Primeros auxilios emocionales",
+    "pagina": 78,
+    "pregunta": "¿Cuál es la finalidad del «botiquín de primeros auxilios emocionales» según el texto de Neurociencia?",
+    "opciones": [
+      "Registrar únicamente las enfermedades físicas más frecuentes de los estudiantes.",
+      "Llevar un registro de estudiantes que presentan síntomas fisiológicos o somáticos relacionados con emociones, para realizar un seguimiento de su estado emocional.",
+      "Controlar exclusivamente la asistencia y puntualidad de los estudiantes.",
+      "Evaluar el rendimiento académico mediante pruebas psicométricas."
+    ],
+    "correcta": 1,
+    "explicacion": "El botiquín de primeros auxilios emocionales permite registrar síntomas somáticos asociados a emociones y realizar seguimiento de la situación emocional del estudiante."
+  },
+
+  {
+    "id": 148,
+    "pdf": "Neurociencia",
+    "unidad": "Sistema límbico y emociones",
+    "pagina": 26,
+    "pregunta": "Según el libro «Neurociencias, Neuroaprendizaje: Las emociones y el aprendizaje», ¿qué acciones favorecen el equilibrio del sistema límbico mediante la modulación de neurotransmisores como la serotonina y la dopamina?",
+    "opciones": [
+      "Sentir la emoción y elegir el sentimiento, rodearse de olores agradables, recordar experiencias felices, realizar ejercicio físico y evitar el pensamiento rumiante.",
+      "Incrementar el tiempo de exposición a pantallas y reducir la actividad física.",
+      "Evitar las relaciones sociales y permanecer en ambientes silenciosos durante largos periodos.",
+      "Memorizar contenidos de forma repetitiva sin asociarlos a experiencias personales."
+    ],
+    "correcta": 0,
+    "explicacion": "El texto recomienda diversas estrategias para favorecer el equilibrio del sistema límbico, entre ellas el ejercicio físico, los recuerdos positivos y evitar el pensamiento rumiante."
+  },
+
+  {
+    "id": 153,
+    "pdf": "Neurociencia",
+    "unidad": "Modelo del cerebro triuno",
+    "pagina": 12,
+    "pregunta": "Según el modelo del «Cerebro triuno», ¿qué instinto del cerebro reptiliano establece que a mayor poder corresponde una mayor posición dentro del grupo social?",
+    "opciones": [
+      "Supervivencia.",
+      "Territorialidad.",
+      "Jerarquías sociales.",
+      "Reproducción."
+    ],
+    "correcta": 2,
+    "explicacion": "Dentro del modelo del cerebro triuno, el instinto de las jerarquías sociales explica la tendencia a establecer posiciones de poder dentro del grupo."
+  },
+
+  {
+    "id": 162,
+    "pdf": "Neurociencia",
+    "unidad": "Memoria",
+    "pagina": 57,
+    "pregunta": "¿Qué tipo de memoria almacena esquemas de procedimientos que se ejecutan automáticamente sin intervención consciente?",
+    "opciones": [
+      "Memoria episódica.",
+      "Memoria semántica.",
+      "Memoria implícita o procedimental.",
+      "Memoria de trabajo."
+    ],
+    "correcta": 2,
+    "explicacion": "La memoria implícita o procedimental permite ejecutar habilidades y procedimientos de forma automática, sin intervención consciente."
+  },
+
+  {
+    "id": 176,
+    "pdf": "Neurociencia",
+    "unidad": "Memoria y aprendizaje",
+    "pagina": 17,
+    "pregunta": "Desde la perspectiva del neuroaprendizaje, ¿cuál es la función neurológica de introducir variantes novedosas al reiterar un contenido durante su enseñanza?",
+    "opciones": [
+      "Evitar que el estudiante memorice el contenido para favorecer únicamente el aprendizaje espontáneo.",
+      "Favorecer la consolidación de la red neuronal y el paso de la memoria de trabajo a la memoria a largo plazo.",
+      "Reducir la actividad del sistema límbico para eliminar las emociones durante el aprendizaje.",
+      "Incrementar la cantidad de información almacenada en la memoria sensorial."
+    ],
+    "correcta": 1,
+    "explicacion": "La repetición con variantes fortalece las conexiones neuronales y facilita la consolidación del aprendizaje en la memoria a largo plazo."
+  },
+
+  {
+    "id": 187,
+    "pdf": "Neurociencia",
+    "unidad": "Emociones y sensaciones",
+    "pagina": 23,
+    "pregunta": "Según el enfoque del neuroaprendizaje, ¿cómo se definen las sensaciones?",
+    "opciones": [
+      "Son pensamientos conscientes que aparecen antes de experimentar una emoción.",
+      "Son las reacciones fisiológicas que se manifiestan en el cuerpo inmediatamente después de sentir una emoción y constituyen su representación fisiológica.",
+      "Son recuerdos almacenados en la memoria a largo plazo que se activan automáticamente.",
+      "Son respuestas cognitivas que sustituyen completamente a las emociones."
+    ],
+    "correcta": 1,
+    "explicacion": "Las sensaciones corresponden a las manifestaciones fisiológicas que aparecen como respuesta inmediata a una emoción."
+  },
+
+  {
+    "id": 192,
+    "pdf": "Neurociencia",
+    "unidad": "Neurotransmisores y aprendizaje",
+    "pagina": 35,
+    "pregunta": "Desde la neurociencia del aprendizaje, ¿qué son los neurotransmisores y por qué su funcionamiento es determinante para la práctica pedagógica del docente?",
+    "opciones": [
+      "Son células nerviosas encargadas de almacenar información en la memoria permanente.",
+      "Son sustancias químicas que permiten la transmisión de impulsos nerviosos mediante la sinapsis y regulan emociones, atención, motivación y aprendizaje.",
+      "Son estructuras cerebrales responsables únicamente del razonamiento lógico.",
+      "Son órganos especializados que producen exclusivamente dopamina."
+    ],
+    "correcta": 1,
+    "explicacion": "Los neurotransmisores permiten la comunicación entre neuronas y regulan procesos esenciales para el aprendizaje como la atención, la motivación y las emociones."
+  },
+
+  {
+    "id": 214,
+    "pdf": "Neurociencia",
+    "unidad": "Neuroacción y atención",
+    "pagina": 78,
+    "pregunta": "Una vez transcurrido el tiempo durante el cual el cerebro mantiene la atención de forma sostenida, ¿qué recomienda la neurociencia para recuperarla?",
+    "opciones": [
+      "Incrementar la cantidad de información presentada sin interrupciones.",
+      "Realizar recreos mentales o actividades de neuroacción mediante pausas de diez a quince segundos aproximadamente cada veinte minutos.",
+      "Aplicar evaluaciones rápidas después de cada explicación.",
+      "Repetir inmediatamente el contenido utilizando el mismo método de enseñanza."
+    ],
+    "correcta": 1,
+    "explicacion": "La neurociencia recomienda incorporar breves pausas o actividades de neuroacción para recuperar la atención y favorecer el aprendizaje."
+  },
+
+  {
+    "id": 217,
+    "pdf": "Neurociencia",
+    "unidad": "Cerebro triuno",
+    "pagina": 13,
+    "pregunta": "Durante una clase, un estudiante se bloquea cuando el maestro le formula una pregunta delante de sus compañeros. Desde la neurociencia, ¿qué sistema cerebral regula las respuestas afectivas y condiciona el acceso a los procesos cognitivos superiores?",
+    "opciones": [
+      "La corteza occipital.",
+      "El sistema límbico o cerebro emocional.",
+      "El cerebelo.",
+      "El lóbulo parietal."
+    ],
+    "correcta": 1,
+    "explicacion": "El sistema límbico regula las respuestas emocionales y puede facilitar o bloquear el acceso a los procesos cognitivos superiores."
+  },
+
+  {
+    "id": 218,
+    "pdf": "Neurociencia",
+    "unidad": "Sistema límbico",
+    "pagina": 13,
+    "pregunta": "Desde la neurociencia, ¿en qué estructura cerebral se procesan emociones como la pena, el miedo y la alegría?",
+    "opciones": [
+      "En el sistema límbico.",
+      "En el cerebelo.",
+      "En el lóbulo frontal.",
+      "En el tronco encefálico."
+    ],
+    "correcta": 0,
+    "explicacion": "El sistema límbico es la estructura encargada del procesamiento de las emociones y de su influencia sobre el aprendizaje."
+  },
+
+  {
+    "id": 219,
+    "pdf": "Neurociencia",
+    "unidad": "Atención y aprendizaje",
+    "pagina": 59,
+    "pregunta": "¿Cómo se denomina el sistema que regula la velocidad, el contenido y el tipo de información que transita hacia el sistema límbico y posteriormente hacia el cerebro superior?",
+    "opciones": [
+      "Hipocampo.",
+      "Sistema Activador Reticular Ascendente (SARA).",
+      "Cuerpo calloso.",
+      "Sistema nervioso periférico."
+    ],
+    "correcta": 1,
+    "explicacion": "El Sistema Activador Reticular Ascendente (SARA) regula el nivel de alerta y filtra la información que llega a las estructuras superiores del cerebro."
+  },
+
+  {
+    "id": 222,
+    "pdf": "Neurociencia",
+    "unidad": "Hábitos que favorecen el aprendizaje",
+    "pagina": 89,
+    "pregunta": "Desde el neuroaprendizaje, ¿cómo favorece la buena hidratación al cerebro durante el proceso de aprendizaje?",
+    "opciones": [
+      "Incrementa únicamente la velocidad de lectura.",
+      "Mejora el estado de ánimo, fortalece la memoria, aumenta la concentración y favorece un mejor funcionamiento del cerebro.",
+      "Reduce la necesidad de descanso durante las actividades académicas.",
+      "Permite memorizar grandes cantidades de información sin esfuerzo."
+    ],
+    "correcta": 1,
+    "explicacion": "Una adecuada hidratación contribuye al buen funcionamiento cerebral, mejorando el estado de ánimo, la memoria, la concentración y la capacidad para resolver problemas."
+  },
+
+  {
+    "id": 223,
+    "pdf": "Neurociencia",
+    "unidad": "Inteligencias múltiples",
+    "pagina": 44,
+    "pregunta": "Un estudiante demuestra facilidad para narrar historias, argumentar con precisión, aprender idiomas rápidamente y disfrutar de la lectura y la escritura. ¿Qué tipo de inteligencia refleja este perfil?",
+    "opciones": [
+      "Inteligencia lógico-matemática.",
+      "Inteligencia verbal-lingüística.",
+      "Inteligencia espacial.",
+      "Inteligencia naturalista."
+    ],
+    "correcta": 1,
+    "explicacion": "La inteligencia verbal-lingüística se relaciona con el uso eficaz del lenguaje oral y escrito, la comunicación y el aprendizaje de idiomas."
+  },
+
+  {
+    "id": 238,
+    "pdf": "Neurociencia",
+    "unidad": "Neurotransmisores y aprendizaje",
+    "pagina": 87,
+    "pregunta": "Una maestra incorpora actividades con elementos de novedad y sorpresa durante su clase. Desde la perspectiva de la neurociencia, ¿qué sustancia química se libera principalmente en el cerebro?",
+    "opciones": ["Serotonina.", "Acetilcolina.", "Dopamina.", "Adrenalina."],
+    "correcta": 2,
+    "explicacion": "La novedad y la sorpresa estimulan la liberación de dopamina, neurotransmisor relacionado con la motivación, la atención y el aprendizaje."
+  },
+
+  {
+    "id": 250,
+    "pdf": "Neurociencia",
+    "unidad": "Emociones y sentimientos",
+    "pagina": 24,
+    "pregunta": "Según la neurociencia, ¿cómo se denomina el proceso de reconocer una emoción a partir de la sensación corporal, asignarle un nombre, una intensidad y decidir cómo expresarla mediante la intervención de los lóbulos prefrontales?",
+    "opciones": ["Sensación.", "Percepción.", "Sentimiento.", "Emoción."],
+    "correcta": 2,
+    "explicacion": "El sentimiento surge cuando la persona reconoce conscientemente la emoción, la interpreta y decide cómo expresarla, proceso en el que intervienen los lóbulos prefrontales."
+  },
+
+  {
+    "id": 252,
+    "pdf": "Neurociencia",
+    "unidad": "Redes cerebrales y aprendizaje",
+    "pagina": 33,
+    "pregunta": "Para activar las redes cognitivas racionales durante el proceso de enseñanza-aprendizaje, ¿qué redes debe considerar primero el docente?",
+    "opciones": [
+      "Las redes relacionadas exclusivamente con la memoria de largo plazo.",
+      "Las redes instintivas emocionales del cerebro reptiliano y del cerebro mamífero.",
+      "Las redes del hemisferio izquierdo únicamente.",
+      "Las redes visuales y auditivas de forma aislada."
+    ],
+    "correcta": 1,
+    "explicacion": "La neurociencia señala que el acceso a los procesos cognitivos superiores depende de la adecuada activación previa de las redes emocionales e instintivas."
+  },
+
+  {
+    "id": 254,
+    "pdf": "Neurociencia",
+    "unidad": "Atención",
+    "pagina": 54,
+    "pregunta": "Según el neuroaprendizaje, ¿qué tipo de atención requiere el menor esfuerzo por parte de la persona?",
+    "opciones": [
+      "Atención voluntaria.",
+      "Atención sostenida.",
+      "Atención espontánea.",
+      "Atención selectiva."
+    ],
+    "correcta": 2,
+    "explicacion": "La atención espontánea surge de manera natural frente a estímulos de interés y requiere un esfuerzo mínimo en comparación con la atención voluntaria."
+  },
+
+  {
+    "id": 257,
+    "pdf": "Neurociencia",
+    "unidad": "Atención selectiva",
+    "pagina": 106,
+    "pregunta": "¿Para qué es útil la técnica del «Estímulo correcto» en la neurociencia del aprendizaje?",
+    "opciones": [
+      "Para desarrollar la memoria fotográfica.",
+      "Para entrenar la atención selectiva, aprendiendo a elegir un estímulo entre varios.",
+      "Para aumentar únicamente la velocidad de lectura.",
+      "Para fortalecer exclusivamente la memoria de largo plazo."
+    ],
+    "correcta": 1,
+    "explicacion": "La técnica del «Estímulo correcto» fortalece la atención selectiva al entrenar la capacidad de centrar la atención en un estímulo relevante e ignorar los demás."
+  },
+
+  {
+    "id": 258,
+    "pdf": "Neurociencia",
+    "unidad": "Cerebro racional y aprendizaje",
+    "pagina": 49,
+    "pregunta": "Según el neuroaprendizaje, ¿qué condiciones requiere el cerebro racional para funcionar adecuadamente durante el proceso de aprendizaje?",
+    "opciones": [
+      "Rutinas repetitivas y ausencia de estímulos novedosos.",
+      "Estar atraído por la novedad, los desafíos, los estímulos internos y externos, la motivación y el aprendizaje mediante la acción.",
+      "Memorizar grandes cantidades de información antes de comprenderla.",
+      "Reducir la participación activa del estudiante para evitar distracciones."
+    ],
+    "correcta": 1,
+    "explicacion": "El cerebro racional funciona mejor cuando existen estímulos novedosos, desafíos, motivación y aprendizaje activo mediante la experiencia."
+  },
+
+  {
+    "id": 261,
+    "pdf": "Neurociencia",
+    "unidad": "Emociones",
+    "pagina": 22,
+    "pregunta": "Según la neurociencia del aprendizaje, ¿cómo se clasifica la depresión?",
+    "opciones": [
+      "Como una emoción positiva.",
+      "Como una emoción neutra.",
+      "Como una emoción negativa.",
+      "Como una emoción adaptativa."
+    ],
+    "correcta": 2,
+    "explicacion": "El texto clasifica la depresión dentro de las emociones negativas, debido a su influencia desfavorable sobre los procesos cognitivos y el aprendizaje."
+  }
+]

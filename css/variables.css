@@ -1,0 +1,96 @@
+/* ==========================================================
+   PROYECTO:
+   SIMULACRO DE EXAMEN DE ASCENSO DE CATEGORÍA 2026
+
+   Archivo:
+   variables.css
+
+   Versión:
+   0.1.0
+
+   Descripción:
+   Variables globales del sistema.
+========================================================== */
+
+:root {
+  /* ======================================================
+       COLORES INSTITUCIONALES
+    ====================================================== */
+
+  --color-dorado: #c8a548;
+  --color-dorado-hover: #b18e32;
+
+  --color-blanco: #ffffff;
+
+  --color-negro: #222222;
+
+  --color-gris: #6c757d;
+
+  --color-gris-claro: #f5f5f5;
+
+  --color-fondo: #f8f9fa;
+
+  --color-borde: #d9d9d9;
+
+  --color-error: #dc3545;
+
+  --color-correcto: #198754;
+
+  --color-info: #0d6efd;
+
+  /* ======================================================
+       SOMBRAS
+    ====================================================== */
+
+  --sombra-pequena: 0px 3px 8px rgba(0, 0, 0, 0.1);
+
+  --sombra-normal: 0px 8px 20px rgba(0, 0, 0, 0.15);
+
+  --sombra-grande: 0px 15px 35px rgba(0, 0, 0, 0.2);
+
+  /* ======================================================
+       BORDES
+    ====================================================== */
+
+  --radio-pequeno: 8px;
+
+  --radio-normal: 15px;
+
+  --radio-grande: 25px;
+
+  /* ======================================================
+       TIPOGRAFÍA
+    ====================================================== */
+
+  --fuente-principal: "Montserrat", sans-serif;
+
+  --titulo: 42px;
+
+  --subtitulo: 26px;
+
+  --texto: 16px;
+
+  --texto-pequeno: 14px;
+
+  /* ======================================================
+       BOTONES
+    ====================================================== */
+
+  --alto-boton: 55px;
+
+  --ancho-boton: 220px;
+
+  /* ======================================================
+       INPUT
+    ====================================================== */
+
+  --alto-input: 55px;
+
+  --radio-input: 12px;
+
+  /* ======================================================
+       TRANSICIONES
+    ====================================================== */
+
+  --transicion: 0.35s ease;
+}

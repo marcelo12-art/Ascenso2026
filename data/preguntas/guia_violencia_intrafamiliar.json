@@ -1,0 +1,408 @@
+[
+  {
+    "id": 7,
+    "pregunta": "Una docente de un instituto denuncia que su esposo le retiró el acceso a la cuenta bancaria conjunta, le confiscó su salario mensual argumentando que él administra mejor el dinero y le impide comprar sus propios materiales de trabajo. ¿Qué tipo de violencia describe esta situación?",
+    "opciones": [
+      "Violencia psicológica.",
+      "Violencia física.",
+      "Violencia económica o patrimonial.",
+      "Violencia sexual."
+    ],
+    "correcta": 2,
+    "explicacion": "La violencia económica o patrimonial consiste en controlar o limitar los recursos económicos, los ingresos o los bienes de una persona, afectando su autonomía e independencia económica.",
+    "pdf": "guia_violencia_intrafamiliar.pdf",
+    "tema": "Violencia económica"
+  },
+  {
+    "id": 8,
+    "pregunta": "La 'Guía para la Identificación y Denuncia de la Violencia Intrafamiliar en el Ámbito Educativo' refiere que un acto de naturaleza intencionada o cualquier esfuerzo que trata de socavar la valoración que tiene la niña, el niño y/o adolescente de sí mismo es:",
+    "opciones": [
+      "Violencia física.",
+      "Violencia psicológica o emocional.",
+      "Violencia económica.",
+      "Violencia institucional."
+    ],
+    "correcta": 1,
+    "explicacion": "La violencia psicológica o emocional comprende toda acción intencional destinada a afectar la autoestima, la estabilidad emocional o el desarrollo integral de niñas, niños y adolescentes.",
+    "pdf": "guia_violencia_intrafamiliar.pdf",
+    "tema": "Violencia psicológica"
+  },
+  {
+    "id": 9,
+    "pregunta": "Según la 'Guía para la Identificación y Denuncia de Violencia Intrafamiliar en el Ámbito Educativo', cuando progenitores, encargados de su custodia, guardadores o tutores ponen en peligro la integridad física o psicológica de la niña, niño o adolescente, ¿qué tipo de violencia se considera?",
+    "opciones": [
+      "Violencia comunitaria.",
+      "Violencia contra la niñez y adolescencia.",
+      "Violencia institucional.",
+      "Violencia económica."
+    ],
+    "correcta": 1,
+    "explicacion": "Se considera violencia contra la niñez y adolescencia toda acción u omisión realizada por quienes tienen su cuidado y que pone en riesgo su integridad física, psicológica o su desarrollo integral.",
+    "pdf": "guia_violencia_intrafamiliar.pdf",
+    "tema": "Violencia contra la niñez y adolescencia"
+  },
+  {
+    "id": 10,
+    "pregunta": "Considerando la violencia por acción, la tabla de tipologías de violencia sexual y los delitos contra la libertad sexual, ¿cuáles de los siguientes enunciados corresponden a delitos, según la 'Guía para la Identificación y Denuncia de la Violencia Intrafamiliar en el Ámbito Educativo'?",
+    "opciones": [
+      "Únicamente el acoso verbal.",
+      "La violación.",
+      "Los conflictos familiares sin agresión.",
+      "La negligencia escolar."
+    ],
+    "correcta": 1,
+    "explicacion": "La Guía identifica la violación como uno de los delitos contra la libertad sexual, constituyendo una de las formas más graves de violencia sexual que debe ser denunciada de manera inmediata ante las autoridades competentes.",
+    "pdf": "guia_violencia_intrafamiliar.pdf",
+    "tema": "Delitos contra la libertad sexual"
+  },
+
+  {
+    "id": 11,
+    "pdf": "Guía Violencia",
+    "pregunta": "Considerando la violencia por acción, la tabla de tipologías de violencia sexual y los delitos contra la libertad sexual, ¿cuál de los siguientes constituye un delito contra la libertad sexual?",
+    "opciones": [
+      "Violación",
+      "Violencia psicológica",
+      "Negligencia",
+      "Violencia económica"
+    ],
+    "correcta": 0,
+    "explicacion": "La violación constituye un delito contra la libertad sexual según la clasificación de la Guía de Violencia."
+  },
+
+  {
+    "id": 19,
+    "pdf": "Guía Violencia",
+    "pregunta": "¿Cuál de las siguientes opciones corresponde exactamente a una de las siete claves para la crianza positiva y afectiva en el hogar, según la «Guía para la Identificación y Denuncia de la Violencia Intrafamiliar en el Ámbito Educativo»?",
+    "opciones": [
+      "Eduque, explique, refuerce, sea un modelo para seguir.",
+      "Castigue inmediatamente cualquier conducta inapropiada.",
+      "Evite expresar emociones delante de niñas y niños.",
+      "Permita que aprendan únicamente mediante la experiencia."
+    ],
+    "correcta": 0,
+    "explicacion": "La guía promueve una crianza positiva basada en la educación, la explicación, el refuerzo y el ejemplo de los adultos."
+  },
+
+  {
+    "id": 29,
+    "pdf": "Guía Violencia",
+    "pregunta": "A partir de la tabla de indicadores generales en niñas, niños y adolescentes que han sido víctimas de violencia, planteada en la 'Guía para la Identificación y Denuncia de Violencia Intrafamiliar en el Ámbito Educativo', ¿cuál de las siguientes opciones corresponde a signos o indicadores físicos evidentes?",
+    "opciones": [
+      "Marcas en el cuerpo (heridas, moretones, mordeduras, quemaduras).",
+      "Bajo rendimiento escolar y dificultad para concentrarse.",
+      "Aislamiento social y cambios bruscos de conducta.",
+      "Miedo constante a participar en actividades grupales."
+    ],
+    "correcta": 0,
+    "explicacion": "Los indicadores físicos evidentes incluyen lesiones visibles como heridas, moretones, mordeduras y quemaduras, según la Tabla 4 de la Guía."
+  },
+
+  {
+    "id": 56,
+    "pdf": "Guía Violencia",
+    "pregunta": "De acuerdo con la «Guía para la Identificación y Denuncia de la Violencia Intrafamiliar en el Ámbito Educativo», cuando se sospeche de abuso sexual, ¿por quién deberá ser realizada la conversación con la posible víctima?",
+    "opciones": [
+      "Por una maestra en un ambiente tranquilo y con privacidad y, si el caso lo amerita, también por un maestro entrenado, amable y con actitud abierta.",
+      "Por cualquier docente disponible, sin importar el lugar o las condiciones.",
+      "Únicamente por el director de la unidad educativa.",
+      "Exclusivamente por personal policial."
+    ],
+    "correcta": 0,
+    "explicacion": "La guía recomienda que la entrevista se realice en un ambiente seguro, privado y por personal capacitado para evitar la revictimización."
+  },
+
+  {
+    "id": 79,
+    "pdf": "Guía Violencia",
+    "pregunta": "De acuerdo con la «Guía para la Identificación y Denuncia de la Violencia Intrafamiliar en el Ámbito Educativo», la violencia por omisión y supresión presenta mayores dificultades para su identificación, ya que representa:",
+    "opciones": [
+      "Un tipo de maltrato pasivo.",
+      "Una forma de violencia exclusivamente física.",
+      "Una conducta que solo ocurre en el ámbito escolar.",
+      "Un conflicto propio de la adolescencia."
+    ],
+    "correcta": 0,
+    "explicacion": "La violencia por omisión o supresión se caracteriza por la ausencia de acciones necesarias para el cuidado y protección, constituyendo un maltrato pasivo."
+  },
+
+  {
+    "id": 80,
+    "pdf": "Guía Violencia",
+    "pregunta": "La «Guía para la Identificación y Denuncia de la Violencia Intrafamiliar en el Ámbito Educativo» refiere que la valoración del riesgo es importante para la intervención en un posible caso de violencia y estará definida de acuerdo a:",
+    "opciones": [
+      "Un riesgo bajo, medio o alto.",
+      "La edad de la víctima únicamente.",
+      "El número de personas involucradas en el hecho.",
+      "La decisión exclusiva de la familia."
+    ],
+    "correcta": 0,
+    "explicacion": "La guía clasifica el nivel de riesgo en bajo, medio o alto para orientar las medidas de intervención más adecuadas."
+  },
+
+  {
+    "id": 110,
+    "pdf": "Guía Violencia",
+    "pregunta": "Considerando los indicadores generales en niñas, niños y adolescentes víctimas de violencia, ¿cuál de las siguientes opciones corresponde a una de las conductas que se identifican en la institución educativa?",
+    "opciones": [
+      "Disminución del rendimiento académico, incumplimiento de tareas escolares y desinterés en el estudio.",
+      "Incremento permanente del rendimiento académico y mayor participación en clases.",
+      "Mayor liderazgo y participación en actividades extracurriculares.",
+      "Mejor desempeño escolar acompañado de alta motivación."
+    ],
+    "correcta": 0,
+    "explicacion": "La disminución del rendimiento académico y el desinterés por el estudio son indicadores frecuentes de posibles situaciones de violencia."
+  },
+  {
+    "id": 110,
+    "pdf": "Guía Violencia",
+    "pregunta": "Considerando los indicadores generales en niñas, niños y adolescentes víctimas de violencia, ¿cuál de las siguientes opciones corresponde a una de las conductas que se identifican en la institución educativa?",
+    "opciones": [
+      "Disminución del rendimiento académico, incumplimiento de tareas escolares y desinterés en el estudio.",
+      "Incremento permanente del rendimiento académico y mayor participación en clases.",
+      "Mayor liderazgo y participación en actividades extracurriculares.",
+      "Mejor desempeño escolar acompañado de alta motivación."
+    ],
+    "correcta": 0,
+    "explicacion": "La disminución del rendimiento académico y el desinterés por el estudio son indicadores frecuentes de posibles situaciones de violencia."
+  },
+
+  {
+    "id": 136,
+    "pdf": "Guía Violencia Intrafamiliar",
+    "unidad": "Consecuencias de la violencia en niñas, niños y adolescentes",
+    "pagina": 22,
+    "pregunta": "Según la «Guía para la Identificación y Denuncia de la Violencia Intrafamiliar en el Ámbito Educativo», ¿cuál de los siguientes enunciados corresponde al área emocional en la niñez como consecuencia de la violencia a largo plazo?",
+    "opciones": [
+      "Síntomas de depresión o ansiedad, miedo e inseguridad extrema ante situaciones cotidianas consideradas de bajo riesgo.",
+      "Incremento del rendimiento académico y fortalecimiento de la autoestima.",
+      "Desarrollo acelerado de habilidades sociales y de liderazgo.",
+      "Mayor independencia emocional y facilidad para resolver conflictos."
+    ],
+    "correcta": 0,
+    "explicacion": "La guía señala que la violencia puede generar síntomas de depresión o ansiedad, miedo e inseguridad extrema ante situaciones consideradas de bajo riesgo."
+  },
+
+  {
+    "id": 149,
+    "pdf": "Guía Violencia Intrafamiliar",
+    "unidad": "Clasificación de la violencia",
+    "pagina": 15,
+    "pregunta": "Según la «Guía para la Identificación y Denuncia de la Violencia Intrafamiliar en el Ámbito Educativo», ¿cómo puede clasificarse la violencia según el tipo de comportamiento o expresión?",
+    "opciones": [
+      "En violencia física, psicológica y sexual únicamente.",
+      "En acción, omisión y supresión.",
+      "En violencia escolar, familiar e institucional.",
+      "En violencia leve, moderada y grave."
+    ],
+    "correcta": 1,
+    "explicacion": "La guía clasifica la violencia, según el tipo de comportamiento o expresión, en acción, omisión y supresión."
+  },
+
+  {
+    "id": 159,
+    "pdf": "Guía Violencia Intrafamiliar",
+    "unidad": "Consecuencias de la violencia",
+    "pagina": 19,
+    "pregunta": "Según la «Guía para la Identificación y Denuncia de la Violencia Intrafamiliar en el Ámbito Educativo», ¿qué impacto tiene la violencia sobre las posibilidades de desarrollo de las y los estudiantes?",
+    "opciones": [
+      "Incrementa únicamente el riesgo de dificultades académicas temporales.",
+      "Aumenta el riesgo de enfrentar problemas sociales, emocionales y cognitivos de por vida.",
+      "Produce exclusivamente alteraciones en el rendimiento escolar durante la niñez.",
+      "Sus efectos desaparecen cuando el estudiante cambia de institución educativa."
+    ],
+    "correcta": 1,
+    "explicacion": "La guía señala que la violencia afecta directamente el desarrollo integral de los estudiantes y aumenta el riesgo de enfrentar problemas sociales, emocionales y cognitivos a lo largo de la vida."
+  },
+
+  {
+    "id": 171,
+    "pdf": "Guía Violencia Intrafamiliar",
+    "unidad": "Derechos de niñas, niños y adolescentes",
+    "pagina": 7,
+    "pregunta": "Según la «Guía para la Identificación y Denuncia de la Violencia Intrafamiliar en el Ámbito Educativo», además de promover la formación académica y el ejercicio de los derechos y responsabilidades, ¿de qué deben ser guardianes las y los miembros de la comunidad educativa?",
+    "opciones": [
+      "Del cumplimiento exclusivo de las normas disciplinarias.",
+      "De la seguridad y protección de niñas, niños y adolescentes en todo momento.",
+      "Del rendimiento académico de todos los estudiantes.",
+      "Del patrimonio de la unidad educativa."
+    ],
+    "correcta": 1,
+    "explicacion": "La guía establece que la comunidad educativa debe velar por la seguridad y protección permanente de niñas, niños y adolescentes."
+  },
+
+  {
+    "id": 226,
+    "pdf": "Guía Violencia Intrafamiliar",
+    "unidad": "Manifestaciones de la violencia intrafamiliar",
+    "pagina": 15,
+    "pregunta": "Según la «Guía para la Identificación y Denuncia de la Violencia Intrafamiliar en el Ámbito Educativo», ¿cuándo existe violencia en el ámbito familiar?",
+    "opciones": [
+      "Cuando se presentan desacuerdos ocasionales entre los miembros de la familia.",
+      "Cuando existe maltrato entre miembros de la familia mediante conductas deliberadas y recurrentes en las que quien tiene mayor poder abusa de quien tiene menor poder, causándole sufrimiento.",
+      "Cuando los integrantes de la familia mantienen opiniones diferentes sobre la educación de los hijos.",
+      "Cuando existen únicamente dificultades económicas dentro del hogar."
+    ],
+    "correcta": 1,
+    "explicacion": "La guía señala que la violencia intrafamiliar implica conductas deliberadas y recurrentes de abuso de poder entre miembros de la familia que generan sufrimiento."
+  },
+
+  {
+    "id": 228,
+    "pdf": "Guía Violencia Intrafamiliar",
+    "unidad": "Manifestaciones de la violencia intrafamiliar",
+    "pagina": 15,
+    "pregunta": "Según la «Guía para la Identificación y Denuncia de la Violencia Intrafamiliar en el Ámbito Educativo», ¿cuándo existe violencia contra la niñez y la adolescencia?",
+    "opciones": [
+      "Cuando los progenitores exigen el cumplimiento de responsabilidades escolares.",
+      "Cuando progenitores, encargados de la custodia, guardadores o tutores ponen en peligro la integridad física o psicológica de la niña, niño o adolescente.",
+      "Cuando la familia establece normas de convivencia dentro del hogar.",
+      "Cuando los docentes comunican el bajo rendimiento académico a los padres."
+    ],
+    "correcta": 1,
+    "explicacion": "La guía establece que existe violencia contra la niñez y adolescencia cuando quienes tienen su cuidado ponen en riesgo su integridad física o psicológica."
+  },
+
+  {
+    "id": 229,
+    "pdf": "Guía Violencia Intrafamiliar",
+    "unidad": "Orientaciones ante casos de violencia",
+    "pagina": 31,
+    "pregunta": "Durante la etapa de detección de un posible caso de violencia, ¿qué actuación recomienda la «Guía para la Identificación y Denuncia de la Violencia Intrafamiliar en el Ámbito Educativo»?",
+    "opciones": [
+      "Interrogar insistentemente a la víctima hasta obtener todos los detalles.",
+      "Escuchar atentamente, conectar con la emoción, creer y aceptar el relato, y obtener únicamente datos generales.",
+      "Solicitar inmediatamente pruebas físicas antes de realizar cualquier acción.",
+      "Confrontar al presunto agresor en presencia de la víctima."
+    ],
+    "correcta": 1,
+    "explicacion": "La guía recomienda escuchar con atención, validar el relato de la víctima y recoger únicamente la información general necesaria, evitando la revictimización."
+  },
+
+  {
+    "id": 232,
+    "pdf": "Guía Violencia Intrafamiliar",
+    "unidad": "Orientaciones cuando se conoce un caso de violencia",
+    "pagina": 32,
+    "pregunta": "Según la tabla «Orientaciones cuando se conoce un caso de violencia», ¿qué acciones corresponden al momento «Durante la referencia, si corresponde»?",
+    "opciones": [
+      "Realizar únicamente la denuncia formal y esperar la intervención de otras instituciones.",
+      "Tener varias opciones de solución, analizar sus consecuencias, examinar los obstáculos, identificar apoyos, establecer prioridades e involucrar a los adultos e instituciones responsables.",
+      "Confrontar al presunto agresor para obtener una confesión.",
+      "Solicitar a la víctima que relate nuevamente todos los hechos ocurridos."
+    ],
+    "correcta": 1,
+    "explicacion": "Durante la referencia se analizan alternativas de solución, sus consecuencias, los apoyos disponibles y la participación de los adultos e instituciones responsables."
+  },
+
+  {
+    "id": 233,
+    "pdf": "Guía Violencia Intrafamiliar",
+    "unidad": "Orientaciones cuando se conoce un caso de violencia",
+    "pagina": 32,
+    "pregunta": "Según la «Guía para la Identificación y Denuncia de la Violencia Intrafamiliar en el Ámbito Educativo», ¿qué acción corresponde realizar durante la contrarreferencia o seguimiento?",
+    "opciones": [
+      "Cerrar definitivamente el caso una vez realizada la denuncia.",
+      "Mantener el contacto, evaluar las acciones realizadas y tomar nuevas decisiones cuando sea necesario.",
+      "Solicitar una nueva declaración detallada de la víctima en cada seguimiento.",
+      "Esperar únicamente el informe de las autoridades competentes."
+    ],
+    "correcta": 1,
+    "explicacion": "Durante la contrarreferencia o seguimiento se recomienda mantener el contacto, evaluar las acciones emprendidas y tomar nuevas decisiones cuando corresponda."
+  },
+
+  {
+    "id": 234,
+    "pdf": "Guía Violencia Intrafamiliar",
+    "unidad": "Rol de maestras y maestros",
+    "pagina": 33,
+    "pregunta": "Dentro del rol de maestras y maestros en la detección de violencia intrafamiliar, ¿qué recomendación corresponde al elemento «Examinar sus limitaciones»?",
+    "opciones": [
+      "Asumir personalmente todos los casos para evitar su derivación.",
+      "Si el adulto considera que no cuenta con las condiciones necesarias para apoyar adecuadamente a la víctima, debe derivar el caso a quien pueda atenderlo.",
+      "Esperar a que la víctima solicite ayuda nuevamente antes de intervenir.",
+      "Limitar su actuación únicamente al registro administrativo del caso."
+    ],
+    "correcta": 1,
+    "explicacion": "La guía recomienda que, cuando el docente no cuente con las condiciones necesarias para brindar apoyo adecuado, derive el caso a otra persona capacitada."
+  },
+
+  {
+    "id": 235,
+    "pdf": "Guía Violencia Intrafamiliar",
+    "unidad": "Orientaciones cuando se conoce un caso de violencia",
+    "pagina": 31,
+    "pregunta": "Según la tabla «Orientaciones cuando se conoce un caso de violencia», ¿qué acciones corresponden al momento «Durante la intervención»?",
+    "opciones": [
+      "Realizar preguntas abiertas, verificar el apoyo de un adulto responsable, analizar los hechos, mantener una postura objetiva, reconocer los riesgos, actuar de forma gradual, proteger la vida y la salud del estudiante y comunicarse con un lenguaje comprensible.",
+      "Interrogar repetidamente a la víctima hasta obtener todos los detalles del hecho.",
+      "Solicitar pruebas físicas antes de brindar cualquier tipo de apoyo.",
+      "Confrontar inmediatamente al presunto agresor frente a la víctima."
+    ],
+    "correcta": 0,
+    "explicacion": "Durante la intervención la guía recomienda realizar preguntas abiertas, analizar objetivamente la situación, proteger al estudiante y mantener una comunicación adecuada evitando su revictimización."
+  },
+
+  {
+    "id": 237,
+    "pdf": "Guía Violencia Intrafamiliar",
+    "unidad": "Rol de maestras y maestros",
+    "pagina": 33,
+    "pregunta": "Según la «Guía para la Identificación y Denuncia de la Violencia Intrafamiliar en el Ámbito Educativo», ¿qué recomendación corresponde al elemento de intervención denominado «Contención emocional de emergencia»?",
+    "opciones": [
+      "Brindar tratamiento psicológico especializado hasta la recuperación de la víctima.",
+      "Conocer procedimientos básicos de primeros auxilios psicológicos que permitan iniciar un trabajo de contención emocional.",
+      "Esperar la intervención exclusiva del personal de salud antes de brindar cualquier apoyo.",
+      "Solicitar que la víctima relate varias veces lo sucedido para verificar la información."
+    ],
+    "correcta": 1,
+    "explicacion": "La guía señala que, aunque el docente no brinda terapia psicológica, debe conocer los procedimientos básicos de primeros auxilios psicológicos para ofrecer una contención emocional inicial."
+  },
+
+  {
+    "id": 248,
+    "pdf": "Guía Violencia Intrafamiliar",
+    "unidad": "Señales y consecuencias de la violencia en la adolescencia",
+    "pagina": 22,
+    "pregunta": "Según la «Guía para la Identificación y Denuncia de la Violencia Intrafamiliar en el Ámbito Educativo», ¿cuál de las siguientes corresponde al área emocional de las consecuencias de la violencia a largo plazo en la adolescencia?",
+    "opciones": [
+      "Disminución del rendimiento académico y dificultades de aprendizaje.",
+      "Síntomas de depresión o ansiedad, desconfianza generalizada, sentimientos de desesperanza frente al futuro, altos niveles de frustración y disminución del autoconcepto y la autovaloración.",
+      "Consumo de alcohol y conductas delictivas.",
+      "Dolores de cabeza frecuentes y trastornos gastrointestinales."
+    ],
+    "correcta": 1,
+    "explicacion": "La guía identifica como consecuencias emocionales a largo plazo en la adolescencia la depresión, ansiedad, desesperanza, frustración y disminución del autoconcepto y la autoestima."
+  },
+
+  {
+    "id": 249,
+    "pdf": "Guía Violencia Intrafamiliar",
+    "unidad": "Señales y consecuencias de la violencia en la niñez",
+    "pagina": 19,
+    "pregunta": "Dentro de las señales y consecuencias de la violencia a corto y mediano plazo en la niñez, ¿cuál corresponde al área conductual?",
+    "opciones": [
+      "Conductas regresivas, conductas autolesivas, llanto reiterado sin causa aparente, conductas de evitación y retraimiento.",
+      "Síntomas de ansiedad, sentimientos de culpa y disminución de la autoestima.",
+      "Disminución del rendimiento escolar y problemas de concentración.",
+      "Dolores abdominales, cefaleas y alteraciones del sueño."
+    ],
+    "correcta": 0,
+    "explicacion": "La guía clasifica las conductas regresivas, autolesiones, llanto persistente y conductas de evitación como manifestaciones conductuales de la violencia en la niñez."
+  },
+  {
+    "id": 377,
+    "pdf": "Guía para la Identificación y Denuncia de la Violencia Intrafamiliar en el Ámbito Educativo",
+    "unidad": "Detección de la violencia",
+    "pagina": 30,
+    "pregunta": "Cuando se observan inconsistencias entre los relatos de la madre, padre, tutor o cuidador, o de la misma víctima, y lo registrado por la maestra o el maestro, es posible que se esté frente a un caso de violencia. ¿Qué acción debe considerarse en estos casos?",
+    "opciones": [
+      "Solicitar únicamente una entrevista adicional con la familia para aclarar las inconsistencias.",
+      "Considerar una derivación hacia el centro de salud más cercano, donde el personal de salud podrá verificar, después de una revisión física, si existe la posibilidad de que la o el estudiante sea víctima de violencia.",
+      "Esperar a que la víctima presente una denuncia formal antes de tomar cualquier medida.",
+      "Remitir directamente el caso al Ministerio Público sin realizar ninguna valoración previa."
+    ],
+    "correcta": 1,
+    "explicacion": "La Guía establece que, cuando existen inconsistencias entre los relatos y las observaciones realizadas por la maestra o el maestro, debe considerarse la derivación al centro de salud más cercano para que el personal de salud realice una revisión física y determine si existe la posibilidad de que la o el estudiante sea víctima de violencia."
+  }
+]

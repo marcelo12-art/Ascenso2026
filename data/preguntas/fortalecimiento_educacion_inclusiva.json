@@ -1,0 +1,347 @@
+[
+  {
+    "id": 40,
+    "pdf": "Reglamento para el Fortalecimiento de la Educación Inclusiva",
+    "pregunta": "¿Qué cobertura deben alcanzar los maestros de apoyo o los maestros itinerantes, según el Reglamento para el Fortalecimiento de la Educación Inclusiva en el Sistema Educativo Plurinacional — Modalidad Indirecta?",
+    "opciones": [
+      "Lugares de difícil acceso, zonas dispersas, zonas fronterizas y de riveras donde habiten personas con discapacidad, además de quienes no puedan asistir al CEE más cercano por razones fortuitas, legales, patológicas o socioeconómicas extremas.",
+      "Únicamente las capitales de departamento donde existan Centros de Educación Especial.",
+      "Solo las unidades educativas urbanas con mayor cantidad de estudiantes.",
+      "Exclusivamente las comunidades rurales cercanas a un Centro de Educación Especial."
+    ],
+    "correcta": 0,
+    "explicacion": "El reglamento establece una cobertura amplia para garantizar la atención educativa a personas con discapacidad, incluso en lugares alejados o cuando no puedan asistir al Centro de Educación Especial."
+  },
+
+  {
+    "id": 59,
+    "pdf": "Reglamento para el Fortalecimiento de la Educación Inclusiva",
+    "pregunta": "Según el Reglamento para el Fortalecimiento de la Educación Inclusiva en el SEP – Modalidad Indirecta, ¿qué garantizará la capacitación progresiva del personal administrativo, de servicio y docente para apoyar a estudiantes con discapacidad, dificultades en el aprendizaje o talento extraordinario?",
+    "opciones": [
+      "Un trato de respeto con calidez.",
+      "La reducción de las funciones del personal docente.",
+      "La eliminación de las adecuaciones curriculares.",
+      "La atención exclusiva de estudiantes con discapacidad."
+    ],
+    "correcta": 0,
+    "explicacion": "La capacitación busca asegurar una atención inclusiva basada en el respeto, la calidez y la igualdad de oportunidades."
+  },
+
+  {
+    "id": 61,
+    "pdf": "Reglamento para el Fortalecimiento de la Educación Inclusiva",
+    "pregunta": "Según el «Reglamento para el Fortalecimiento de la Educación Inclusiva en el SEP – Modalidad Indirecta», realizar informes trimestrales sobre el desarrollo educativo, avances y logros del estudiante y presentarlos a la dirección educativa, es:",
+    "opciones": [
+      "Una función específica del maestro de apoyo a estudiantes con Dificultades en el Aprendizaje.",
+      "Una función exclusiva del director del Centro de Educación Especial.",
+      "Una responsabilidad del padre o madre de familia.",
+      "Una atribución exclusiva del equipo multidisciplinario."
+    ],
+    "correcta": 0,
+    "explicacion": "El reglamento asigna esta responsabilidad al maestro de apoyo que atiende a estudiantes con dificultades en el aprendizaje."
+  },
+
+  {
+    "id": 64,
+    "pdf": "Reglamento para el Fortalecimiento de la Educación Inclusiva",
+    "pregunta": "Conforme al Reglamento para el Fortalecimiento de la Educación Inclusiva en el SEP – Modalidad Indirecta, una vez que la maestra o maestro de aula de Educación Regular observe señales de alerta de posibles dificultades en el aprendizaje en alguno de sus estudiantes, deberá aplicar:",
+    "opciones": [
+      "La Guía de Observación - Detección de Signos de Riesgo de Dificultades en el Aprendizaje y derivar el caso según las conclusiones de la Ficha de Reporte.",
+      "Únicamente una evaluación escrita y registrar la calificación.",
+      "La suspensión temporal del estudiante hasta obtener un diagnóstico.",
+      "La derivación inmediata al Centro de Educación Especial sin realizar observaciones."
+    ],
+    "correcta": 0,
+    "explicacion": "El reglamento establece un procedimiento de detección, observación y derivación fundamentado en la Guía de Observación."
+  },
+
+  {
+    "id": 70,
+    "pdf": "Reglamento para el Fortalecimiento de la Educación Inclusiva",
+    "pregunta": "De acuerdo con el Reglamento para el Fortalecimiento de la Educación Inclusiva en el SEP – Modalidad Indirecta, «Efectivizar la Atención Educativa de estudiantes con discapacidad, dificultades en el aprendizaje o talento extraordinario con calidad y calidez en los diferentes años de escolaridad, niveles y modalidades del Sistema Educativo Plurinacional» corresponde a:",
+    "opciones": [
+      "Una finalidad del Reglamento.",
+      "Una atribución exclusiva de los Centros de Educación Especial.",
+      "Una función del Director Departamental de Educación.",
+      "Un principio de evaluación del aprendizaje."
+    ],
+    "correcta": 0,
+    "explicacion": "El reglamento establece como finalidad garantizar una atención educativa inclusiva con calidad y calidez para todos los estudiantes."
+  },
+
+  {
+    "id": 86,
+    "pdf": "Reglamento para el Fortalecimiento de la Educación Inclusiva",
+    "pregunta": "La siguiente afirmación: «Promover la matriculación e inscripción sin discriminación alguna en las Unidades, Centros e Instituciones Educativas de los Subsistemas de Educación Regular, Educación Superior y el Ámbito de Educación Alternativa, fiscales, de convenio o privadas», conforme al Reglamento para el Fortalecimiento de la Educación Inclusiva en el Sistema Educativo Plurinacional – Modalidad Indirecta corresponde a:",
+    "opciones": [
+      "Una finalidad del Reglamento.",
+      "Una función exclusiva de los Centros de Educación Especial.",
+      "Una atribución de las Direcciones Distritales de Educación.",
+      "Un requisito para la obtención del RUDE."
+    ],
+    "correcta": 0,
+    "explicacion": "El reglamento establece como finalidad garantizar el acceso a la educación sin discriminación en todos los subsistemas educativos."
+  },
+
+  {
+    "id": 87,
+    "pdf": "Reglamento para el Fortalecimiento de la Educación Inclusiva",
+    "pregunta": "¿Qué se otorga a las y los estudiantes inscritos al ser registrados en el Sistema de Información para su seguimiento académico?",
+    "opciones": [
+      "Un Código de Registro Único de Estudiante (RUDE).",
+      "Un certificado de permanencia estudiantil.",
+      "Una credencial institucional permanente.",
+      "Un código de identificación docente."
+    ],
+    "correcta": 0,
+    "explicacion": "El RUDE identifica de manera única al estudiante y permite realizar el seguimiento de su trayectoria académica."
+  },
+  {
+    "id": 97,
+    "pdf": "Reglamento para el Fortalecimiento de la Educación Inclusiva",
+    "pregunta": "Una maestra de aula que atiende a estudiantes con discapacidad intelectual y autismo desarrolla la detección temprana de señales de alerta en el grado y nivel de la Unidad Educativa del nivel de Educación Inicial en Familia Comunitaria o Primaria Comunitaria Vocacional del Subsistema de Educación Regular. Según el Reglamento para el Fortalecimiento de la Educación Inclusiva en el SEP, esta acción corresponde a:",
+    "opciones": [
+      "Una función del maestro de aula que atiende a estudiantes con discapacidad intelectual y autismo.",
+      "Una función exclusiva del maestro itinerante.",
+      "Una atribución del director del Centro de Educación Especial.",
+      "Una responsabilidad exclusiva del equipo multidisciplinario."
+    ],
+    "correcta": 0,
+    "explicacion": "El reglamento asigna al maestro de aula la responsabilidad de realizar la detección temprana de señales de alerta."
+  },
+
+  {
+    "id": 143,
+    "pdf": "Fortalecimiento de la Educación Inclusiva",
+    "unidad": "Inscripción de estudiantes",
+    "pagina": 6,
+    "pregunta": "Según el Reglamento para el Fortalecimiento de la Educación Inclusiva en el Sistema Educativo Plurinacional – Modalidad Indirecta, ¿independientemente de qué condiciones deben inscribirse todas las niñas, niños, adolescentes, jóvenes y adultos?",
+    "opciones": [
+      "Únicamente de su condición económica.",
+      "De sus condiciones del neurodesarrollo, personales, culturales, económicas y sociales, conforme a la normativa vigente.",
+      "Solo de su lugar de residencia y edad.",
+      "Exclusivamente de la disponibilidad de infraestructura educativa."
+    ],
+    "correcta": 1,
+    "explicacion": "El Reglamento establece que todas las personas deben ser inscritas sin discriminación por condiciones del neurodesarrollo, personales, culturales, económicas o sociales."
+  },
+
+  {
+    "id": 156,
+    "pdf": "Fortalecimiento de la Educación Inclusiva",
+    "unidad": "Responsabilidades de los directores",
+    "pagina": 12,
+    "pregunta": "¿Cuál de las siguientes constituye una responsabilidad de los directores de Instituciones de Educación Regular, Alternativa y Superior en el marco de la educación inclusiva?",
+    "opciones": [
+      "Autorizar únicamente la inscripción de estudiantes con discapacidad permanente.",
+      "Garantizar la inscripción o matriculación de estudiantes con discapacidad, dificultades en el aprendizaje y talento extraordinario, de acuerdo con la normativa vigente.",
+      "Derivar la inscripción de estudiantes con discapacidad exclusivamente a los Centros de Educación Especial.",
+      "Limitar la matrícula de estudiantes con necesidades educativas específicas cuando no exista infraestructura adecuada."
+    ],
+    "correcta": 1,
+    "explicacion": "El Reglamento establece que los directores deben garantizar la inscripción o matriculación de estudiantes con discapacidad, dificultades en el aprendizaje y talento extraordinario conforme a la normativa vigente."
+  },
+
+  {
+    "id": 161,
+    "pdf": "Fortalecimiento de la Educación Inclusiva",
+    "unidad": "Responsabilidades de directores",
+    "pagina": 12,
+    "pregunta": "¿A quién corresponde la responsabilidad de viabilizar espacios de coordinación con maestras, maestros y la comunidad educativa respecto a los procesos de apoyo educativo?",
+    "opciones": [
+      "Al maestro de apoyo especializado.",
+      "A las directoras y directores de instituciones educativas de Educación Regular, Alternativa y Superior.",
+      "Únicamente a los Centros de Educación Especial.",
+      "A las Direcciones Departamentales de Educación."
+    ],
+    "correcta": 1,
+    "explicacion": "El Reglamento establece que esta responsabilidad corresponde a las directoras y directores de instituciones educativas para fortalecer los procesos de apoyo educativo."
+  },
+
+  {
+    "id": 208,
+    "pdf": "Fortalecimiento de la Educación Inclusiva",
+    "unidad": "Funciones del maestro de apoyo",
+    "pagina": 35,
+    "pregunta": "¿Cuál de las siguientes corresponde a una función específica del maestro de apoyo a estudiantes con discapacidad intelectual?",
+    "opciones": [
+      "Diseñar el currículo nacional para estudiantes con discapacidad.",
+      "Acompañar a maestras y maestros de aula y realizar seguimiento al desempeño educativo de estudiantes con discapacidad intelectual que desarrollan procesos educativos en Educación Regular y Educación Alternativa.",
+      "Autorizar la inscripción de estudiantes con discapacidad en las unidades educativas.",
+      "Supervisar exclusivamente la infraestructura de los Centros de Educación Especial."
+    ],
+    "correcta": 1,
+    "explicacion": "El Reglamento establece como función del maestro de apoyo acompañar al docente de aula y realizar seguimiento al desempeño educativo de los estudiantes con discapacidad intelectual."
+  },
+
+  {
+    "id": 260,
+    "pdf": "Reglamento de Fortalecimiento de la Educación Inclusiva",
+    "unidad": "Responsabilidades de los estudiantes",
+    "pagina": 14,
+    "pregunta": "En el marco del Reglamento para el Fortalecimiento de la Educación Inclusiva, ¿qué obligación tienen los estudiantes con necesidades y/o potencialidades educativas que requieren apoyo educativo?",
+    "opciones": [
+      "Asistir únicamente a las actividades de apoyo especializado.",
+      "Cumplir las tareas propias del grado o nivel en el que se encuentren registrados, realizando las adecuaciones necesarias.",
+      "Ser evaluados únicamente mediante pruebas orales.",
+      "Participar exclusivamente en actividades de educación especial."
+    ],
+    "correcta": 1,
+    "explicacion": "El Reglamento establece que los estudiantes deben cumplir las tareas correspondientes al grado o nivel en el que están inscritos, considerando las adecuaciones que requieran."
+  },
+
+  {
+    "id": 311,
+    "pdf": "Reglamento para el Fortalecimiento de la Educación Inclusiva en el SEP – Modalidad Indirecta",
+    "unidad": "Responsabilidades de Directoras y Directores de Instituciones Educativas de Educación Regular, Alternativa y Superior",
+    "pagina": 10,
+    "pregunta": "¿Cuál de las siguientes opciones es una responsabilidad exclusiva de las Directoras y Directores de Instituciones Educativas de Educación Regular, Alternativa y Superior en el marco del Reglamento para el Fortalecimiento de la Educación Inclusiva?",
+    "opciones": [
+      "Garantizar la inscripción o matriculación de estudiantes con discapacidad, dificultades en el aprendizaje y talento extraordinario, de acuerdo con la normativa y/o convocatoria vigente.",
+      "Elaborar diagnósticos clínicos para determinar el tipo de discapacidad de los estudiantes antes de su inscripción.",
+      "Designar a las maestras y maestros de apoyo de todos los Centros de Educación Especial del departamento.",
+      "Autorizar el cierre temporal de instituciones educativas que no cuenten con infraestructura accesible."
+    ],
+    "correcta": 0,
+    "explicacion": "El Artículo 12, inciso a, establece como responsabilidad de las Directoras y Directores garantizar la inscripción o matriculación de estudiantes con discapacidad, dificultades en el aprendizaje y talento extraordinario, conforme a la normativa y/o convocatoria vigente."
+  },
+
+  {
+    "id": 323,
+    "pdf": "Reglamento para el Fortalecimiento de la Educación Inclusiva en el SEP – Modalidad Indirecta",
+    "unidad": "Resolución de aprobación",
+    "pagina": 1,
+    "pregunta": "¿Cuál es la Resolución Ministerial que aprueba el Reglamento para el Fortalecimiento de la Educación Inclusiva en el Sistema Educativo Plurinacional – Modalidad Indirecta?",
+    "opciones": [
+      "Resolución Ministerial N.º 1040/2022.",
+      "Resolución Ministerial N.º 0069/2025.",
+      "Resolución Ministerial N.º 001/2024.",
+      "Resolución Ministerial N.º 0815/2023."
+    ],
+    "correcta": 1,
+    "explicacion": "El Reglamento para el Fortalecimiento de la Educación Inclusiva en el Sistema Educativo Plurinacional – Modalidad Indirecta fue aprobado mediante la Resolución Ministerial N.º 0069/2025, tal como se señala en la portada del documento."
+  },
+
+  {
+    "id": 324,
+    "pdf": "Reglamento para el Fortalecimiento de la Educación Inclusiva en el SEP – Modalidad Indirecta",
+    "unidad": "Marco Jurídico",
+    "pagina": 3,
+    "pregunta": "¿Qué Resolución Ministerial se encuentra en el Marco Jurídico del Reglamento para el Fortalecimiento de la Educación Inclusiva en el SEP – Modalidad Indirecta?",
+    "opciones": [
+      "Resolución Ministerial N.º 0069/2025, que aprueba el Reglamento para el Fortalecimiento de la Educación Inclusiva.",
+      "Resolución Ministerial N.º 1040/2022, del 22 de noviembre de 2022, que aprueba los Lineamientos Curriculares de Educación Inclusiva para el Sistema Educativo Plurinacional.",
+      "Resolución Ministerial N.º 0815/2023, que aprueba el Reglamento de Educación Especial.",
+      "Resolución Ministerial N.º 001/2024, que regula la evaluación inclusiva."
+    ],
+    "correcta": 1,
+    "explicacion": "El artículo 3, inciso j), del Reglamento incorpora dentro del Marco Jurídico la Resolución Ministerial N.º 1040/2022, de 22 de noviembre de 2022, que aprueba los Lineamientos Curriculares de Educación Inclusiva para el Sistema Educativo Plurinacional."
+  },
+
+  {
+    "id": 401,
+    "pdf": "Reglamento para el Fortalecimiento de la Educación Inclusiva en el SEP – Modalidad Indirecta",
+    "unidad": "Planificación Curricular de Aula",
+    "pagina": 29,
+    "pregunta": "¿En qué marco se desarrolla la Planificación Curricular de Aula, según el Reglamento para el Fortalecimiento de la Educación Inclusiva del SEP – Modalidad Indirecta?",
+    "opciones": [
+      "En el marco del Diseño Plural para los Aprendizajes según las necesidades y potencialidades educativas que presentan los estudiantes con discapacidad, dificultades en el aprendizaje y talento extraordinario.",
+      "En el marco del currículo base, aplicando las mismas estrategias metodológicas para todos los estudiantes sin realizar adecuaciones.",
+      "En el marco de programas de nivelación académica dirigidos exclusivamente a estudiantes con discapacidad.",
+      "En el marco de planes institucionales elaborados únicamente por los Centros de Educación Especial."
+    ],
+    "correcta": 0,
+    "explicacion": "El artículo 60 del Reglamento establece que la Planificación Curricular de Aula se desarrolla en el marco del Diseño Plural para los Aprendizajes, considerando las necesidades y potencialidades educativas de estudiantes con discapacidad, dificultades en el aprendizaje y talento extraordinario."
+  },
+
+  {
+    "id": 412,
+    "pdf": "Reglamento para el Fortalecimiento de la Educación Inclusiva en el SEP – Modalidad Indirecta",
+    "unidad": "Funciones de los maestros de apoyo",
+    "pagina": 18,
+    "pregunta": "¿Cuál de las siguientes es una función específica tanto de los maestros de apoyo de estudiantes con condición o Trastorno del Espectro Autista como de discapacidad intelectual, dentro del Reglamento para el Fortalecimiento de la Educación Inclusiva en el SEP – Modalidad Indirecta?",
+    "opciones": [
+      "Coordinar y realizar procesos de sensibilización y/o capacitación que garanticen una atención pertinente y oportuna para realizar acciones con la comunidad educativa.",
+      "Autorizar la promoción automática de estudiantes con discapacidad intelectual al siguiente grado.",
+      "Emitir diagnósticos clínicos sobre el Trastorno del Espectro Autista y la discapacidad intelectual.",
+      "Determinar de manera exclusiva las adecuaciones curriculares de todas las unidades educativas."
+    ],
+    "correcta": 0,
+    "explicacion": "Los artículos 35 y 38 del Reglamento establecen como función común de los maestros de apoyo coordinar y realizar procesos de sensibilización y/o capacitación con la comunidad educativa para garantizar una atención pertinente y oportuna."
+  },
+
+  {
+    "id": 415,
+    "pdf": "Reglamento para el Fortalecimiento de la Educación Inclusiva en el SEP – Modalidad Indirecta",
+    "unidad": "Responsabilidades de las Maestras y Maestros de Aula",
+    "pagina": 11,
+    "pregunta": "¿Cuál de las siguientes opciones describe correctamente el conjunto completo de responsabilidades de las Maestras y Maestros de Aula, de acuerdo con el Reglamento para el Fortalecimiento de la Educación Inclusiva en el SEP – Modalidad Indirecta?",
+    "opciones": [
+      "Desarrollar la Planificación Curricular de Aula y procesos educativos accesibles en el marco del Diseño Plural para los Aprendizajes; desarrollar y garantizar procesos educativos de calidad; sensibilizar en temáticas de respeto a la diversidad; y desarrollar procesos de evaluación aplicando estrategias, instrumentos y materiales adecuados.",
+      "Elaborar diagnósticos clínicos de estudiantes con discapacidad, autorizar adecuaciones curriculares y supervisar el trabajo de los maestros de apoyo.",
+      "Diseñar exclusivamente materiales educativos adaptados para estudiantes con discapacidad y coordinar la asignación de recursos económicos para la inclusión educativa.",
+      "Realizar evaluaciones psicopedagógicas, emitir informes técnicos obligatorios y autorizar el ingreso de estudiantes con discapacidad al sistema educativo."
+    ],
+    "correcta": 0,
+    "explicacion": "El artículo 13 del Reglamento establece que las Maestras y Maestros de Aula deben desarrollar la Planificación Curricular de Aula y procesos educativos accesibles bajo el Diseño Plural para los Aprendizajes, garantizar procesos educativos de calidad, promover el respeto a la diversidad y aplicar estrategias, instrumentos y materiales adecuados en la evaluación."
+  },
+
+  {
+    "id": 601,
+    "pdf": "Reglamento para el Fortalecimiento de la Educación Inclusiva en el SEP – Modalidad Indirecta",
+    "unidad": "Funciones del maestro de apoyo para estudiantes con discapacidad auditiva",
+    "pagina": 14,
+    "pregunta": "¿Cuál de las siguientes funciones específicas corresponde a un maestro de apoyo de estudiantes con discapacidad auditiva?",
+    "opciones": [
+      "Explica palabras nuevas y abstractas mediante la ejemplificación y la contextualización con situaciones reales en LSB, utilizando recursos lingüísticos que coadyuven en este propósito (pidgin, señas provisionales, entre otras).",
+      "Realiza diagnósticos clínicos sobre la discapacidad auditiva y prescribe tratamientos de rehabilitación.",
+      "Autoriza las adecuaciones curriculares para estudiantes con discapacidad auditiva en todas las unidades educativas.",
+      "Evalúa de manera exclusiva el rendimiento académico de los estudiantes con discapacidad auditiva y define su promoción."
+    ],
+    "correcta": 0,
+    "explicacion": "El artículo 24, inciso e), del Reglamento establece como función específica del maestro de apoyo para estudiantes con discapacidad auditiva explicar palabras nuevas y abstractas mediante la ejemplificación y la contextualización con situaciones reales en Lengua de Señas Boliviana (LSB), utilizando recursos lingüísticos como el pidgin y las señas provisionales."
+  },
+
+  {
+    "id": 602,
+    "pdf": "Reglamento para el Fortalecimiento de la Educación Inclusiva en el SEP – Modalidad Indirecta",
+    "unidad": "Funciones del maestro de apoyo para estudiantes con discapacidad auditiva",
+    "pagina": 15,
+    "pregunta": "Una de las funciones de las maestras y maestros de apoyo para estudiantes con discapacidad auditiva es:",
+    "opciones": [
+      "Interpretar en Lengua de Señas Boliviana en todos los actos y eventos organizados por la Institución Educativa.",
+      "Realizar evaluaciones médicas especializadas para determinar el grado de discapacidad auditiva de los estudiantes.",
+      "Autorizar la promoción escolar de los estudiantes con discapacidad auditiva al finalizar cada gestión.",
+      "Diseñar exclusivamente el currículo de la Institución Educativa para estudiantes con discapacidad auditiva."
+    ],
+    "correcta": 0,
+    "explicacion": "El artículo 24, inciso k), del Reglamento establece que una de las funciones de las maestras y maestros de apoyo para estudiantes con discapacidad auditiva es interpretar en Lengua de Señas Boliviana (LSB) en todos los actos y eventos organizados por la Institución Educativa."
+  },
+
+  {
+    "id": 661,
+    "pdf": "Reglamento para el Fortalecimiento de la Educación Inclusiva en el SEP – Modalidad Indirecta",
+    "unidad": "Procedimiento para la atención educativa",
+    "pagina": 21,
+    "pregunta": "De acuerdo al procedimiento para la atención educativa, una vez que se identifique la presencia de Dificultades Específicas en el Aprendizaje, el estudiante podrá inscribirse en un Centro de Educación Especial para recibir el apoyo educativo correspondiente en modalidad:",
+    "opciones": ["Directa.", "Indirecta.", "Especializada.", "Complementaria."],
+    "correcta": 1,
+    "explicacion": "El artículo 44, inciso d), del Reglamento para el Fortalecimiento de la Educación Inclusiva establece que, una vez identificadas las Dificultades Específicas en el Aprendizaje, el estudiante podrá inscribirse en un Centro de Educación Especial para recibir el apoyo educativo correspondiente en la modalidad indirecta."
+  },
+
+  {
+    "id": 828,
+    "pdf": "Reglamento para el Fortalecimiento de la Educación Inclusiva en el SEP – Modalidad Indirecta",
+    "unidad": "Definiciones",
+    "pagina": 4,
+    "pregunta": "Considerando que la Educación Inclusiva es parte indisoluble del Modelo Educativo Sociocomunitario Productivo, que se constituye como política educativa del Estado Plurinacional de Bolivia, ¿qué brinda?",
+    "opciones": [
+      "Respuestas educativas oportunas a las necesidades, expectativas, intereses, ritmos, estilos y potencialidades de aprendizaje de las y los estudiantes de la diversidad de los grupos poblacionales y personas que habitan el país.",
+      "Únicamente apoyo pedagógico a estudiantes con discapacidad permanente mediante Centros de Educación Especial.",
+      "Exclusivamente adecuaciones curriculares para estudiantes con dificultades en el aprendizaje y talento extraordinario.",
+      "Servicios de atención psicológica y médica para estudiantes con necesidades educativas específicas."
+    ],
+    "correcta": 0,
+    "explicacion": "El artículo 4, inciso h), del Reglamento para el Fortalecimiento de la Educación Inclusiva define que la Educación Inclusiva brinda respuestas educativas oportunas a las necesidades, expectativas, intereses, ritmos, estilos y potencialidades de aprendizaje de las y los estudiantes de la diversidad de los grupos poblacionales y personas que habitan el país."
+  }
+]

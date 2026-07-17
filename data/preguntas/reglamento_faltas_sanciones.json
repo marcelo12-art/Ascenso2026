@@ -1,0 +1,95 @@
+[
+  {
+    "id": 96,
+    "pdf": "Reglamento de Faltas y Sanciones",
+    "pregunta": "¿Cuál de las siguientes situaciones constituye una falta muy grave?",
+    "opciones": [
+      "La reincidencia voluntaria en faltas graves.",
+      "El retraso ocasional en el ingreso a clases.",
+      "La omisión involuntaria de una actividad administrativa.",
+      "La ausencia justificada por motivos de salud."
+    ],
+    "correcta": 0,
+    "explicacion": "El reglamento considera como falta muy grave la reincidencia voluntaria en faltas graves."
+  },
+
+  {
+    "id": 138,
+    "pdf": "Reglamento de Faltas y Sanciones",
+    "unidad": "Sanciones por faltas graves",
+    "pagina": 13,
+    "pregunta": "¿Cuál de las siguientes opciones presenta correctamente las sanciones correspondientes a las faltas graves según el Reglamento de Faltas y Sanciones?",
+    "opciones": [
+      "Llamada de atención verbal y memorándum escrito.",
+      "Suspensión sin goce de haberes de quince (15) a sesenta (60) días, postergación de ascenso por un año o descenso a un cargo inferior.",
+      "Destitución inmediata en todos los casos.",
+      "Únicamente una multa económica equivalente a treinta días de haber."
+    ],
+    "correcta": 1,
+    "explicacion": "El Reglamento establece que las faltas graves pueden sancionarse con suspensión sin goce de haberes, postergación del ascenso o descenso a un cargo inferior."
+  },
+
+  {
+    "id": 139,
+    "pdf": "Reglamento de Faltas y Sanciones",
+    "unidad": "Faltas graves del personal docente",
+    "pagina": 10,
+    "pregunta": "Si en un proceso disciplinario se comprueba que existió una elevada deserción de alumnos causada por la ineptitud o malos tratos del maestro, ¿qué sanción corresponde según el Reglamento de Faltas y Sanciones?",
+    "opciones": [
+      "Únicamente una llamada de atención escrita.",
+      "Se considera falta grave y puede sancionarse con suspensión sin goce de haberes de quince (15) a sesenta (60) días, postergación de ascenso por un año o descenso a un cargo inferior.",
+      "Solo la obligación de asistir a cursos de capacitación.",
+      "Ninguna sanción, únicamente una recomendación escrita."
+    ],
+    "correcta": 1,
+    "explicacion": "La deserción elevada ocasionada por ineptitud o malos tratos constituye una falta grave y se sanciona conforme al artículo 13 del Reglamento."
+  },
+
+  {
+    "id": 264,
+    "pdf": "Reglamento de Faltas y Sanciones",
+    "unidad": "Principios del procedimiento disciplinario",
+    "pagina": 5,
+    "pregunta": "Si una autoridad suspende preventivamente a un maestro antes de concluir el proceso disciplinario y sin comprobar su culpabilidad, ¿qué principio vulnera?",
+    "opciones": [
+      "El principio de presunción de inocencia y las garantías del debido proceso.",
+      "El principio de jerarquía administrativa.",
+      "El principio de eficiencia institucional.",
+      "El principio de legalidad presupuestaria."
+    ],
+    "correcta": 0,
+    "explicacion": "El Reglamento protege la presunción de inocencia y el debido proceso; la suspensión inmediata solo procede en los casos expresamente previstos por la norma."
+  },
+
+  {
+    "id": 265,
+    "pdf": "Reglamento de Faltas y Sanciones",
+    "unidad": "Procedimiento disciplinario",
+    "pagina": 14,
+    "pregunta": "¿Qué consecuencia jurídica tiene una sanción disciplinaria impuesta sin cumplir las normas procesales establecidas en el Reglamento de Faltas y Sanciones?",
+    "opciones": [
+      "La sanción se reduce automáticamente.",
+      "La sanción se considera inexistente.",
+      "La sanción queda suspendida por treinta días.",
+      "La sanción solo puede ser revisada por el Director Departamental."
+    ],
+    "correcta": 1,
+    "explicacion": "El Reglamento establece expresamente que toda sanción impuesta sin observar el procedimiento legal carece de validez y se considera inexistente."
+  },
+
+  {
+    "id": 388,
+    "pdf": "Reglamento de Faltas y Sanciones",
+    "unidad": "Recursos",
+    "pagina": 18,
+    "pregunta": "¿En un proceso disciplinario seguido a un maestro, qué recurso puede interponer si se creyere agraviado?",
+    "opciones": [
+      "Recurso de reposición ante la misma autoridad que emitió la resolución.",
+      "Recurso extraordinario de revisión ante el Ministerio de Educación.",
+      "Recurso de apelación o alzada ante el Tribunal Nacional.",
+      "Recurso de casación ante la Corte Suprema de Justicia."
+    ],
+    "correcta": 2,
+    "explicacion": "El artículo 25 del Reglamento de Faltas y Sanciones establece que el maestro que se considere agraviado por una resolución disciplinaria puede interponer el recurso de apelación o alzada ante el Tribunal Nacional."
+  }
+]
