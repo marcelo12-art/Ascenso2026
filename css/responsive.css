@@ -1,0 +1,86 @@
+/* ==============================
+   RESPONSIVE CELULAR
+============================== */
+
+@media (max-width: 600px) {
+  .examen-container {
+    width: 100%;
+    padding: 15px;
+    margin: 20px auto;
+  }
+
+  .pregunta-card {
+    padding: 20px;
+  }
+
+  .pregunta-card h3 {
+    font-size: 22px;
+    line-height: 1.4;
+    margin-bottom: 25px;
+  }
+
+  .opciones {
+    gap: 15px;
+  }
+
+  .opciones label {
+    font-size: 18px;
+    line-height: 1.4;
+    padding: 15px;
+  }
+
+  .barra-superior {
+    font-size: 16px;
+  }
+
+  .botones button {
+    width: 140px;
+    height: 50px;
+    font-size: 16px;
+  }
+}
+
+/* ==============================
+   RESULTADOS EN CELULAR
+============================== */
+
+@media (max-width: 600px) {
+  .resultado-container {
+    width: 95%;
+    padding: 15px;
+  }
+
+  .resultado-titulo {
+    font-size: 28px;
+    text-align: center;
+  }
+
+  .puntaje {
+    font-size: 45px;
+  }
+
+  .estadisticas {
+    font-size: 18px;
+  }
+
+  .pregunta-resultado {
+    padding: 15px;
+    margin-bottom: 15px;
+  }
+
+  .pregunta-resultado h3 {
+    font-size: 20px;
+    line-height: 1.4;
+  }
+
+  .respuesta-correcta,
+  .respuesta-incorrecta {
+    font-size: 17px;
+    line-height: 1.4;
+  }
+
+  button {
+    width: 90%;
+    font-size: 18px;
+  }
+}

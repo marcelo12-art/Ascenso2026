@@ -295,3 +295,49 @@
 
   text-align: center;
 }
+
+/* ============================
+   ADAPTACIÓN PARA CELULARES
+============================ */
+
+@media (max-width: 600px) {
+  .login-container {
+    padding: 20px;
+  }
+
+  .marca-agua {
+    width: 500px;
+    height: 500px;
+  }
+
+  .escudo {
+    width: 120px;
+  }
+
+  .ministerio {
+    font-size: 30px;
+  }
+
+  .linea-colores {
+    width: 180px;
+    margin: 15px 0 25px;
+  }
+
+  .titulo {
+    font-size: 34px;
+  }
+
+  .gestion {
+    font-size: 32px;
+  }
+
+  .lbl-codigo {
+    font-size: 18px;
+  }
+
+  .btn-ingresar {
+    width: 280px;
+    height: 60px;
+    font-size: 22px;
+  }
+}
